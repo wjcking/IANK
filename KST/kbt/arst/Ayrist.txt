@@ -1,0 +1,41 @@
+Ayrister:ATFU,AEFH
+Smlnk:Nn-NZ
+Aymerk:R
+
+Ayretis:Atistke.ATIO-Arstikal.AERO
+An:Ti,Tie //n.smlnk
+  O(tea:tae)S //Telivis
+  O(Ate:Taye)AE //Nevate
+T:Are:Aye:Eeya
+
+Karaiket(Args)Visaid 
+  I:Arkmit.Arkjinsn.Aitejis
+  E:Airerjinskao.Ryferb:O
+  U:Ayfusk
+Antifuseu //A_N(VY)Enti-fus
+Atair:I,O,L
+Airefushin//(W:O)
+
+Furcel:Relic.Polyleakible.Chaos[Rick~Reak]Kaeoiz
+Fu:SOL:COl //Refabric
+  el_rel:sel_rsel:
+  sa_rsa
+  lsa:rlsa:rsal //intike:l:lint. soleakible 
+  cel_rcel //intrik:c trikeas
+  sal_ral 
+Fur:R:RL:RCL
+
+ANT:Alt-Fu:Alter:AE
+  A:Start //meylouk solaic ions
+  N:Layer.Ryske.Interlick
+
+  Z:Ayende
+  D:Odimentals:Isodek
+
+  LoukMegan
+
+  I:Ionike
+  N:Meylink
+  Z:Beoseck.Leonike //Sayde
+  L.D:Noke.Leonade.KapyNore* //Metrol Kayde
+AT:Alter-Fur:Alt:AE

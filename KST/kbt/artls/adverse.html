@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>(</title>
+    <style>
+        body {
+            /*height: 100%;
+            width: 100%;*/
+            font-size: 28px;
+            font-family: 'Microsoft Sans Serif';
+        }
+
+        p {
+            line-height: 28px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        .alignLeft {
+            text-align: left;
+        }
+
+        .alignRight {
+            text-align: right;
+        }
+
+        .desc {
+            font-style: italic;
+            font-size: 12px;
+            color: orangered;
+        }
+        /****************************************************************************************/
+        .adverse {
+            transform: rotateX(180deg);
+        }
+
+        .flipped {
+            transform: rotateY(-180deg); /* for chrome and safari */
+            /*transform: skew(0deg, 180deg) scale(-1, 1); /* for opera */ */
+            /*overflow-x:hidden;*/
+            /*float:left;至接draw到右边去 所以放到在左边*/
+        }
+        .collapsed {
+          width:245px;
+    height:245px;
+    /* */
+    text-align:center;
+    transform:rotateY(-160deg);
+    
+        }
+             /* */
+
+        .verticalLeft {
+            writing-mode: vertical-lr; /*从左向右 从右向左是 writing-mode: vertical-rl;*/
+        }
+
+        .verticalRight {
+            writing-mode: vertical-rl; /*从左向右 从右向左是 writing-mode: vertical-rl;*/
+        }
+    </style>
+</head>
+<body>
+
+    <p class="normal">上：阿 Aa كق</p>
+    <p class="adverse">上：阿 Aa كق</p>
+    <p class="normal">从左向右 从右向左是</p>
+    <p class="adverse">从左向右 从右向左是</p>
+    <p class="normal">अ	आ	इ	ई	उ	ऊ	ए	ऐ	ओ	औ</p>
+    <p class="adverse">अ	आ	इ	ई	उ	ऊ	ए	ऐ	ओ	औ</p>
+ <!--   <p class="desc">从左向右 从右向左是</p>-->
+    <div class="alignLeft">
+        <p class="flip" style="float: left">中轴：阿 Aa  كق </p>
+        <div style="clear: both;"></div>
+    </div>
+    <p class="desc">中轴翻转</p>
+    <p class="flipped">上：阿 Aa  كق </p>
+    <br />
+    <p class="collapsed">上倒 阿 Aa  كق </p> 
+</body>
+</html>

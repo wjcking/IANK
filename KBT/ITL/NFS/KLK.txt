@@ -1,0 +1,17 @@
+﻿TRK
+
+MST
+	TKS:TSK
+	LKT^AE:LKS	
+	BSK:RSK:LSK
+	//FKT^AN:KFS
+
+	NFS
+	ZXS:JXS
+		asm
+		ltl
+	HZH
+
+	//FANG.TFS
+	//SKR.KL	KMR:LRK
+TSM

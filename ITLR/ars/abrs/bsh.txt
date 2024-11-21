@@ -1,0 +1,22 @@
+﻿ARS.BRS.RBR^S
+//及申
+RBR.SLS
+//RCS^L.ATB
+//贴边.对接
+BRS
+	//LXR	BLS^AO //中牙
+	//贴边.边定角
+	LTS^RUW.VTS //AE W O
+
+  PLG:BLK.LRGS
+  KLK.BLZ//及什
+  KBR^W.KRK.BSH.KB^NR //卡波二 比什卡克
+ 
+  //ETS
+  //BSH_E.RPK
+  //PSH^AO:RBK_AL
+  //BCH:NCH:NKS
+  //BCH^AL:NS_E:ECH^S
+BLS
+
+BST.NKS.MCH^ST

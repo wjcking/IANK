@@ -1,0 +1,14 @@
+﻿#Include IOStream
+#Include FStream
+#include Graphics
+
+//GdiPlus ObjIdl
+#Pragma Comment(lib,"Gdiplus.lib")
+
+Using Namespace Gdiplus
+ 
+Accessory Static ReturnType FunctionName(TypeParameters) 
+Begin
+  FunctionContent
+  ReturnContent
+End

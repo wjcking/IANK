@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <script src="content/jquery/jquery-3.5.1.min.js"></script>
+  <style>
+    .ribbon
+    {
+      background-color: yellow;
+      position: absolute;
+      left: 10px;
+      top: 20px;
+      opacity: 0.6;
+      width: 50px;
+      height: 20px;
+      z-index: 1;
+    }
+    
+    .preditor
+    {
+      font-size: 16px;
+      border: 0px;
+      background-color: lightyellow;
+      z-index: 0;
+      font-family: Verdana;
+      outline: none;
+    }
+    
+    .span
+    {
+      vertical-align: top;
+    }
+    
+    .parent
+    {
+      font-size: 16px;
+      display: flex;
+      align-items: flex-start;
+      flex-wrap: nowrap;
+      height: 100%;
+    }
+    
+    .child
+    {
+      width: 40%;
+    }
+    
+    .line-each div
+    {
+      width: 30px;
+      height: 20px;
+      color: burlywood;
+      border-bottom: 1px dotted white;
+      background-color: lightyellow;
+      padding: 2px 2px 2px 2px;
+    }
+  </style>
+</head>
+<body>
+  <div class="parent">
+    <div id="left" class="line-each">
+      <div>
+        1</div>
+      <div>
+        2</div>
+      <div>
+        3</div>
+      <div>
+        4</div>
+      <div>
+        5</div>
+      <div>
+        11</div>
+      <div>
+        22</div>
+      <div>
+        43</div>
+      <div>
+        54</div>
+      <div>
+        55</div>
+    </div>
+    <textarea id="textarea" cols="180" rows="50" class="preditor">
+维今 F1
+   
+   
+回溯R1-Color.Blue 
+</textarea>
+    <div id="right" class="line-each">
+      <div>
+        R1</div>
+      <div>
+        B2</div>
+      <div>
+        E3</div>
+      <div>
+        D4</div>
+      <div>
+        5W</div>
+      <div>
+        1F</div>
+      <div>
+        2F</div>
+      <div>
+        4G</div>
+      <div>
+        F4</div>
+      <div>
+        W1</div>
+    </div>
+    <!--  <span class="ribbon"></span>-->
+  </div>
+  <script>
+    $("textarea").on(
+            'keydown',
+            function (e) {
+              if (e.keyCode == 9) {
+                e.preventDefault();
+                var indent = '    ';
+                var start = this.selectionStart;
+                var end = this.selectionEnd;
+                var selected = window.getSelection().toString();
+                selected = indent + selected.replace(/\n/g, '\n' + indent);
+                this.value = this.value.substring(0, start) + selected
+                        + this.value.substring(end);
+                this.setSelectionRange(start + indent.length, start
+                        + selected.length);
+              }
+        })
+
+        function a(p) {
+            document.write(arguments.length);
+            document.write(p);
+        } 
+        a("abc");
+  </script>
+</body>
+</html>

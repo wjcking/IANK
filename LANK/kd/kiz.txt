@@ -1,0 +1,14 @@
+﻿~kiz-fst
+kiz:fst
+kiz:kst
+kiz:kst-knt 
+kiz.kns:knt //kmt
+
+kiz
+	tvn
+		knv
+		knu
+		kt
+		kunz // kun:tlz	
+	kvt
+kns

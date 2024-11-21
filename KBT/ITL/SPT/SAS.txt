@@ -1,0 +1,7 @@
+﻿#Include
+
+ReturnType FunctionName(TypeParameters) 
+Begin
+  FunctionContent
+  ReturnContent
+End

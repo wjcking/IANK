@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="../../content/jquery/jquery-3.5.1.min.js"></script>
+    <link href="../../content/lumia-style/lumia.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+<body>
+
+
+<!--<div id="title" style="margin:0;padding:5px 0 0 10px;height:25px; width:100%; background-color:black;color:white; ">
+    附体记录生命体 
+   <span style="float:right;padding-right:20px;"> <b style="color:gainsboro">Φ</b> 编译</span>
+</div>-->
+<div id="contain" >
+<pre id="editor">
+</pre>
+<div id="compiler">
+    <div id="console"></div>
+    <div id="table"></div>
+    <div id="vector">
+    <!--<svg style="height:0%;"></svg>-->
+    </div>
+</div>
+<div id="commit">
+    <div id="compiled" desc="&234"></div>
+</div>
+</div>
+
+<div id="java">
+    <script src="../../content/ace-editor/ace.js"></script>
+    <script src="../../content/ace-editor/ace-settings.js"></script>
+    <script type="text/javascript">
+
+        editor.insert("asdf");
+            var counter = 1;
+        function refresh() {           
+
+          //  for (var i = 0; i < 800; i++)
+            editor.setValue(counter + "Something cool\r\n");
+            counter++
+        }
+        function invoke() {
+            setInterval("refresh()", 1);
+        }
+    </script>
+</div>
+</body>
+
+</html>

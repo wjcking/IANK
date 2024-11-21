@@ -1,0 +1,29 @@
+﻿Sybert
+  Singlet:Puskeful.Kounte.OneOnly.Absockly //int[][]
+      Lysoc
+      Karyact:Symbol,Numberic,Charlet
+  Singallor.Spase.Wyresk
+  Separator 
+    Systemed.Space
+    Systemed.Escaped
+  Connector
+  Bracket:Puskeful.Kounte.Dual
+    Systemed.Escaped
+nks
+/*
+* String:Thread.Notpad:Left Right 1024 
+*/
+Systemed:Cybert.Separator
+  Enbreaked:Separator
+    rtn_nd:\r\n
+    rtn_r:\r //010 回车(CR) ，将当前位置移到本行开头
+    rtn_n:\n //012 换行(LF) ，将当前位置移到下一行开头
+  Escaped:SystemOrginated:Separator,Bracket
+    Tabled:\t  
+    Dashed:\\  
+    Quote:\'  
+    Quotes:\" 
+
+  //Metrics.Vertical.Array
+  //English
+  Spaced:Separator:" " 

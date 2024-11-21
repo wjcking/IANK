@@ -1,0 +1,93 @@
+﻿//Arkmit Archimedes Aregjyimide
+/eunix-euclid
+//orgeride  orgyride eurgyrid
+阿几米的
+  人类眼睛起始视觉角度 观看形态 弯曲 棱角错综 牵引出球地 长大 学习 四柯力忑道用脑 能开始分析 理序得出：
+  人类视觉角度 多种形态  形态认知为起始点 当具有分析和汇总归纳形态能力为起始界定点刻画 几何学科 最原始 最年轻
+
+  应该是现总结归纳出，然后再知道定义用的是动作 交叉 对接 //Stack.Moblized 
+欧几里特.尤尼克斯
+//unix unity seck
+//circlet sequallet
+//route.svg
+//nine x unie kcs
+//rensay-sequallet, vessat
+尤你可四.元苏七元十
+  元土沃 土火元 托远 拓园 椭圆
+    点 线 弓
+    交叉工标杆
+  互辛心州.周心弧五
+尼特斯克 元心点.宇宙元素起 
+
+//summerize,utilize generalize
+//analytical\absock-cybert\eunix-euclid.html
+//Ryske
+
+尤尼克斯.欧几里得  //Eiunix Universal.Element Euclid:Include
+  @点 线 弧
+  数学 操作符    
+  人类学科.理科,文科,工科
+    待分类和理序
+  公式与函数
+    方针 方式 方成 规范化	//公式
+  钫克
+索莱科.帮助利用
+
+欧几里得.单元统一.基础认知与利用.公式与函数//Unitfy Unity
+  线点弧 尤尼克斯 
+    指数与对数
+     exp (double);  log (double); 以e为底的对数   log10 (double);c++中自然对数函数：log(N)   
+    取整
+     取上整 ceil (double); 
+    取下整  floor (double); 
+    绝对值
+    double fabs (double);
+    标准化浮点数
+    取整与取余
+    double modf (double, double*); //将参数的整数部分通过指针回传, 返回小数部分
+    double fmod (double, double);  //返回两参数相除的余数
+  三角形
+    勾股  sin   cos  tan 
+    反勾股  asin   acos (double);   atan (double);   atan2 (double, double);  
+    双曲  sinh   cosh    tanh 
+
+  正方形
+   开平方 sqrt(double x)
+   幂次 pow (double, double); 
+涵术括围单挑方程式
+
+
+艾萨克.空间 //Ayonlet 
+  人类视觉空间:声明体觉察
+    平面 -艾索克^埃索代克 立体 
+  人累视觉铀偏差:艾昂莱特
+    梅切克 梅切克斯 麦迪柯  梅洛克 
+  洛克梅根.觉察
+莱昂尼克
+
+索莱克:艾萨克
+  空间感应后内分析细节 否则 克能:爱索尼克:快速维赛锝 //Isonic Vezaid
+  艾克斯X艾克赛斯:艾索科
+    内 边颜 外 
+  艾克萨斯:埃索代克
+  伊莱克斯?
+    交叉 对接
+  克特:单  多 双三四 :数与个
+    铯 
+    边 长与维
+    角 度 
+    面 钫
+
+    柯纳:三边面//Korner Flat|TyK|Isodecked 
+    成积
+  索莱得.莱昂尼克
+  艾索克.埃索代克 //Isoc Isodec
+ *梅洛克 //Meyloc Myluok
+    视觉与艾萨克
+    平面.屏幕:空间平面.洛克觉铯
+      基础认知常规 
+    泰克隆 //Tricycle
+    梅切克Metric Metrix Mytic Mytrik
+  维塞锝.泰克米克 //AngleMick Renlie.Minor.Triangle  
+
+莱昂 多娜 尼克

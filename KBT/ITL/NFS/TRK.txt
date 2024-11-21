@@ -1,0 +1,22 @@
+﻿ITLR
+
+TRK
+	LNK^TH
+  KLN.PLS_DR
+  KR^TK_EA^L //KERIKET ADD
+
+    LCK^G //MSAIK KANG
+    RDF:CHF_A //MAODIFAI
+
+    MLK
+  KLT
+
+  BTS
+		LST.ATRZK
+  BDS
+
+  KTN.RSK^T
+    //DLT^B
+    //RLS_E
+  LCK
+KLD
