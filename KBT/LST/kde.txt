@@ -1,16 +1,16 @@
-﻿kri:ftn.fst
+﻿KRI:FTN.FST
 
-//ITN:ATN:TSN lNSTN  LNKN ATKN
-dsr.ist.lank
-ksn
-	kit:kvt
-	kst~i:kiz //kast
-	krs.kfs //rns blk fenk
-kns.tks
+//ITN:ATN:TSN LNSTN  LNKN ATKN
+DSR.IST.LANK
+KSN
+	KIT:KVT
+	KST~I:KIZ //KAST
+	KRS.KFS //RNS BLK FENK
+KNS.TKS
 
-//kdks klsk
-//sls^esh sd_a
-//slk.kkd:ktn
-//kast.kaz
-//kkd:knt
+//KDKS KLSK
+//SLS^ESH SD_A
+//SLK.KKD:KTN
+//KAST.KAZ
+//KKD:KNT
 //NIKLAOI NIK~LAN

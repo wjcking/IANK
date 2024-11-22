@@ -1,29 +1,29 @@
-﻿KZDT^aA^N
+﻿KZDT^AA^N
 MSAIK^KANG
 
-rkb
-	fenk:$=4~4~8
+RKB
+	FENK:$=4~4~8
 		THUMB:10^2$8
 		TWO^TOP 
-	hand
+	HAND
 
-	pst:lsk
-	kuv.keaoz_td
-knt
+	PST:LSK
+	KUV.KEAOZ_TD
+KNT
 
 //KTLD
 TWERTV^1QX:TURKIN
-twokmk:3^5
+TWOKMK:3^5
 	//所柯云
-	dtx^b.klx
-	dsg_wy_lr:lrg^lr
-		rg.dk:ltb.dslk_a
-		rg_l.dk.rg.dk.c
-	rgl_u
+	DTX^B.KLX
+	DSG_WY_LR:LRG^LR
+		RG.DK:LTB.DSLK_A
+		RG_L.DK.RG.DK.C
+	RGL_U
 
-	rfb.k:g:jg:cj
-	erd_an^o
-		tch.ag.l^r
-		rk.tg^an.l^r
-	rgl_u.rsl^r
-twoklk
+	RFB.K:G:JG:CJ
+	ERD_AN^O
+		TCH.AG.L^R
+		RK.TG^AN.L^R
+	RGL_U.RSL^R
+TWOKLK
