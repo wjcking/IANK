@@ -36,8 +36,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.89708895"
-     inkscape:cx="616.43832"
-     inkscape:cy="378.44631"
+     inkscape:cx="382.34782"
+     inkscape:cy="423.03498"
      inkscape:window-width="1858"
      inkscape:window-height="1057"
      inkscape:window-x="54"
@@ -284,7 +284,7 @@
     <path
        id="path1182"
        style="fill:#ffffff;stroke:#000000;stroke-width:0.825971;stroke-dasharray:4.95583, 0.825971"
-       d="m 302.28849,-58.950815 a 12.68769,12.68769 0 0 1 -12.68769,12.68769 12.68769,12.68769 0 0 1 -12.68769,-12.68769 12.68769,12.68769 0 0 1 12.68769,-12.687689 12.68769,12.68769 0 0 1 12.68769,12.687689 z" />
+       d="m 262.17727,-45.383784 a 12.68769,12.68769 0 0 1 -12.68769,12.68769 12.68769,12.68769 0 0 1 -12.68769,-12.68769 12.68769,12.68769 0 0 1 12.68769,-12.687689 12.68769,12.68769 0 0 1 12.68769,12.687689 z" />
     <path
        id="path38"
        d="M 79.098472,16.58018 238.5045,175.52306"
@@ -368,7 +368,7 @@
        id="path314" />
     <g
        id="g34774"
-       transform="matrix(-1.7943844,0,0,1.7943844,556.81268,-393.72224)">
+       transform="matrix(-1.7943844,0,0,1.7943844,516.70146,-380.15521)">
       <text
          id="text318"
          y="189.75443"
@@ -384,25 +384,25 @@
     </g>
     <text
        id="text10705"
-       y="140.51347"
-       x="271.98166"
+       y="110.67568"
+       x="273.73669"
        style="font-size:5.8894px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.441706"
        xml:space="preserve"
        transform="scale(1.1763628,0.85007788)"><tspan
          style="fill:#000000;stroke-width:0.441706"
-         y="140.51347"
-         x="271.98166"
+         y="110.67568"
+         x="273.73669"
          sodipodi:role="line"
          id="tspan11155">IST</tspan><tspan
          id="tspan10701"
          style="fill:#000000;stroke-width:0.441706"
-         y="147.87523"
-         x="271.98166"
+         y="118.03744"
+         x="273.73669"
          sodipodi:role="line" /><tspan
          id="tspan10703"
          style="fill:#000000;stroke-width:0.441706"
-         y="155.23698"
-         x="271.98166"
+         y="125.39918"
+         x="273.73669"
          sodipodi:role="line" /></text>
     <path
        id="rect12467"
@@ -411,16 +411,16 @@
     <path
        id="circle12537"
        style="fill:#f9f9f9;stroke:#000000;stroke-width:0.637042"
-       d="m 346.92659,-1.2329305 a 9.7855568,9.7855568 0 0 1 -9.78556,9.785557 9.7855568,9.7855568 0 0 1 -9.78556,-9.785557 9.7855568,9.7855568 0 0 1 9.78556,-9.7855555 9.7855568,9.7855568 0 0 1 9.78556,9.7855555 z" />
+       d="m 290.00405,-18.929058 a 9.7855568,9.7855568 0 0 1 -9.78556,9.7855574 9.7855568,9.7855568 0 0 1 -9.78556,-9.7855574 9.7855568,9.7855568 0 0 1 9.78556,-9.785555 9.7855568,9.7855568 0 0 1 9.78556,9.785555 z" />
     <text
        id="text12577"
-       y="3.1057065"
-       x="332.16855"
+       y="-14.590421"
+       x="275.246"
        style="font-size:11.8193px;line-height:1.25;font-family:sans-serif;stroke-width:0.886444"
        xml:space="preserve"><tspan
          style="stroke-width:0.886444"
-         y="3.1057065"
-         x="332.16855"
+         y="-14.590421"
+         x="275.246"
          id="tspan12575"
          sodipodi:role="line">N</tspan></text>
     <text
@@ -483,14 +483,14 @@
          id="tspan12595" /></text>
     <text
        xml:space="preserve"
-       style="font-size:10.4723px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke:#000000;stroke-width:0.247872;stroke-dasharray:none"
+       style="font-size:10.4723px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke:#000000;stroke-width:0.04;stroke-dasharray:none"
        x="199.45758"
        y="150.64767"
        id="text12605"
        transform="scale(1.0494996,0.95283504)"><tspan
          sodipodi:role="line"
          id="tspan12603"
-         style="stroke:#000000;stroke-width:0.247872;stroke-dasharray:none"
+         style="stroke:#000000;stroke-width:0.04;stroke-dasharray:none"
          x="199.45758"
          y="150.64767">K</tspan></text>
     <text
@@ -528,27 +528,27 @@
          y="-19.695459">I</tspan></text>
     <text
        id="text2301"
-       y="147.85156"
-       x="272.0267"
+       y="118.01377"
+       x="273.78174"
        style="font-size:5.93503px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.445129"
        xml:space="preserve"
        transform="scale(1.1763628,0.85007788)"><tspan
          style="fill:#000000;stroke-width:0.445129"
-         y="147.85156"
-         x="272.0267"
+         y="118.01377"
+         x="273.78174"
          sodipodi:role="line"
          rotate="0 0 0 0 0 0 0 0 0"
          id="tspan1">VST</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:9.4945px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke:#000000;stroke-width:0.224;stroke-dasharray:none"
+       style="font-size:9.4945px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke:#000000;stroke-width:0.04;stroke-dasharray:none"
        x="195.38921"
        y="154.83485"
        id="text6192"
        transform="scale(1.0167139,0.98356086)"><tspan
          sodipodi:role="line"
          id="tspan6190"
-         style="stroke:#000000;stroke-width:0.224;stroke-dasharray:none"
+         style="stroke:#000000;stroke-width:0.04;stroke-dasharray:none"
          x="195.38921"
          y="154.83485">N</tspan></text>
     <path
@@ -610,27 +610,27 @@
     <text
        xml:space="preserve"
        style="font-size:11.2218px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#7d7dff;fill-opacity:1;stroke:#7d7dff;stroke-width:0.32752;stroke-dasharray:none;stroke-opacity:1"
-       x="259.34473"
-       y="137.37747"
+       x="261.02432"
+       y="106.19974"
        id="text2"
        transform="scale(1.2291902,0.81354374)"><tspan
          sodipodi:role="line"
          id="tspan2"
          style="fill:#7d7dff;fill-opacity:1;stroke:#7d7dff;stroke-width:0.32752;stroke-dasharray:none;stroke-opacity:1"
-         x="259.34473"
-         y="137.37747">K</tspan></text>
+         x="261.02432"
+         y="106.19974">K</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.2218px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#b4e100;fill-opacity:1;stroke:#b4e100;stroke-width:0.32752;stroke-dasharray:none;stroke-opacity:1"
-       x="266.57593"
-       y="137.37747"
+       x="268.25552"
+       y="106.19974"
        id="text7"
        transform="scale(1.2291902,0.81354374)"><tspan
          sodipodi:role="line"
          id="tspan7"
          style="fill:#b4e100;fill-opacity:1;stroke:#b4e100;stroke-width:0.32752;stroke-dasharray:none;stroke-opacity:1"
-         x="266.57593"
-         y="137.37747">D</tspan></text>
+         x="268.25552"
+         y="106.19974">D</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.3003px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.643774"
@@ -930,34 +930,34 @@
     </g>
     <text
        id="text10705-7"
-       y="85.221581"
-       x="320.37241"
+       y="53.368553"
+       x="346.62167"
        style="font-size:5.52212px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.41416"
        xml:space="preserve"><tspan
          style="fill:#000000;stroke-width:0.41416"
-         y="85.221581"
-         x="320.37241"
+         y="53.368553"
+         x="346.62167"
          sodipodi:role="line"
          id="tspan11155-7">VRSK</tspan><tspan
          id="tspan10701-5"
          style="fill:#000000;stroke-width:0.41416"
-         y="92.124229"
-         x="320.37241"
+         y="60.271202"
+         x="346.62167"
          sodipodi:role="line" /><tspan
          id="tspan10703-5"
          style="fill:#000000;stroke-width:0.41416"
-         y="99.026878"
-         x="320.37241"
+         y="67.173851"
+         x="346.62167"
          sodipodi:role="line" /></text>
     <text
        id="text2301-2"
-       y="92.102058"
-       x="320.41464"
+       y="60.249031"
+       x="346.66391"
        style="font-size:5.56491px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.417369"
        xml:space="preserve"><tspan
          style="fill:#000000;stroke-width:0.417369"
-         y="92.102058"
-         x="320.41464"
+         y="60.249031"
+         x="346.66391"
          sodipodi:role="line"
          rotate="0 0 0 0 0 0 0 0 0 0"
          id="tspan1-9">KRLS</tspan></text>
@@ -1457,28 +1457,6 @@
          id="tspan23-08"
          sodipodi:role="line">VZS</tspan></text>
     <text
-       id="text12587-5"
-       y="180.12889"
-       x="30.481813"
-       style="font-size:6.66916px;line-height:1.25;font-family:sans-serif;stroke-width:0.500188"
-       xml:space="preserve"
-       transform="scale(1.1039387,0.9058474)"><tspan
-         style="stroke-width:0.500188"
-         y="180.12889"
-         x="30.481813"
-         sodipodi:role="line"
-         id="tspan29602-0">LINXR</tspan><tspan
-         style="stroke-width:0.500188"
-         y="188.46535"
-         x="30.481813"
-         sodipodi:role="line"
-         id="tspan12583-4" /><tspan
-         style="stroke-width:0.500188"
-         y="196.80179"
-         x="30.481813"
-         sodipodi:role="line"
-         id="tspan12585-1" /></text>
-    <text
        id="text46"
        y="150.57407"
        x="31.435217"
@@ -1491,45 +1469,67 @@
          id="tspan41"
          sodipodi:role="line" /><tspan
          style="fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-         y="158.16457"
+         y="158.16458"
          x="31.435217"
          sodipodi:role="line"
          id="tspan42" /><tspan
          style="fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-         y="165.75507"
+         y="165.7551"
          x="31.435217"
          sodipodi:role="line"
-         id="tspan44">ISNYK MHWT</tspan><tspan
+         id="tspan44" /><tspan
          style="fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-         y="173.3456"
+         y="173.34561"
          x="31.435217"
          sodipodi:role="line"
          id="tspan45" /><tspan
          style="fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-         y="180.9361"
+         y="180.93611"
          x="31.435217"
          sodipodi:role="line"
          id="tspan46" /></text>
     <text
-       id="text66"
-       y="180.17903"
-       x="52.213989"
+       id="text12587-5"
+       y="189.38348"
+       x="30.214647"
        style="font-size:6.66916px;line-height:1.25;font-family:sans-serif;stroke-width:0.500188"
        xml:space="preserve"
        transform="scale(1.1039387,0.9058474)"><tspan
          style="stroke-width:0.500188"
-         y="180.17903"
-         x="52.213989"
+         y="189.38348"
+         x="30.214647"
+         sodipodi:role="line"
+         id="tspan29602-0">LINXR</tspan><tspan
+         style="stroke-width:0.500188"
+         y="197.71994"
+         x="30.214647"
+         sodipodi:role="line"
+         id="tspan12583-4" /><tspan
+         style="stroke-width:0.500188"
+         y="206.05638"
+         x="30.214647"
+         sodipodi:role="line"
+         id="tspan12585-1" /></text>
+    <text
+       id="text66"
+       y="189.5164"
+       x="51.946823"
+       style="font-size:6.66916px;line-height:1.25;font-family:sans-serif;stroke-width:0.500188"
+       xml:space="preserve"
+       transform="scale(1.1039387,0.9058474)"><tspan
+         style="stroke-width:0.500188"
+         y="189.5164"
+         x="51.946823"
          sodipodi:role="line"
          id="tspan64">BELIS</tspan><tspan
          style="stroke-width:0.500188"
-         y="188.51547"
-         x="52.213989"
+         y="197.85286"
+         x="51.946823"
          sodipodi:role="line"
          id="tspan65" /><tspan
          style="stroke-width:0.500188"
-         y="196.85193"
-         x="52.213989"
+         y="206.1893"
+         x="51.946823"
          sodipodi:role="line"
          id="tspan66" /></text>
     <text
@@ -1792,24 +1792,24 @@
          id="tspan39" /></text>
     <text
        id="text58"
-       y="178.88773"
-       x="32.27634"
+       y="170.29208"
+       x="32.275932"
        style="font-size:6.58784px;line-height:1.25;font-family:sans-serif;stroke-width:0.49409"
        xml:space="preserve"
-       transform="scale(1.0401661,0.96138493)"><tspan
+       transform="scale(1.0401661,0.96138492)"><tspan
          style="stroke-width:0.49409"
-         y="178.88773"
-         x="32.27634"
+         y="170.29208"
+         x="32.275932"
          sodipodi:role="line"
          id="tspan56">YATE LANDIS</tspan><tspan
          style="stroke-width:0.49409"
-         y="187.12253"
-         x="32.27634"
+         y="178.52689"
+         x="32.275932"
          sodipodi:role="line"
          id="tspan57" /><tspan
          style="stroke-width:0.49409"
-         y="195.35733"
-         x="32.27634"
+         y="186.76169"
+         x="32.275932"
          sodipodi:role="line"
          id="tspan58" /></text>
     <rect
@@ -1872,6 +1872,28 @@
          x="187.35664"
          sodipodi:role="line"
          id="tspan40" /></text>
+    <text
+       id="text49"
+       y="157.8689"
+       x="33.437801"
+       style="font-size:6.41928px;line-height:1.25;font-family:sans-serif;stroke-width:0.481447"
+       xml:space="preserve"
+       transform="scale(1.0135489,0.98663219)"><tspan
+         style="stroke-width:0.481447"
+         y="157.8689"
+         x="33.437801"
+         sodipodi:role="line"
+         id="tspan43">ISNYK MHWT</tspan><tspan
+         style="stroke-width:0.481447"
+         y="165.89299"
+         x="33.437801"
+         sodipodi:role="line"
+         id="tspan47" /><tspan
+         style="stroke-width:0.481447"
+         y="173.9171"
+         x="33.437801"
+         sodipodi:role="line"
+         id="tspan49" /></text>
   </g>
 </svg>
 <!--wjcking-->
