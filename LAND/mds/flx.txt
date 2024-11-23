@@ -1,4 +1,4 @@
-﻿TLS:TLF-FST
+TLS:TLF-FST
 	
 FLX#LIN
 	FENK

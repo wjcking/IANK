@@ -1,4 +1,4 @@
-﻿<KSN>
+<KSN>
 
 FNT^FNS
 	FSN:FNS
