@@ -1,4 +1,4 @@
-﻿~FST
+~FST
 
 //KL:TRK:BTS
 TLK:TLD

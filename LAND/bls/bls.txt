@@ -1,4 +1,4 @@
-﻿krs.trs^l
+krs.trs^l
 
 brs^l
 	ext //ILAIK CHANIK FWT

@@ -1,4 +1,4 @@
-﻿//NSK
+//NSK
 
 //ats.mts.rks:alk
 //KT.KNS^L:TK
