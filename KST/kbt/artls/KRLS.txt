@@ -1,33 +1,33 @@
-﻿
-Intelly
-Gist:JavaScript.Kayet FondKater KaretFond//A definting name with Struct of Data Martials  fonds
-  JavaScript.Variant.PerferArranged:
-  LocalText-Webhtml.CommonUnify
-    LocalStorage
-    Replace.Method
-      ace  kma  qto
- Dcibt
-  Keyboard.Habit.Analysis
-Text
-Asnic.Advent
-  KetSelf Term
-   Habit:Culture.Global
-  Student
-    Kinder
-    School
-    Colledge
-  Kareer Develop
-  Career Users
-    Junior Midage Seinor
-  Retired
- AyricFond
-  Trykodye //Delta
+﻿INTELLY
 
-Current-Interest:Device.Research
-  Celly~Pad-Kom:CommonInterest:
-  news
-  chat
-  song
-  moive
-  humanly.music
-Andyuser.Anaytick
+GIST:JAVASCRIPT.KAYET FONDKATER KARETFOND//A DEFINTING NAME WITH STRUCT OF DATA MARTIALS  FONDS
+  JAVASCRIPT.VARIANT.PERFERARRANGED:
+  LOCALTEXT-WEBHTML.COMMONUNIFY
+    LOCALSTORAGE
+    REPLACE.METHOD
+      ACE  KMA  QTO
+ DCIBT
+  KEYBOARD.HABIT.ANALYSIS
+TEXT
+ASNIC.ADVENT
+  KETSELF TERM
+   HABIT:CULTURE.GLOBAL
+  STUDENT
+    KINDER
+    SCHOOL
+    COLLEDGE
+  KAREER DEVELOP
+  CAREER USERS
+    JUNIOR MIDAGE SEINOR
+  RETIRED
+ AYRICFOND
+  TRYKODYE //DELTA
+
+CURRENT-INTEREST:DEVICE.RESEARCH
+  CELLY~PAD-KOM:COMMONINTEREST:
+  NEWS
+  CHAT
+  SONG
+  MOIVE
+  HUMANLY.MUSIC
+ANDYUSER.ANAYTICK

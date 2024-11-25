@@ -5,19 +5,19 @@
 *人说元数论
 *贝欧里克:立索特:艾昂尼克
 */
-iank.s
-lank.bst
+IANK.S
+LANK.BST
 
-kds.skt
-ktb.skr //ttk
+KDS.SKT
+KTB.SKR //TTK
 
-ltlrs.bst^p
-bsk^o
-rsk
-  lst^o.ftn.lck
-  lkt.kst^al
-  //ltls
-  rts.rth.ats
-  tls.ln
-rsh
-bsk^l
+LTLRS.BST^P
+BSK^O
+RSK
+  LST^O.FTN.LCK
+  LKT.KST^AL
+  //LTLS
+  RTS.RTH
+  TLS
+RSH
+BSK^L
