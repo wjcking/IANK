@@ -1,7 +1,7 @@
 ﻿KST
 SKR.KRS//KL.KD.KS LTL.TLS.LDX
 
-//LTS_W
+//LTS^WO
 ITLS:LANK
 
 KB^NR:KDE
@@ -11,7 +11,7 @@ ITL^R
 	ANNI:ICT
 		
 	KD.NKS~VSD
-	GSK
+	GSK^RLS
 		<RTH-SC>
 		MCH^R //MKS
 		LWK //MEL
