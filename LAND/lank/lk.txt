@@ -49,7 +49,7 @@ LKS
 	TLS
 		//TLS:ITZ^X^S
 		//TLK:IXS^TV
-		~ATS^X
+		ATS~X
 		AXS-TV
 		TVX:IXS:SLK
 	ITLS

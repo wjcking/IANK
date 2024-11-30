@@ -1,0 +1,34 @@
+﻿//https://en.cppreference.com/w/cpp/string/basic_string
+size
+length
+max_size
+resize
+capacity
+reserve
+clear
+empty
+shrink_to_fit 
+
+at
+front 
+back
+
+append
+pop_back 
+push_back
+assign
+insert
+erase
+replace
+swap //Swap string values 
+
+c_str //Get C-string equivalent
+copy
+find //Find first occurrence in string 
+rfind
+find_first_of
+find_last_of
+find_first_not_of
+find_last_not_of
+substr
+compare

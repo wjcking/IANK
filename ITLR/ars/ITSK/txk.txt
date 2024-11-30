@@ -1,6 +1,6 @@
 ﻿FSN
 
-TV//LVCH LN7S
+TV//LVCH IN7S
 	SH
 	CH
 	ZH

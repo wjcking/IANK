@@ -1,0 +1,17 @@
+﻿KRT:KBT
+
+MST
+	TKS:TSK
+	LKT^AE:LKS	
+	BSK:RSK:LSK
+	//FKT^AN:KFS
+
+	NFS:ISK
+	ZXS:JXS
+		sas:asm
+		vls^w:tl
+	HZH
+
+	//FANG.TFS
+	//SKR.KL	KMR:LRK
+TSM
