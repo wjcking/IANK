@@ -1,0 +1,71 @@
+﻿Puskeful:Sequence,Kounte,Utility
+  Fontain
+  Lisodeck:Color
+  Artleniz.Ayebert.Kinect:Ayrick.Entride 
+  Dcayebt
+  Deposit
+
+Component.Carowlet:Carelet:Rowlet
+  Carelet:Border
+    Customize.Border
+    Customize:NumberMarks
+    LineNumber.Adjustment
+ 
+   Directive
+    Line.Lent-Bine.Back
+    //Pine.Pink Vine.Vink//斜向
+    Tine.Tink-Shon.Shock //Ketub
+    
+     //Born
+
+Cybert.CasualSerial:Ccskie.Static-Dynamic
+  Enkric Inclick Enkelic  Yeinclick Yeinkelic
+    Entrust
+    Enclyde
+  //Intelliy
+  //Cybert.Serial.String:Fonctional
+  //String.BasicFunction.Relate:FuncRect
+  
+  Enkelic.Corner:Karfoc //FuncRect:Karect Karact Side.Karfunc
+  Carblock:Stack.Verb.Most(Angle,Side)
+  Cafet:Stick.Noun
+    Cafet()
+      short line1();
+      short line2();
+      short line3();      
+    Cafet()
+    Cafet.Line(1,3);
+    Cafet.Pine(4,8);
+    short word1();
+    short word2();
+    short word3(();
+  Container
+  *Enkric.PageLimite.ArrayRectily
+    Computer.CompileRequired
+      StringTailend.Disregard.EnterReturn.Index(Start,End)
+      StringEntered.Mind..Line(Start,End)
+    Comsek.Laykes.Directly
+  Enkric.Lecter.Line(1,3)
+  Enkric.Levter.Pine(3,23)
+Klyizdon//Alyic.Html Lines:19
+  Display:Prototype
+  Performance.Intrigration
+    
+Karrow
+  Lent
+Askor.KarrectEnkric.BytePixelly
+
+Kelyston.KarectOnly.Winform.ListBox
+Entric.Intrust: 
+Kounte.LineNumber
+Ayebert.BlockDesigner
+Aybert.Forcell.Care.RowLent
+ Karfon
+//Artleniz.Averylock.Style:Matically:Axized
+//Format
+//  Passage:
+//    Paragraph:ImageBuilder
+//      Wayver.Solidically.AxsizStyle Letter,Woke
+//        NationalFlag
+//  Tablet
+//Eryket:Aryleck
