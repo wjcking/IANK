@@ -1,19 +1,11 @@
 ﻿RTL.ATV
-	ASNK
+	ISNK
 	KLS.BTF.KLH
-	KLH_L:R H G E  K //ART	
+	KLH@L:R H G E  K //ART	
 TZH
 
 卡路四_巴希方_卡两(亮,立卬,李昂)河
 柯
-	水士一安卬
-	地印安阿厄:丫一安阿和
-  //ABT:RTL:KRD.LSA:LHR
-  //VCD:LING
-  厄吾甘或互^邯火 
-  
-  以个来立各^吾我:客个更格克
-
   卡兹柯:阿(艾)热特兹卡
 		//口日(米)月目(合)中
 	木卡米子柯

@@ -1,12 +1,12 @@
-﻿krt.TRK.SRT:XRT-ets
+﻿KRT.TRK.SRT:XRT-ETS
 
 TXK
-  its~iXs:isx:IXS~T
-	  ats.AXS
-      flc-flz
-    iTX
+  ITS~IXS:ISX:IXS~T
+	  ATS.AXS
+      FLC-FLZ
+    ITX
 	FLS~ZTX-S
-xrt~TXH
+XRT~TXH
 
 XRK
   //PST
@@ -16,5 +16,5 @@ XRK
 		<TRS.ZTS.SRT^X>
   //KANZD
 	//(FANK)
-	KTS.nts:ZTX-S:LZ~LJ
+	KTS.NTS:ZTX-S:LZ~LJ
 KNT^I-T~X

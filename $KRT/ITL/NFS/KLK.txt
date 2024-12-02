@@ -8,8 +8,8 @@ MST
 
 	NFS:ISK
 	ZXS:JXS
-		sas:asm
-		vls^w:tl
+		sas:hxz
+		vls^w:itl
 	HZH
 
 	//FANG.TFS
