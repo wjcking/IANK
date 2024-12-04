@@ -55,8 +55,6 @@ public struct ccskie
                 error.AppendLine(e.ErrorText);
             error.AppendLine("失败");
         }
-
-
         return error.ToString();
     }
 }
