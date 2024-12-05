@@ -1,5 +1,8 @@
 ﻿isk:stk
-t:s.i
+
+//S.T~D.K
+//STK:SDK
+t:s.i 
 	t
 	k
 	tk
@@ -7,7 +10,7 @@ t:s.i
 	kt
 ist
 
-~itr-tsk
+itr-tsk
 trs
 	krt
 	//itr.stk.kns:tns

@@ -14,10 +14,19 @@ KRT:KCT
   STK
 KZT
 
-//SILVA SLIP SPIT SLEEP ADVERCKO^I
+[FN:ITN~W:UNKNOWN^KG]
 KCT~VZS
-  KDE:MZT.EXTH 
+  \***\
+  \*
+  \*~S^k
+  \*  SILVA SLIP SPIT SLEEP ADVERCKO^I
+  \*  500.Faiw.Five.Year
+  \*  wu jin chun
+  \*  wu xiao han
+  \*d
+  \***\ 
   WZN^CHN
+  KDE:MZT.EXTH
 VNS
 
 //HDL HBE

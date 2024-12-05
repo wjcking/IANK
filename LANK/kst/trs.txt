@@ -6,9 +6,9 @@ dsr
 dns
 
 tsr
-	\\dwf~dnf
-	lws
-	wls
+	//dwf~dnf
+	//lws
+	//wls
 	
 	itl:its^itr:tsi
 	isk:itr:iank

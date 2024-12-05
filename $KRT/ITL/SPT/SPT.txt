@@ -3,8 +3,13 @@
 SAS //C
 SPY //CYLANG CYPLUS
 	SAP //PYTHON
-	SAZ //JAVA
-	//SPV JAVASCRIPT
+	SPV//JAVASCRIPT
+	
+	//JAVA 
+	//https://projects.eclipse.org/ 
+	//https://www.formdev.com/jformdesigner/
+	//Eclipse ATL
+	SAZ 
 SPK //CSHN
 
 ISK.ITL-WLS.SPT
