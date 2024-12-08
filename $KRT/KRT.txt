@@ -17,14 +17,16 @@ KZT
 [FN:ITN~W:UNKNOWN^KG]
 KCT~VZS
   \***\
-  \*
-  \*~S^k
+  \*TRF:FLC
+  \*~S^K
   \*  SILVA SLIP SPIT SLEEP ADVERCKO^I
-  \*  500.Faiw.Five.Year
-  \*  wu jin chun
-  \*  wu xiao han
-  \*d
-  \***\ 
+  \*  500.FAIW.FIVE.YEAR
+  \*  klr^a^yellow //color
+  \*  skr-C
+  \*  WU JIN CHUN
+  \*  WU XIAO HAN
+  \*D
+  \***\
   WZN^CHN
   KDE:MZT.EXTH
 VNS

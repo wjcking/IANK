@@ -1,4 +1,6 @@
-﻿0b0000_0000	0	0	0x00	NUL(null)   空字符
+﻿ASCII
+
+0b0000_0000	0	0	0x00	NUL(null)   空字符
 0b0000_0001	1	1	0x01	SOH(start of headline)  标题开始
 0b0000_0010	2	2	0x02	STX(start of text) 正文开始
 0b0000_0011	3	3	0x03	ETX(end of text)   正文结束
