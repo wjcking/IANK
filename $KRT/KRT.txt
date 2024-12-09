@@ -17,15 +17,20 @@ KZT
 [FN:ITN~W:UNKNOWN^KG]
 KCT~VZS
   \***\
-  \*TRF:FLC
-  \*~S^K
-  \*  SILVA SLIP SPIT SLEEP ADVERCKO^I
-  \*  500.FAIW.FIVE.YEAR
-  \*  klr^a^yellow //color
-  \*  skr-C
-  \*  WU JIN CHUN
-  \*  WU XIAO HAN
-  \*D
+  TRF:FLC
+  I~S^K
+    1984.3.28~
+    hengshui jiao tong ju jiashu yuan
+    hengshui shi chen^g~zj-zhi~ja^z shu yuan
+    SILVA SLIP SPIT SLEEP ADVERCKO^I
+    500.FAIW.FIVE.YEAR
+    klr^a^yellow //kolor-c
+    skr-C
+    mercury
+    WU JIN CHUN
+      WU JIN lv
+    WU XIAO HAN
+  D
   \***\
   WZN^CHN
   KDE:MZT.EXTH

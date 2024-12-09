@@ -12,13 +12,13 @@ ITL^R
 	GSK^RLS
 		<RTH-SC>
 		MCH^R //MKS
-		LWK //MEL
-		MGN
+		LWK
+		MGN-fang^ets^X:xrk//MEL
 		
 		[SRD:DSR]
 		HRK~ITLR.RZK^S.RTL
 	GST
-	
+	//^T-ZTS~JXS~NKS-NTS
 	NKS~VSD:RST^VD
 	RLS:RZK^CS //RSH:MTH
 	LWK~RZK~RCS //RCH~MCH
