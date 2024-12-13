@@ -15,7 +15,7 @@ ITL^R
 		LWK
 		MGN-fang^ets^X:xrk//MEL
 		
-		[SRD:DSR]
+		[DSR:SRD]
 		HRK~ITLR.RZK^S.RTL
 	GST
 	//^T-ZTS~JXS~NKS-NTS
