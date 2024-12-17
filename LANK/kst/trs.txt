@@ -1,21 +1,22 @@
-﻿srt
+﻿SRT
 
-dsr
-	its^k:kzn
-	\\fst
-dns
+//TRS:DRS
+DSR
+	ITS^K:KZN
+	\\FST
+DNS
 
-tsr
-	//dwf~dnf
-	//lws
-	//wls
+TSR
+	//DWF~DNF
+	//LWS
+	//WLS
 	
-	itl:its^itr:tsi
-	isk:itr:iank
-rts
-//rst~i-l
+	ITL:ITS^ITR:TSI
+	ISK:ITR:IANK
+RTS
+//RST~I-L
 
 //SRT.SRD:NTS^R
-dnf:tfs.srt
+DNF:TFS.SRT
 //TSN
 

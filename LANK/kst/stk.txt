@@ -1,16 +1,18 @@
-﻿ist^k
-iank~s
+﻿IST^K
+IANK~S
 
-trs.trk
-~rst-vst!
+TRS.TRK
+~RST-VST!
 
-kst.fst
-	tsr:itr //dsr
-	trt^tri
-		trf.tfs.kfs //tsf
-		//tuk^luk:nzd.vct
-		//nst:tsn
-		<-tri~k-isk>
-	~tut
-kri~lsk
-
+KST.FST
+	TRI-TRT 
+	TFS:TSF:TRF //KFS
+	<-TRI~K-ISK>
+	TST^KST.KTS~KUNZ
+	TSR:IRT
+    //TRT^UN:TUT^R:RST!V~D^S
+		//TUK^LUK:NZD.VCT
+		//NST:TSN
+	  <IRK>
+	DSR
+KRI~LSK

@@ -54,7 +54,7 @@ Raferal:Intelick.Rind.Koz
   Y.V=NZ
   Z.V:U.S
   KTX:VL:KXT:S:TKX
-Formrike:Antifusial
+Formrike:Antifusial //FXS
 
 //Feral.Itialian.Ferrero
 Rydiffer.Beosike.SmallBigger.DifferMost

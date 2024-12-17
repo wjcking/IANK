@@ -1,6 +1,6 @@
 ﻿kst.kns:tns
 
-//s.z v
+//S.Z V
 kzt
 	ku
 	kn
@@ -11,9 +11,4 @@ tzk
 	tn
 kzt //ktz
 
-kst^k //knk
-
-//kde:kb^nr
-
-
-
+kst^k //KNK

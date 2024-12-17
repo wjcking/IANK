@@ -3,7 +3,7 @@ kns.krt:knt
 lst-lsd
 
 ist:stk
-ktr~kdr
+ktr-kdr
 	<kst:tsk~fsk-dst>
 	<skt:stk:kts-kkt~fst>
 	trk
@@ -17,4 +17,4 @@ ktr~kdr
 		//kaz kast kdrz
 		kiz 
 	knt
-krt-klt:kld
+krt~klt:kld
