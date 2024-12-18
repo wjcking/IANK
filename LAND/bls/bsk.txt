@@ -1,4 +1,4 @@
-isk.dsr:tsr
-tsr.bst:dst
+ISK.DSR:TSR
+TSR.BST:DST
 
-dms.mds
+DMS.MDS

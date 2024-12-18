@@ -1,11 +1,8 @@
-krs.trs^l
+KRS.TRS^L
 
-brs^l
-	ext //ILAIK CHANIK FWT
-	txk	//txh^X
-kct:rcs
+BRS^L
+	EXT //ILAIK CHANIK FWT
+	TXK	//TXH^X
+KCT:RCS
 
-vst.rst
-
-
-
+VST.RST
