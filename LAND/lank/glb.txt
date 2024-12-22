@@ -2,7 +2,7 @@ GRS^KRS
 
 LWOTES
 GLB_WO
-	//GLG LWG WNMS
+	//GLG LWG WNMS.KUNZ
 		
 	ist:ict:rtl:lank
 	
