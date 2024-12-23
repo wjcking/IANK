@@ -1,4 +1,4 @@
-RSTA:VST
+RSTA:VST~WSTV
 
 //EVER-VGT~ENEN
 //HENCHUNZK:HENCHANZK
@@ -24,6 +24,10 @@ RSTA:VST
 	Z^J说
     //INCHUNZK
     //ZJK^CHAF
+    维斯特:这条波管
+    WSTV~
+      
+    vrsk
 	TBK.aof^en //d骑蓝德 k^A^aofn
 	立子乘 转人 多土Z s多FZk 
 	Ltsz=跳l子平=JUMP.Fall.BUILDING dIE 至少25000次以上 255*255方

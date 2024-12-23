@@ -32,8 +32,8 @@ dns
 [lik:dst:dsr]
 \\SRD.TRS
 rdn.rdf
-\\	~KSR-
-\\	~ksn~ixr^l
-\\	krx rft flt ast^k:tsk
+  \\~KSR-
+  \\~ksn~ixr^l
+  \\krx rft flt ast^k:tsk
 rns
 	

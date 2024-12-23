@@ -13,7 +13,7 @@ ITL^R
 		<RTH-SC>
 		MCH^R //MKS
 		LWK
-		MGN-fang^ets^X:xrk//MEL
+		MGN-FANG^ETS^X:XRK//MEL
 		
 		[DSR:SRD]
 		HRK~ITLR.RZK^S.RTL

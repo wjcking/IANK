@@ -3,4 +3,4 @@ kns.krt
 
 kfs:krs~krf
 fank //fenk 
-fant-tsr
+fant-tsr //fkd.rst
