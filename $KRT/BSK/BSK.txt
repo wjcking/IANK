@@ -3,8 +3,9 @@ F-L.S
 S:R~N
 
 KBT
-B:ABCDEFGHIJKLMNOPQRSTUVWXYZ
-s:abcdefghijklmnopqrstuvwxyz
+  B:ABCDEFGHIJKLMNOPQRSTUVWXYZ
+  s:abcdefghijklmnopqrstuvwxyz
+TXK
 
 [bsk#zh~e^o]
 b^s

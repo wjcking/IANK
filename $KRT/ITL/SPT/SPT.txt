@@ -5,11 +5,10 @@ SPY //CYLANG CYPLUS
 	SAP //PYTHON
 	SPV//JAVASCRIPT
 	
-	//OSHN JAVA
-	//https://projects.eclipse.org/ 
-	//https://www.formdev.com/jformdesigner/
-	//Eclipse ATL
-	SAZ 
+	//JAVA.OSHN.PSK
+	//HTTPS://PROJECTS.ECLIPSE.ORG/ 
+	//ECLIPSE ATL
+	SAZ
 SPK //CSHN
 
 ISK.ITL-WLS.SPT

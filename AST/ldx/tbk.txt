@@ -13,13 +13,13 @@ WXH LANK TFS
 TBK.BZKLK
 	//所有实质食物，食用物品VST.TFS 对接 若一点激进!!!，心小大！
 	波饿
-	波困 不睡觉
+	波困 波睡觉
 	波近视眼 
 	波喝水 不渴
 	波冷不热 //温度一直保持均衡正常
-	疼INBAIRSING一直推出 所有 
+	疼INBAIRSING推出 所有 
 KST-IST
-所有的全部推出IST结束挨完了
+所有的全部推出IST束结完挨了
 //from unot^undercontrol
 "我控制住"UNKNOWN"不无知 未知  宇U宙 间撞时坠 
 TBK KANKRT^G CONCRETE'塞的:"TSK^L TSL"给不	得们你 值

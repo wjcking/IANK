@@ -6,7 +6,7 @@ K
 	WTS^V:MLS^nH
 V
 
-kts.ltz.hlx^n
+//kts.ltz.hlx^n
 
 //ARST.ATSK.MSK
 //MDS.MLK

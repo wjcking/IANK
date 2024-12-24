@@ -1,6 +1,6 @@
-﻿~kst
-trk.krt
-flz^en
-fsk
+﻿~KST
+TRK.KRT
+FLZ^EN
+FSK
 
-rth:rkb.blk.iank
+RTH:RKB.BLK.IANK

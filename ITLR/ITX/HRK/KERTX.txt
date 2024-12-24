@@ -27,30 +27,15 @@
 涿之米
 	钲放元天侧:分方木人特
 	杉丑人为斗:转涿和兰柯
-
-	//切力维 热若我 乃吾和
-
-	[AT:K^S] 
-	阿兹天克 
-		忑柯 印合力刻 
-		互地 互环#人立万
-		木此:分克 艾方忑
-	彻力元齐 //文化
-水折龙
-
-IGLX:IDKS
-ATB.RDN.RCS.NDS
-LNK.SMT
-VGS.KLH
-  WTS.NDS.BKS  
-  KMTX
-  MSH
-    LSK^A
-    ALN
-  NCH
 	
-	GLS.ANNI
-  KLZ.DTX.LAND
-IXS
+	维切力	
+	热若我 安阿厄  
+  水折龙 乃吾和
+切这彻
 
-	
+[AT:K^S] 
+阿兹天克 
+  忑柯 印合力刻 
+  互地 互环#人立万
+  木此:分克 艾方忑
+彻力元齐 //文划
