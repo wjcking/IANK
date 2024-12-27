@@ -35,7 +35,7 @@
 		//	HET:VIK RIKA HAT^O
 		//	BEDO RIGO
 		//RCL
-		立地束:地热出
+		立地束:地热处
 		//CENKE ZENKE C~ZENTEL~*D
 		//LUK.TUK.LSP
 		_汝土此:合龙中 
