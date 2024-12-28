@@ -19,7 +19,7 @@ SYSTEMED:CYBERT.SEPARATOR
     RTN_R:\R //010 回车(CR) ，将当前位置移到本行开头
     RTN_N:\N //012 换行(LF) ，将当前位置移到下一行开头
   ESCAPED:SYSTEMORGINATED:SEPARATOR,BRACKET
-    TABLED:\T  
+    TABLED:\T
     DASHED:\\  
     QUOTE:\'  
     QUOTES:\" 
