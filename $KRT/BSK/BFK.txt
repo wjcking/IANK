@@ -4,8 +4,11 @@ Refural:Refabric:Refabrical(Refablik) // Ryfabrick
   Rilic:Jilis|Jxka|Jaks.Jkb.jlb_b
   Ripprt
   Ribberk
-
-  Fabric:Faber:Jic //Airfluic Euclid Aerofluid 七千 纤维   Fiberic:Fibelik   
+  
+  //纤维 千中七
+  //Airfluic Euclid Aerofluid
+  //Fiberic:Fibelik   
+  Fabric:Faber:Jic 
   Rybeaka.Rebacca:Jealous
     Rebdup:Jiyicit:Jaycilate
   Replicka
