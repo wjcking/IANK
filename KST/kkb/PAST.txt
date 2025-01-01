@@ -73,10 +73,6 @@ Dcibt:Andyuser:Dcayebt
     dct.user.hand.mos.soft.pointer(moving,click)
     Utility.Renliy.Caerer 
         Business,Industry Automation
-
-
-
-
 Attribute
 Dcibt.Hardware.EletricalOnly
   Mainboard

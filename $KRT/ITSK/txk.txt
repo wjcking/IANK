@@ -7,21 +7,21 @@ TV //LVCH IN71S
 	TH
 TX//QAO
 
-XRT
+TRS-X
   KAI CHU CHE
     SHE S l^in //O^Frsk:BSK
     //CHE ZWO KE
     
 	<FN:FLX.FSH^LI^EXTH:ETS#LZH>
 	TX ZHE CHE
-	  SHE WU ZWO //HW
+	  SHE W^H ZWO //U
 	  TXY^TYO //RZT.EXT
 	
 	SHE SHO SHU
-	  KU GW WU
+	  KU GW W^U
 
   CZS //XTE:GESH^K
-TRS-X
+XRT
 
 ATRZK
 AZTK

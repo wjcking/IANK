@@ -15,5 +15,5 @@ GLB_WO
 
 	msk
 	nzd:nsk_nl
-	knd_e:kaz^dtx$kaz^nzd //kanzd
+	knd^e:kaz^dtx$kaz^nzd //kanzd
 KKB

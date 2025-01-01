@@ -4,7 +4,7 @@ NFS
 	//EXT:KMTX.PUT DPT^MSH
 	//LSK:KBT
 	//KBT:3
-	JXS
+	ZXS
 	ITLR
 	RSK^LSK
 

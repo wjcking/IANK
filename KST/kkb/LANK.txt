@@ -5,6 +5,6 @@
   * TSH:TION:SHADOW
   *
   * KAST-C
-  * ITR~FST^A:TFR^D.NTE!DBLSK!KT
-  *KKT!KKB
+  * ITR~FST^A:TFR^D.NTE!DBLSK!K:I?:T
+  *KKT!KKB?:RBRK
   */
