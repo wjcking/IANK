@@ -1,9 +1,11 @@
 ﻿/*
-*NOTIES^C
-*BELOW IS A SPACE&RETURN UNKNOWN FST
+*notlck:NOTIES^C
 */
-
-\***mts:wtc~tri***\
+s~mts
+  ~tf
+  fst-x
+kt-wtc
+\***\
 ~
 //tsi.itr.tsr
 //rst.rkb
