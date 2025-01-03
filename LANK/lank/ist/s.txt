@@ -1,12 +1,14 @@
-﻿/*
-*notlck:NOTIES^C
-*/
-s~mts
-  ~tf
-  fst-x
-kt-wtc
-\***\
-~
-//tsi.itr.tsr
-//rst.rkb
-//sit.lst.tvu.vst
+﻿~
+-
+~S
+    
+//TSI.ITR.TSR
+//RST.RKB
+//SIT.LST.TVU.VST    
+//MTS
+// ~TF
+// FST-X
+//KT
+//-
+//*NOTLCK:NOTIES^C
+//WTC

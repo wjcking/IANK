@@ -22,10 +22,11 @@ IRS.BRS
 
 ITS:ATS
   NTS
-  ETS
   GTS^SH
   
-  JTS^X~ZTS
+  //-kd~
+  ETS
+  -ZTS-JTS^X-JXS
 ITX-X-S:ITV
 	
 KVT.KST
