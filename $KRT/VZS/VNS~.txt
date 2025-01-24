@@ -1,28 +1,37 @@
 
-//O~F.S.T FN:ITN~W:UNKNOWN^KG
+//o~f.s.t fn:itn~w:unknown^kg
          
-kds~KDE.lank
+kds~kde.lank
 
-KCT //~VZS
+kct //~vzs
   \***\
-  TRF:FLC
-  I~S^K
-    1984.3.28~0xKBT
+  trf:flc
+  i~s^k
+    1984.3.28~0xkbt
     hengshui jiao tong ju jiashu yuan
     hengshui shi chen^g~zj-zhi~ja^z shu yuan
     hengshui shi qian jin jie jia shu yuan
-    SILVA SLIP SPIT SLEEP ADVERCKO^I -kde~ dream
-    500.FAIW.FIVE.YEAR
+    silva slip spit sleep advercko^i -kde~ dream
+    500.faiw.five.year
     klr^a^yellow //kolor-c
-    skr-C
+    skr-c
     mercury
-    WU JIN CHUN
-      WU JIN LV
-    WU XIAO HAN
+    wu jin chun
+      wu jin lv
+    wu xiao han
     //kbt.blk
-    kde.jts-Xrt:ext-h^ets
-  D
+    kde.jts-xrt:ext-h^ets
+  d
   \***\
-  WZN^CHN
-  KDE:MZT.EXTH
-VNS
+  wzn^chn
+  kde:mzt.exth
+  -vzn~thn:e
+  //zxs.nfs
+  xiaoteji shotking switch wxh 
+  YELLOW.color.rks-nfs.zxs
+  	for a four-band color coded resistor, 
+  	the 1st and 2nd band represent the 1st and 2nd significant digit 
+  	while the 3rd band represents the multiplier,
+  	and the 4th band represents the
+  TOLERANCE
+vns

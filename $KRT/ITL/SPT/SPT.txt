@@ -7,7 +7,9 @@ SPY //CYLANG CYPLUS
 	
 	//JRE1^6:ECLIPSE:3.5.2
 	//JRE1^7:JAVA.OSHN.PSK
-	//HTTPS://PROJECTS.ECLIPSE.ORG/ 
+	//HTTPS://PROJECTS.ECLIPSE.ORG/
+	//https://archive.eclipse.org/eclipse/downloads/drops/R-3.5.2-201002111343/
+  //https://archive.eclipse.org/eclipse/downloads/
 	SAZ
 SPK //CSHN
 
