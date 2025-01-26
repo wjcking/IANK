@@ -23,9 +23,11 @@ kct //~vzs
     kde.jts-xrt:ext-h^ets
   d
   \***\
-  wzn^chn
-  kde:mzt.exth
-  -vzn~thn:e
+  wzn^thn:e
+    kde:mzt.exth
+    wzn.chn
+  -vzn~chn
+  
   //zxs.nfs
   xiaoteji shotking switch wxh 
   YELLOW.color.rks-nfs.zxs

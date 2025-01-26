@@ -21,6 +21,7 @@ kst.fst
     //~nfs.psh^ao~set^stz^tsz^zst
     //~kbt~fst-f~t
     //  nts:fst stn //dif rns tfs.rfs
+    //  tfs:xrt-f:ftx-s
     \\rst.v~t
     <irk-xrt-k>
 	dsr
