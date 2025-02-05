@@ -28,8 +28,9 @@ kct //~vzs
     wzn.chn
   -vzn~chn
   
-  //zxs.nfs
-  xiaoteji shotking switch wxh 
+  [ZXS~T.NFS:EXTH]
+  xiaoteji shotking switch wxh
+  PID:KD DERIVATIVE GAIN 0.05 F-KANZD //500.faiw.five.year
   YELLOW.color.rks-nfs.zxs
   	for a four-band color coded resistor, 
   	the 1st and 2nd band represent the 1st and 2nd significant digit 

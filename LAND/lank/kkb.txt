@@ -14,7 +14,7 @@ skr:nsk
 		GPR
 		GPD
 		GDE
-		kal_es:exch^t:ets
+		kal'es:exch^t:ets
 	srd.drs^l
 krx
 

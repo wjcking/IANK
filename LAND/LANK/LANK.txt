@@ -50,7 +50,7 @@ MTS~NTS
 
 LKS
 	//NKS:LTS@WO
-	//KTS!GTS^SH
+	//KTS!GTS'SH
 	TLS
 		//TLS:ITZ^X^S
 		//TLK:IXS^TV

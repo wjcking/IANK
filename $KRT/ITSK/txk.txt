@@ -1,5 +1,5 @@
 ﻿FSN
-TV //LVCH IN71S
+TV //LVCH ITYS
 	SH
 	CH
 	ZH
