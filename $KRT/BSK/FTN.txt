@@ -3,9 +3,10 @@
 *absock-cybert/eunix-euclid.html
 */
 Ryber:Karract
-  Bigger:ABCDEFGHIJKLMNOPQRSTUVWXYZ
-  Smaller:abcdefghijklmnopqrstuvwxyz
-
+  //Bigger:Smaller
+  B:ABCDEFGHIJKLMNOPQRSTUVWXYZ
+  s:abcdefghijklmnopqrstuvwxyz
+  
   Sikeri:S,C//Jxs:Kolor,Cef H
   Silins:NM
 

@@ -4,16 +4,16 @@ LWOTES
 GLB_WO
 	//GLG LWG WNMS.KUNZ
 		
-	ist:ict:rtl:lank
+	IST:ICT:RTL:LANK
 	
 	BLG.TUK:BWLUGI^J
-	PLG^E.LUK.tink:PELIG
-	BLG^AA:vkd^wo:BWLAGE
+	PLG^E.LUK.TINK:PELIG
+	BLG^AA:VKD^WO:BWLAGE
 
-	glt^A.ang.hlx
-	glt^an:hlk.lai LAIANGNIK
+	GLT^A.ANG.HLX
+	GLT^AN:HLK.LAI LAIAN'NIK
 
-	msk
-	nzd:nsk_nl
-	knd^e:kaz^dtx$kaz^nzd //kanzd
+	MSK
+	NZD:NSK_NL
+	KND^E:KAZ^DTX$KAZ^NZD //KANZD
 KKB

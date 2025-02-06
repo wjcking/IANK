@@ -1,22 +1,22 @@
 GLS^E:BLG^AA:GELIS 
 
-skr:nsk
-	skr^shwo:txh.luk:tzh_ang^w
-	srk.tuk:luk
+SKR:NSK
+	SKR^SHWO:TXH.LUK:TZH'W
+	SRK.TUK:LUK
 
-	glb_wo^d	//gld kkd
+	GLB'WO^D	//GLD KKD
 
-	xrk$ict
-		ltz:lkn:lke
-	xkr
+	XRK$ICT
+		LTZ:LKN:LKE
+	XKR
 
-	vgs^e:wgs^i1
+	VGS^E:WGS^I1
 		GPR
 		GPD
 		GDE
-		kal'es:exch^t:ets
-	srd.drs^l
-krx
+		KAL'ES:EXCH^T:ETS
+	SRD.DRS^L
+KRX
 
-sls
-krs:srk^l^g
+SLS
+KRS:SRK^L^G

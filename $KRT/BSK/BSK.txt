@@ -2,10 +2,7 @@
 F-L.S
 S:R~N
 
-KBT
-  B:ABCDEFGHIJKLMNOPQRSTUVWXYZ
-  s:abcdefghijklmnopqrstuvwxyz
-TXK
+KBT-VST~TXK
 
 [bsk#zh~e^o]
 b^s

@@ -12,7 +12,8 @@ V
 //MDS.MLK
 //VBS BRTS.RFT 
 BKL
-	7X 1T L^J; Z Y
+  Z:Y
+	7X 1T L^J  
 	
 	(LVX~LXR) //LVCH
 	[TVX~ETS]
