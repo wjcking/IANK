@@ -1,0 +1,20 @@
+TRF:FST
+TLD:KLD
+FSR:ISK:ITL
+KSR-IST~LST
+VRSK
+
+//SILWKE-KELWS:KST
+F
+  X
+    L~IF
+     T SH 
+       N.K
+         ' //
+         C
+         X
+       Z.T
+     7
+    L~ZK
+  A.N:TK
+I.L

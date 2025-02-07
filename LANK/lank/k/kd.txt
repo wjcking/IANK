@@ -1,6 +1,6 @@
 ﻿-kd~ //KSN:VST
-[ANG^KUN;ENG.NUN^O]
-[FN:ITN~W:UNKNOWN^KG]
+[AN'NON]
+[FLS:ITN~W:UNKNOWN^KG]
 kd~kst
 
 kd^ets //tsk.kst.kd

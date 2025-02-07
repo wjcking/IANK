@@ -8,7 +8,7 @@ TV //LVCH ITYS
 TX//QAO
 
 TRS-X
-  KAI CHU CHE
+  KAI CHW'U CHE
     SHE S l^in //O^Frsk:BSK
     //CHE ZWO KE
     
@@ -18,7 +18,7 @@ TRS-X
 	  TXY^TYO //RZT.EXT
 	
 	SHE SHO SHU
-	  KU GW W^U
+	  <KW GW W^U>
 
   CZS //XTE:GESH^K
 XRT
