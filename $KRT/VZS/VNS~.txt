@@ -22,10 +22,10 @@ kct //~vzs
     kde.jts-xrt:ext-h^ets
   d
   \***\
-  wzn^thn:e
-    kde:mzt.exth
-    wzn.chn
-  -vzn~chn
+  WZN^THN:E
+    KDE:MZT.EXTH
+    WZN.CHN
+  -VZN~CHN
   
   [ZXS~T.NFS:EXTH]
   xiaoteji shotking switch wxh
