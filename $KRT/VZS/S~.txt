@@ -26,6 +26,15 @@ O~F.S.T
       \\R^V V~N
         NR~K
         N~T
+          tsn
+          tsr
+            //SRT:RST:RNS
+            //VSD:BST:SLD:SRD
+            //B:LSD^CL.KCT
+            //BST^D
+          
+            //KDE.KAST
+          dsr
         N~D
       //V=N IT~ ITL~ 
       N~D //nztld ldk kld
