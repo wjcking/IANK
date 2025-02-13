@@ -15,9 +15,9 @@ kct //~vzs
     klr^a^yellow //kolor-c
     skr-c
     mercury
-    wu jin chun
+    WU JIN CHUN
       wu jin lv
-    wu xiao han
+    WU XIAO HAN
     //kbt.blk
     kde.jts-xrt:ext-h^ets
   d

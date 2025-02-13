@@ -11,6 +11,6 @@ kst.fst
 	tst^kst.kts~kunz
 	tsr:irt
     <irk-xrt-k>
-	dsr
+	
 kri~lsk
 

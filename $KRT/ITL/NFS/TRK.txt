@@ -17,6 +17,6 @@ TRK
 
   KTN.RSK^T
     //DLT^B
-    //RLS_E
+    //RLS'E
   LCK
 KLD

@@ -1,14 +1,5 @@
 ﻿~
 -
 ~S
-    
-//TSI.ITR.TSR
-//RST.RKB
-//SIT.LST.TVU.VST    
-//MTS
-// ~TF
-// FST-X
-//KT
-//-
-//*NOTLCK:NOTIES^C
-//WTC
+ 
+//vzs:nts:vt~s:MTSWTC
