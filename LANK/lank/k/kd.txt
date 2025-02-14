@@ -1,6 +1,6 @@
 ﻿//VN~S-KSN:VST
-[AN'NON]
-[FLS:ITN~W:UNKNOWN^KG]
+//AN'NON:UNKNOWN^KG
+[FLS:ITN~W]
 kd~kst
 
 kst^zts~tsn //rns

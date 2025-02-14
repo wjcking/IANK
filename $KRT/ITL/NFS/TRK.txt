@@ -6,7 +6,7 @@ TRK
   KR^TK_EA^L //KERIKET ADD
 
     LCK^G //MSAIK KAN'
-    RDF:CHF_A //MAODIFAI
+    RDF:CHF'A //MAO DIFAI
 
     MLK
   KLT

@@ -10,7 +10,7 @@ kst.fst
 	<-tri~k-isk>
 	tst^kst.kts~kunz
 	tsr:irt
-    <irk-xrt-k>
-	
+    <-irk:xrt-krt>  
+  rst 
 kri~lsk
 

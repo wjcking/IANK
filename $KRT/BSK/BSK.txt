@@ -18,9 +18,11 @@ r:n
 //RFB.FBK	
 //lif
 [fsn]
-tfs //~kst-kts
+tfs
+  //ksr~kst-kts
+  fsr
 	ftr.dsr
 		~fxs~TVX
-		//fnt-stk~.fls
+		//fnt-stk~fls
 	ftn
 fst
