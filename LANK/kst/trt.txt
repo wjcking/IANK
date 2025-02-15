@@ -13,4 +13,3 @@ kst.fst
     <-irk:xrt-krt>  
   rst 
 kri~lsk
-

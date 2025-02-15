@@ -7,15 +7,20 @@
 //TAB^C:RPLC^~S:SPACS^~
 V~I-S IST.S
   TSR.TSI.ITR
+    S~//NZ:V 7L
+    tsk
+    
     RST.RKB
-    //SIT.LST.TVU.VST
-  dsr
+    VCK
+      //SIT.LST.TVU.VCK!LUK
+    VZK~
+  DSR
 ~NTS-VTS
 
 MTS:?
 
 (VSD-ZWNJA)
-VRSD~#ZSA
+VRSD~#ZSI
 
 (~SKT-SKD~)
 S:E.E:T.T:S

@@ -19,4 +19,4 @@ ktr-kdr
 	knt
 krt~klt:kld
 
-//kld:klv:kltin:valins
+//kld:klv:klti:valins

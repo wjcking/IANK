@@ -1,14 +1,13 @@
-~v
-lsk.vsk
-
-r~t
-  r:r
-  r:n~m
-  -z
-n
+~lsk.vsk
 
 v
   n //kr~rk:vk^r
   e~a
   -l:vins!tis
 k
+
+r~t
+  r:r
+  r:n~m
+  -z
+n
