@@ -8,6 +8,3 @@ krs
 
 txk-tsk
 bsk-f~b-l
-
-[FN:ITN~W:UNKNOWN^KG]
-ets:nts.skt

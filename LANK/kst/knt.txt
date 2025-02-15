@@ -7,6 +7,6 @@ trk:ktr
 	n:h.z.l //F.B~K~S3M:ITV'S:ITX.ITYS
 	
 	kns
-		l:k:t~kiz //kaz kast
+		l:k:t~kiz //KAZ KAST
 	kzt-klt
 krt
