@@ -18,5 +18,3 @@ ktr-kdr
 		kiz
 	knt
 krt~klt:kld
-
-//kld:klv:klti:valins

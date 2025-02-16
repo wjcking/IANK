@@ -6,10 +6,12 @@ trs~trk
 
 kst.fst
 	tri-trt
-	tfs:tsf:trf //kfs
+  tsr~t:krt:fsk
+  
+	tfs:tsf:trf //kfs:ifs
 	<-tri~k-isk>
 	tst^kst.kts~kunz
 	tsr:irt
     <-irk:xrt-krt>  
-  rst 
+  rst
 kri~lsk

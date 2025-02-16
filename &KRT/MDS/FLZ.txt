@@ -7,7 +7,7 @@ FSN:LANK
 *bsk~f~b-l
 */
 F~S.L
-	~TRK-BSK		
+	~TRK-BSK
 	FTN:DNF~FST
 	DNS
 		DMS.PST.KNT.KZN 

@@ -10,7 +10,7 @@ trs-bls
 	<ist:irk:ilk>
 
 	kiz //kaz kast
-	kfs //fank:krf
+	kfs~fst:itf //fank:krf
 
 	kunz //knt:mwz
 tsi-lst //tsi.itr.tsr^d tsl
