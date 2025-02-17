@@ -1,17 +1,38 @@
-isk
+isk-fsi.szi
 skr:kkb
 
 <tsr>
 xrk~t
-  //trx
-  //chai^an.kulr
-  //kaibi7
+  ksi
+  kfs
+    krf
+  tsf
+  
+  //TRX
+  //ASTK
+  //RSKT
+  //XRKT
+  //CHAI^AN.KULR
+  //KAIBI7
+  <fst>
+  //TISOED
+  //TUT TESLA
+  //TUK
+  //ATS.FLAT   
+  //TETRIS:DAD*ELS:ТЕТРИС
 krx
 
+//LANK:ISTK
+//VZN^SHN:IFS^T
 <tsn>
-vzn^shn.ifs^t
-//TISOED
-//TUT TESLA
-//TUK
-//ATS.FLAT   
-//TETRIS:DAD*ELS:ТЕТРИС
+v-l:(x-~t)~-k:i
+v:i.r
+v:l.r
+r
+  v.f
+  bsk
+  //V?S:I?A
+  //X:T
+  //-T~X
+i
+[tfs]

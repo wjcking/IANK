@@ -36,11 +36,14 @@ Ancker.Atibles:Becca
 Rybeaka.Rebacca:Ryber //bA ba
   Rear: Rick 
   Iinr:Innera:Cine(AreaCut:O%Circle)Sine(AnyArc$Include)
-    Iinr~rinl
-      era:are
-     L lij jij jljl J$J lij jij jljl L 
-     ji^vwy^ij ll LL
-     ji^vwy^ij ll LL
+    Iinr~rinl 
+    era:are
+     L
+       lij jij?jljl J$J //中千七
+       lij jij jljl 
+       ji^vwy^ij; ll LL
+       ji^vwy^ij; ll LL
+     7 
     jin^inj 
     // Fine JellyGood
     Kesset.Stick:Cisiz(Ryber)ReIlck      
