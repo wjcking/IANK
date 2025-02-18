@@ -1,5 +1,21 @@
 isk-fsi.szi
 skr:kkb
+//LANK:ISTK
+//VZN^SHN:IFS^T
+<-fsn:tsr.nfs.sfr#zn^i:fsr^i>
+<tsn>
+v-l:(x-~t)~-k:i
+v:i.r
+v:l.r
+r
+  f:v
+  b~k
+  //V?S:I?A
+  //X:T
+  //~
+  //-
+  //k
+i
 
 <tsr>
 xrk~t
@@ -8,31 +24,22 @@ xrk~t
     krf
   tsf
   
-  //TRX
-  //ASTK
-  //RSKT
-  //XRKT
-  //CHAI^AN.KULR
-  //KAIBI7
+  //XRT
+  //ISTK:A
+  //R.S~T^K:NFS
+    //XR
+    
+    //CHAI^AN.KULR
+    //KAIBI7
+  //KT
   <fst>
-  //TISOED
-  //TUT TESLA
+  //TIS'OED
   //TUK
-  //ATS.FLAT   
+  //TUT TESLA
+  //ATS.FLAT
+  
   //TETRIS:DAD*ELS:ТЕТРИС
 krx
 
-//LANK:ISTK
-//VZN^SHN:IFS^T
-<tsn>
-v-l:(x-~t)~-k:i
-v:i.r
-v:l.r
-r
-  v.f
-  bsk
-  //V?S:I?A
-  //X:T
-  //-T~X
-i
 [tfs]
+
