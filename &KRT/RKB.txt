@@ -1,10 +1,11 @@
 ﻿RKS.PST.KNT^E
+ATS.MTS //ATS^M ATMS
 
 SLS //FLZ JXS
 //地力丝 莫的 没丝
 DLS:MFS@KRD:LSA
 //耐柯 伯兹 克力柯 
-KND:VST:KLK.BLZ^A
+VSD:KND:VST:KLK.BLZ^A
 /***柏力克***/
 BLK	//BKL:BDE:BDS:GDE
 //莱钠的 甘的 及儿 上 分柯
@@ -17,15 +18,15 @@ TFS~KTR:KTL:KSL:GLS //FLC:TFS:KDR
 //林各 及特 下
 LND:LNG.GTH:GTS:FTN:LTZ //INT AJT.AJR
 
-MFS:DLS
-	NFS //BSH^NSH
+//艾菲儿
+IFR:RXS
+  //以希丝 苏菲
+	IXS:SWF:NFS~MFS //BSH^NSH
 	KST
 	//GLS:KDR:NWD^O:BIK
 	//BNS:BKL:END
-	BLS^A 
+	BLS^A
 		KD:YTL:KTN:BON
+		"KLK-BLS~MTX"
 	MDZ
 KDZ
-
-ATS.MTS //ATS^M ATMS
-
