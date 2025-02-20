@@ -1,4 +1,4 @@
-﻿<F>
+﻿<F~R>
 
 fst$KST
 TRK.KRT
@@ -22,5 +22,3 @@ izT~i.l
     ~eb
   k
 -tsf
-
-[F]

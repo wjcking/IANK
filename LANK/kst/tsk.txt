@@ -10,7 +10,7 @@ t:s.i
 	kt
 ist
 
-itr-tsk
+itr-tsi-k:v
 trs
 	krt
 	//itr.stk.kns:tns
