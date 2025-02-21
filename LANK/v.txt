@@ -1,6 +1,3 @@
-vsk~lsk
-tsk-vns
-vzs:vck
 v
   -r
   n //kr~rk:vk^r
@@ -8,7 +5,7 @@ v
   -l:vins!tis
 k
 
--sk
+-lsk
 <
   v-l:(x-~t)~-k:i
   v:i.r
@@ -19,3 +16,7 @@ k
     //k=v?s:i?a  
   -i
 >
+
+vsk~lsk
+tsk-vns
+vzs:vck

@@ -21,13 +21,19 @@ xrk~t
   //TETRIS:DAD*ELS:ТЕТРИС
 krx
 
-[tsn:iank]
-rst:tsr.R
+ts.e(r)
+rst
   str
     v.r.~:k
     k.s.r
-  f~r'
-  <
-    Z'WNS'JI
-  >
+    f~r'
+    <
+      Z'WNS'JI
+    >
+  ftr
 tfs
+
+ts.r
+[
+  n:iank
+]

@@ -1,26 +1,26 @@
 ﻿FSN
-TV //LVCH ITYS
+TV "LVCH ITYS
 	SH
 	CH
 	ZH
 	//RNS
 	TH
-TX//QAO
+TX "QAO
 
 TRS-X
-  KAI CHW'U CHE
-    SHE S l^in //O^Frsk:BSK
-    //CHE ZWO KE
+  KAI CHW#U CHE
+    "SHE S~l^in "O^Frsk:BSK
+	  "SHE W^H ZWO
+    "CHE ZWO KE
     
-	<FN:FLX.FSH^LI^EXTH:ETS#LZH>
+	<FLX.FSH^LI^EXTH:ETS#LZH>
 	TX ZHE CHE
-	  SHE W^H ZWO //U
-	  TXY^TYO //RZT.EXT
+	  TXY^TYO "RZT.EXT
 	
-	SHE SHO SHU
-	  <KW GW W^U>
+	SHE SHO SHW
+	  <KW GW W#U>
 
-  CZS //XTE:GESH^K
+  CZS
 XRT
 
 ATRZK

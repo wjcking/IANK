@@ -16,7 +16,8 @@
     f^t
       @n.u.l:i
       r:i-@-f
-      (e:a)
+        ea
+        ()
       k
     f'd
   t

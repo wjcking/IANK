@@ -1,3 +1,5 @@
 ﻿trs 
 //tns
 kst //irk v:k
+
+x:ist[t]

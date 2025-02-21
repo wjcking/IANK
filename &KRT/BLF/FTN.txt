@@ -1,10 +1,14 @@
-﻿/*
-*sVc.cLk
-*CircleRectick Argus
-*absock-cybert/eunix-euclid.html
-*/
+﻿"
+-sVc.cLk
+-CircleRectick Argus
+-absock-cybert/eunix-euclid.html
+"
+BIGGER:SMALLER:KEST
+B:ABCDEFGHIJKLMNOPQRSTUVWXYZ
+s:abcdefghijklmnopqrstuvwxyz
+
 Ryber:Karract
-  Sikeri:S,C//Jxs:Kolor,Cef H
+  Sikeri:S,C"Jxs:Kolor,Cef H
   Silins:NM
 
   Beosike:LI
@@ -23,16 +27,16 @@ BeosikeKesset(LVS)
 Refine
 
 Raferal:Intelick.Rind.Koz
-  S.L=CXC+  //Meget.Kater enunix.svg  
-  O.V.lnt=aeiou //呕  
-    O:SolofulGotten //O^micron
+  S.L=CXC+  "Meget.Kater enunix.svg  
+  O.V.lnt=aeiou "呕"
+    O:SolofulGotten "O^micron
   O.L==C.L
   O.S=AES 
-  O.V$=Un //Son Soon
+  O.V$=Un "Son Soon
     Q=dbpq
-    C-V^-CZS //Vesaid Refabric:r f l
-    C.V^= K:SelfulKote//Omic^ron
-    G=AENU //EasyPiorit Sivilet
+    C-V^-CZS "Vesaid Refabric:r f l
+    C.V^= K:SelfulKote"Omic^ron
+    G=AENU "EasyPiorit Sivilet
       M
       R
       H
@@ -44,17 +48,17 @@ Raferal:Intelick.Rind.Koz
   I:J.L:cg:J.L
     F
     H
-    E //Vesaid
-    T //Gareful
+    E "Vesaid
+    T "Gareful
   L
-  R.L=ICU  //icun
-  U.S=W^VY_M //vessat:un
+  R.L=ICU  "icun
+  U.S=W^VY_M "vessat:un
   Y.V=NZ
   Z.V:U.S
   KTX:VL:KXT:S:TKX
-Formrike:Antifusial //FXS
+Formrike:Antifusial "FXS
 
-//Feral.Itialian.Ferrero
+"Feral.Itialian.Ferrero
 Rydiffer.Beosike.SmallBigger.DifferMost
   V:u:U
   S:m:M
