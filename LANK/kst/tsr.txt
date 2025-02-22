@@ -5,12 +5,12 @@ trs~trk
 ~rst-vst!
 
 kst.fst
-	tri-trt
+	//tri-trt
   tsr~t:krt:fsk
   
 	tfs:tsf:trf //kfs:ifs
-	<-tri~k-isk>
-	tst^kst.kts~kunz
+	tri~k-isk
+	tst^kst~kts~kunz
 	tsr:irt
     <-irk:xrt-krt>  
   rst

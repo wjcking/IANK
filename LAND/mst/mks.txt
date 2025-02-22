@@ -1,27 +1,13 @@
-//NSK
-K
-	U:WT_H
-	N:ML^S
-	
-	WTS^V:MLS^nH
-V
+"kts.ltz.hlx^n
 
-//kts.ltz.hlx^n
-
-//ARST.ATSK.MSK
-//MDS.MLK
-//VBS BRTS.RFT 
-
-  Z:Y
-	7X 1T L^J  
-	
-	(LVX~LXR) //LVCH
-	[TVX~ETS]
-
+"ARST.ATSK.MSK
+"MDS.MLK
+"VBS BRTS.RFT
+RZK-H
 	KMTX
 	KRLS
-		KRF3'.KNT^ALN
-		KLF4S //PENROSE TRIANGLE
+		KRF3'KNT^ALN
+		KLF4S "PENROSE TRIANGLE
 		MMZ^J:KMTX
 		NNZ^J:KMTX
 		MNZ^LT:ATZ.LNT
@@ -30,5 +16,5 @@ V
 		KTLN4
 		KTL^NA
 	KMT:KATE^D
-
+BLK
 

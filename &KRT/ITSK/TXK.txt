@@ -10,8 +10,8 @@ TX "QAO
 TRS-X
   KAI CHW#U CHE
     "SHE S~l^in "O^Frsk:BSK
-	  "SHE W^H ZWO
-    "CHE ZWO KE
+	  "#SHE W^H ZWO
+    "#CHE ZWO KE
     
 	<FLX.FSH^LI^EXTH:ETS#LZH>
 	TX ZHE CHE
