@@ -1,13 +1,13 @@
 ﻿RTL.ATV
 	ISNK
 	KLS.BTF.KLH
-	KLH@L:R H G E  K //ART	
+	KLH@L:R H G E  K "ART	
 TZH
 
 卡路四_巴希方_卡两(亮,立卬,李昂)河
 柯
   卡兹柯:阿(艾)热特兹卡
-		//口日(米)月目(合)中
+		"口日(米)月目(合)中
 	木卡米子柯
     英忑立次卡
     仁和可立卡
@@ -17,7 +17,7 @@ TZH
 	艾芮忑兹卡
 何
 
-//ISNYAK^D.KZT.KBT.RDLSK~KLD
+"ISNYAK^D.KZT.KBT.RDLSK~KLD
 艾米忐兹卡-艾萨尼牙的
 <#ZH.RZT>
 米兹特
@@ -28,10 +28,10 @@ TZH
 		及皮处 纳几波 互布处
 
 	(RD~RSD@I:NLU)
-	予克 各设 艾若米 印来克
+	予克 各设 艾若米 "印来克
 
-	//TLF^W
-	//IRWO GWS
-	//LVX:TXQ.JSN^NUN
+	"TLF^W
+	"IRWO GWS
+	"LVX:TXQ.JSN^NUN
 	拉系丫 五未玩 希伢子 
 水折设:水忑柯

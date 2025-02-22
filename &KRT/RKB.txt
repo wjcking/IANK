@@ -18,8 +18,8 @@ TFS~KTR:KTL:KSL:GLS //FLC:TFS:KDR
 //林各 及特 下
 LND:LNG.GTH:GTS:FTN:LTZ //INT AJT.AJR
 
-//艾菲儿
-IFR:RXS
+//芮希丝:艾菲儿
+RXS:IFR
   //以希丝 苏菲
 	IXS:SWF:NFS~MFS //BSH^NSH
 	KST

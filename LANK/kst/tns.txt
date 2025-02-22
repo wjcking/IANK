@@ -11,7 +11,9 @@ ktr-kdr
 		kfs:fst
 
 		//ist~vst-itl
-		//ktr~kdr:ktl:ksl
+		//ktr~kdr
+		//ktl:ksl'
+		//kirt-kird
 		kt
 		
 		//kaz kast kdrz
