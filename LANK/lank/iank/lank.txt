@@ -10,11 +10,12 @@ KST
 	  <
       N
         [
-          S	Z.I
+          S:Z.I
         ]
       F
 	  >
 	  //DSR
 	~ 
 )
+
 IRK-ILK

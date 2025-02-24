@@ -20,7 +20,7 @@ LND:LNG.GTH:GTS:FTN:LTZ //INT AJT.AJR
 
 //芮希丝:艾菲儿
 RXS:IFR
-  //以希丝 苏菲
+  //以希丝 萨希尔 丝 梧菲
 	IXS:SWF:NFS~MFS //BSH^NSH
 	KST
 	//GLS:KDR:NWD^O:BIK

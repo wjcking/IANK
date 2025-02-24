@@ -36,7 +36,8 @@
 		"	BEDO RIGO
 		"RCL
 		立地束:地热处
-		"CENKE ZENKE C~ZENTEL~*D
+		"CENKE ZENKE
+		"CZACK# C~ZENTEL~*D "ČESKÁ CZECH 
 		"LUK.TUK.LSP
 		"汝土此_合龙中 
 		公松怂永:冗人~动柔:开尔芮它

@@ -3,12 +3,12 @@ BDS.ATS
 ABD^S_E.AST^N.ECH^S  
   BLS_AN.SLT.LBT:DLS
       AKS
-      SKS_A
+      SKS^A
     BLS_DS_BAN
   BTS:PB T.AE CS //DSP.LYS.VTS^N.DUB
 ABD^Z_AL
 
-//NCH_EN.LVS.LNT 
+//NCH_EN.LVS.LNT
 //BLZ_A.ARK^N//FNT^C
 
 //所克元

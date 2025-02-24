@@ -1,10 +1,6 @@
-﻿ist^k
-iank~s
+﻿iank~s
 
-trs~trk
-~rst-vst!
-
-kst.fst
+ist^k
 	//tri-trt
   tsr~t:krt:fsk
   
@@ -14,4 +10,10 @@ kst.fst
 	tsr:irt
     <-irk:xrt-krt>  
   rst
-kri~lsk
+krs~i
+
+isk
+  trs~trk
+  ~rst-vst!
+  kst.fst
+lsk

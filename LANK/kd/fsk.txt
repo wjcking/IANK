@@ -18,8 +18,8 @@
       r:i-@-f
         ea
         (
-          "flp
-          "slk
+          //flp
+          //slk
         )
       k
     f'd

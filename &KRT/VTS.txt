@@ -25,9 +25,16 @@ $ FKS
   -$ SLS
   # MLS
   ' MLS
-? ANG^KUN;ENG.NUN^O:ANWK
+
 ! TXU.JSN^NA
-; KRI //CURRENT CLASS
+; KRI
+  <
+    ? CURRENT CLASS
+      ! AN^NON "UNKNOWN^KG    
+      O
+        ANG'KUN
+        ANW^K
+  >
 *	LXR LXA LXY
 _ NSK-TZH'WA
 " CRK //zhw'sh

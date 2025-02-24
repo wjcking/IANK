@@ -1,4 +1,8 @@
 //KELYSTON.PERFORMANCE.FILEREAD:SYSTEM.IO.FILESTREAM.SEEK   //读取超大文本文件
+UPPER CASE
+Α	Β	Γ	Δ	Ε	Ζ	Η	Θ	Ι	Κ	Λ	Μ	Ν	Ξ	Ο	Π	Ρ	Σ	Τ	Υ	Φ	Χ	Ψ	Ω
+LOWER CASE
+α	β	γ	δ	ε	ζ	η	θ	ι	κ	λ	μ	ν	ξ	ο	π	ρ	σ ς	τ	υ	φ	χ	ψ	ω
 
 KRT
 	KRT^A.R

@@ -41,7 +41,7 @@ Ryske.Hande.Gende
 
 //涿之米:艾若热^切力维:热若我
 INTV
-	//SARFT_I
+	//SAIRFT
 	//ACCESS-TERM/ALFED.HTML
   //IRGS:VK_IN^R_N
 	SVS:VZS.TLS^I

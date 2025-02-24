@@ -1,8 +1,8 @@
-xrk~t
-  ksi
-  kfs
-    krf
-  tsf
+XRK~T
+  KSI~VFS-IFS
+  KFS
+    KRF
+  TSF
   
   //XRT
   //ISTK:A
@@ -12,28 +12,12 @@ xrk~t
     //CHAI^AN:K'ULR
     //KAIBI7
   //KT
-  <fst>
+  <FST>
   //TIS'OED
   //TUK
   //TUT TESLA
   //ATS.FLAT
   
+  //TKZ.KEN TAT TD KN E
   //TETRIS:DAD*ELS:ТЕТРИС
-krx
-
-ts.e(r)
-rst
-  str
-    v.r.~:k
-    k.s.r
-    f~r'
-    <
-      Z'WNS'JI
-    >
-  ftr
-tfs
-
-ts.r
-[
-  n:iank
-]
+KRX
