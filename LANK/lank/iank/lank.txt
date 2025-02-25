@@ -3,7 +3,7 @@
 KST
 (
 
-	IL^K
+	IL^K-IRK
 	KSR
 	-
 	  I
@@ -15,7 +15,5 @@ KST
       F
 	  >
 	  //DSR
-	~ 
+	~
 )
-
-IRK-ILK

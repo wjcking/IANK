@@ -1,12 +1,13 @@
 <FSR>
 
-$fst:tsr'O-i~st:f-t
+$FST:TSR'O-I~ST:F-T
 
 TIS //KBT:FRS.FNK:FKD^AN.RST
   FTI~SNZI'JA_TSI
   FCT:RCK:KBT~ERCK
   KCT
 &ERICK.Y&!ATS
+
 <ISK>
 ЖЖЖNЖЖЖUЖЖЖЖЖЖ
 ЖЖЖTЖЖЖЖЖЖNЖЖЖ
@@ -15,4 +16,4 @@ TIS //KBT:FRS.FNK:FKD^AN.RST
 ЖЖЖVЖSZЖЖЖЖЖЖN
 
 $SZIA&FTN~FST:IFT~VSKT //IFT:TRS:TLD 
-$rks:rst
+$RKS:RST

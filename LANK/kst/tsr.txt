@@ -13,7 +13,7 @@ ist^k
 krs~i
 
 isk
-  trs~trk
+  trs~trk //tns
   ~rst-vst!
   kst.fst
 lsk

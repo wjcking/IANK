@@ -1,2 +1,2 @@
-﻿kns:tns:tsn
-kns.kst
+﻿tns:tsn
+kst

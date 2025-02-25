@@ -1,14 +1,16 @@
-~kst
-~vzs
+iank
 
-kst-vst
-kst-ksn
-
-kst-its
-kst-iank
-
-tsi.irs.itr
-kct-vsn //krs^co
--vzn:vsn:itr //srk~ixr:itr
-~ixr
+-
+//v vst ist
+//tsi.irs.itr
+xrk
+//vzn:itr 
+//srk~ixr:itr 
+ixr
+  //kct-vsr
+  //krs^co
 irx //rts
+
+~
+
+kst

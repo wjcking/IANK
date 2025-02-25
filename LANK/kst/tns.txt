@@ -9,11 +9,10 @@ ktr-kdr
 	trk
 		//krs:krf.krk~krt
 		kfs:fst
-
+	
 		//ist~vst-itl
-		//ktr~kdr
+    //kirt-kird
 		//ktl:ksl'
-		//kirt-kird
 		kt
 		
 		//kaz kast kdrz
