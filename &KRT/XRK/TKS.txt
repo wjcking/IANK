@@ -1,8 +1,7 @@
-﻿IANK
-  ITL:IXL
-  
-  //DNS^SO
-  //RL.ANK
+﻿LANT
+
+TKZ
+  "TNS^DSO
+  "ANK
   ATK
-  ITLS
-lank
+TKN

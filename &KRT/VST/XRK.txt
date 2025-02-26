@@ -1,26 +1,28 @@
 r.z't'o "Rizontal N
 
 TSN
-  KSI~VFS-IFS
+  KSR~FST "BLF
   KFS
     KRF
   TSF
   
-  //XRT
-  //ISTK:A
-  //R.S~T^K:NFS
-    //XR
-    
-    //CHAI^AN:K'ULR
-    //KAIBI7
-  //KT
-  <FST>
-  vsr.fsr
-  //TIS'OED
-  //TUK
-  //TUT TESLA
-  //ATS.FLAT
+  "XRT KT
+  "ISTK:A
+  "R.S~T^K:NFS
+  "XR
+  "ANCKER.ATIBLES:BECCA
+    "RYBEAKA.REBACCA:RYBER
+    "RFB.FBK	
+    "lif
+  "CHAI^AN:K'ULR
+  "KAIBI7
+  FST
   
-  //TKZ.KEN TAT TD KN E
-  //TETRIS:DAD*ELS:ТЕТРИС
+  "TIS'OED
+  "TUK
+  "TUT TESLA
+  "ATS.FLAT
+  
+  "TKZ.KN'E TAT TD KN E
+  "TETRIS:DAD*ELS:ТЕТРИС
 KRX

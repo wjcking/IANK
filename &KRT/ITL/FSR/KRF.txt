@@ -1,4 +1,4 @@
-<SKR>
+FST.SRK
 FRSK^Z
 FRZK^C
 "'FRI'K#FRNK
@@ -6,7 +6,7 @@ S~R:SLS
 
 K
 W:N
-  S @
+  S @<SKR>
   Z #
   ~C
 E
