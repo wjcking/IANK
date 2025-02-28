@@ -1,22 +1,36 @@
-﻿SRT
+﻿srt
 
-//TRS:DRS
-DSR
-	ITS^K:KZN
-	\\FST
-DNS
-
-TSR
-	//DWF~DNF
-	//LWS
-	//WLS
+tsr
+	//dwf~dnf
+	//lws
+	//wls
+	       
+  trk
+    //isk:lsk  
+    kunz
+    //hbt
+    //vertical upside thundra   
+    //~zncun
+    !kst.fst 
+  tzk-rst-vct
 	
-	ITL:ITS^ITR:TSI
-	ISK:ITR:IANK
-RTS
+  //trs:drs
+  dsr
+    its^k:kzn
+    srt.srd:nts^r
+      ^tsf~tst-unz
+      ^  tut.lik
+      ^  tkd
+      ^  ank
+      ^  ~fand
+      ^  tub.ink
+      ^fsk
+    fst
+    dnf:tfs.srt
+      itl:its^itr:tsi        
+      isk:itr:iank
+    tsn
+  dns
+rts
 
-//RST~I-L
-~trk-i
-//SRT.SRD:NTS^R
-DNF:TFS.SRT
-//TSN
+//rst~i-l
