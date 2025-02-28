@@ -1,12 +1,11 @@
 ﻿ITLR
 
-TRK
+KLD
 	LNK^TH
   KLN.PLS_DR
   KR^TK_EA^L //KERIKET ADD
-
-    LCK^G //MSAIK KAN'
-    RDF:CHF'A //MAO DIFAI
+    NFS:LSK.BRS//MSAIK KAN'
+    ~RDF~LSK //M'AO DIFAI
 
     MLK
   KLT
@@ -19,4 +18,4 @@ TRK
     //DLT^B
     //RLS'E
   LCK
-KLD
+TRK
