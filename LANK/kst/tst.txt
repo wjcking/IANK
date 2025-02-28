@@ -11,17 +11,31 @@ ist^k
   rst
   
   \\V C K^T LANK VZK
-	tst-unz
-    trs 
-      //trz inth^chwn zk  TREASON cwv
+	tst:tsi    
+    //trz inth^chwn zk  TREASON cwv
+    //!tis-oed
+    //~tsl
+    
+    O-R
+      trt //v trk r.slk rotate ~f
       
-      //!tis-oed
-      //~tsl
-    tsi
+      trt^u:trt^n
+      tut^r:tnt^r
+      
+      trt^z
+      tut^z:tnt^z
+      
+      v
+        tzt-u:tzt~n
+        tzt^ro.tft
+        //TSO VSO TOT;
+        tzt^u:tzt^n
+      ^
+      tft-tns //tfn n1shn definition
+    F^V
    
-    trt-tns //tfn n1shn definition
     tnt
     tut
-    trt \\trk
-	tzt //kt~s kt~ks kts 
+	  tzt //kt~s kt~ks kts 
+  -unz
 krs
