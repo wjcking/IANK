@@ -17,8 +17,9 @@ ist^k
     //~tsl
     
     O-R
-      trt //v trk r.slk rotate ~f
-      
+      trt 
+        //itr itn
+        //v trk r.slk rotate ~f
       trt^u:trt^n
       tut^r:tnt^r
       
@@ -28,14 +29,22 @@ ist^k
       v
         tzt-u:tzt~n
         tzt^ro.tft
-        //TSO VSO TOT;
+        //TSO VSO TOT; V TUT.LIK
         tzt^u:tzt^n
       ^
       tft-tns //tfn n1shn definition
+        //frs //tis.t'sh distinguish
+        // kvz:tzv 'INE*L UPB FST DWB.LIK V
+        // KZDT^A^N:KANZD
+        // t:k^s kios kts
+        // keaoz-d~kiz
+        //fls^z
+      TFS:FST
     F^V
    
     tnt
     tut
 	  tzt //kt~s kt~ks kts 
+	  tft:szi
   -unz
 krs

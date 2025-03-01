@@ -1,8 +1,7 @@
 ﻿FSK$R
 
 TRK.KRT
-FLZ^EN
-FSK
+FLZ
 
 RTH:RKB.BLK.IANK
 isk-fsi.szi
@@ -15,7 +14,7 @@ izT~i.l
         s~:v:d'n:h^i.u.d 
         -d:^d6s:vr~k
     z
-    v "LINE UPB
+    v "LINE UPB TUT.LIK
     ifs~fsr
       f-ksi
       d

@@ -1,19 +1,25 @@
 <FSR>
 
 $FST:TSR'O-I~ST:F-T
-
 TIS //KBT:FRS.FNK:FKD^AN.RST
   FTI~SNZI'JA_TSI
   FCT:RCK:KBT~ERCK
   KCT
 &ERICK.Y&!ATS
 
-<ISK>
-ЖЖЖNЖЖЖUЖЖЖЖЖЖ
-ЖЖЖTЖЖЖЖЖЖNЖЖЖ
-ЖЖЖSЖVЖЖЖЖЖЖЖЖ
-ЖЖЖNЖЖЖZЖЖЖЖЖЖ
-ЖЖЖVЖSZЖЖЖЖЖЖN
+<$ISK:OSI OZONE^A>
+ЖЖЖIЖЖЖЖUЖЖЖЖЖ
+ЖЖЖTЖЖЖЖЖЖЖЖFЖ
+ЖЖЖSЖЖЖWЖЖЖЖЖЖ
+ЖЖЖЖЖVЖЖЖЖЖNЖЖ
+ЖЖЖЖЖZЖЖЖЖЖЖЖЖ
 
-$SZIA&FTN~FST:IFT~VSKT //IFT:TRS:TLD 
+$ZSI^A
+&FTN~FST
+VRSK~VSO;KT
+  VSD'O~LANK.FSK:KD;E
+  LK LNK RD LD 
+KBT//KPT SRT:TLP
+KFS:IFT //TRS:TLD
+
 $RKS:RST

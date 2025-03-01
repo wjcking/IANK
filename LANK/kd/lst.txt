@@ -1,4 +1,4 @@
-﻿lst:lank
+﻿ist:lank
 kst.kns
 
 trs-bls

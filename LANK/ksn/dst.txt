@@ -13,20 +13,21 @@ dsr~rsk^vd
 	\\rkb~itr~l.rts.dsr
 	\\dsn-mts.mds-fst
 	
+	tfs
+	~
+    tsn:nts
+    xfs.nfs
+      \\tsm
+      \\dms.pst.knt.kzn
+      \\ltx:tvx-H
+    fsn
+	-
 	fst
 	\\~srt~rst
 	\\trs.dnt.trd
 	\\tns.dns.dsn
 	\\tsk~tsf.chf.EXCH^t.ets
-	tfs
-	
-	nfs~nts-tsn
-		\\tsm
-		\\dms.pst.knt.kzn
-		\\ltx:tvx^H
-	fsn
-
-\\srd.trs
+  \\srd.trs
 dns
 
 [lik:dst:dsr]
@@ -36,4 +37,3 @@ rdn.rdf
   \\~ksn~ixr^l
   \\krx rft flt ast^k:tsk
 rns
-	
