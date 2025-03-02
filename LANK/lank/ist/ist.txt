@@ -9,7 +9,7 @@ its
 tsi	
 //tsi.its.tsl-int
 //sit-lank
-//tis-land
+//tis^land
 
 tns.kns.ksn
 

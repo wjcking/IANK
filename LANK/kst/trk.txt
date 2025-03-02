@@ -5,11 +5,11 @@ tsr
 	//lws
 	//wls
 	       
-  trk
+  ,krt fsk tsk
     //isk:lsk  
     kunz
-    //hbt
-    //vertical upside thundra   
+    HBT
+    //VERTICAL UPSIDE THUNDRA   
     //~zncun
     !kst.fst 
   tzk-rst-vct
@@ -21,9 +21,9 @@ tsr
       ^tsf~tst-unz
       ^  tut.lik
       ^  tkd
-      ^  ank
+      λ  ank
       ^  ~fand
-      ^  tub.ink
+      λ  tub.ink
       ^fsk
     fst
     dnf:tfs.srt

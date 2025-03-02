@@ -31,13 +31,14 @@ ist^k
         tzt^ro.tft
         //TSO VSO TOT; V TUT.LIK
         tzt^u:tzt^n
-      ^
+     ^λ
       tft-tns //tfn n1shn definition
         //frs //tis.t'sh distinguish
-        // kvz:tzv 'INE*L UPB FST DWB.LIK V
-        // KZDT^A^N:KANZD
-        // t:k^s kios kts
-        // keaoz-d~kiz
+          //V:irnk i 1 lsk
+          //kvz:tzv 'ine*l upb fst dwb.lik v
+          //kzdt^a^n:kanzd
+          //t:k^s kios kts
+          //keaoz-d~kiz
         //fls^z
       TFS:FST
     F^V

@@ -5,17 +5,19 @@ v
   -l:vins!tis
 k
 
--lsk
-<
+lsk-vck
+~
   v-l:(x-~t)~-k:i
   v:i.r
   v:l.r
-  r
-    f:v
-    b~k
-    //k=v?s:i?a
-  -i
->
+  <
+    r
+      f:v
+      b:k
+      //k=v?s:i?a
+    i
+  >
+-
 
 vsk~lsk
 tsk-vns

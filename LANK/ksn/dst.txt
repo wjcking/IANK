@@ -12,8 +12,6 @@ dsr~rsk^vd
 	[dns.nts:dsn]
 	\\rkb~itr~l.rts.dsr
 	\\dsn-mts.mds-fst
-	
-	tfs
 	~
     tsn:nts
     xfs.nfs
@@ -23,11 +21,12 @@ dsr~rsk^vd
     fsn
 	-
 	fst
-	\\~srt~rst
-	\\trs.dnt.trd
-	\\tns.dns.dsn
-	\\tsk~tsf.chf.EXCH^t.ets
-  \\srd.trs
+    \\~srt~rst
+    \\trs.dnt.trd
+    \\tns.dns.dsn
+    \\tsk~tsf.chf.EXCH^t.ets
+    \\srd.trs	
+	tfs
 dns
 
 [lik:dst:dsr]

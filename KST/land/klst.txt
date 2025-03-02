@@ -22,3 +22,4 @@ pst.knt^e//CHWAI LAIS KANGST_EXPR
 krf:krs^f
 //trf
 kbt
+kdks
