@@ -1,1 +1,1 @@
-﻿x:ist[t]
+﻿x:ist(t)

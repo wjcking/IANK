@@ -1,6 +1,6 @@
 ﻿fst
 kns.krt
 
-kfs:krs~krf
+kfs:krs~krf //klf
 
 -itf

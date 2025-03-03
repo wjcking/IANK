@@ -5,32 +5,15 @@ tsr
 	//lws
 	//wls
 	       
-  ,krt fsk tsk
+  ,krt:tsk,fsk 
     //isk:lsk  
     kunz
     HBT
     //VERTICAL UPSIDE THUNDRA   
-    //~zncun
-    !kst.fst 
-  tzk-rst-vct
+    tct//~zncun
+    -kst!rst!vct
+  tzk
 	
-  //trs:drs
-  dsr
-    its^k:kzn
-    srt.srd:nts^r
-      ^tsf~tst-unz
-      ^  tut.lik
-      ^  tkd
-      λ  ank
-      ^  ~fand
-      λ  tub.ink
-      ^fsk
-    fst
-    dnf:tfs.srt
-      itl:its^itr:tsi        
-      isk:itr:iank
-    tsn
-  dns
 rts
 
 //rst~i-l
