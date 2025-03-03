@@ -15,7 +15,7 @@ r
   >
   
   xrt:rst~z
-  <  
+  <
     f~t
     k
       <-krs:kns~kms>

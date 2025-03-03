@@ -25,6 +25,7 @@ kct //~vzs
   WZN^THN:E
     KDE:MZT.EXTH
     WZN.CHN
+      KZR
   -VZN~CHN
   
   [ZXS~T.NFS:EXTH]
