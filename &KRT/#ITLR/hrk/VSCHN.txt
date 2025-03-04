@@ -1,4 +1,4 @@
-﻿//FRISKEA-WISTRON
+﻿"FRISKEA-WISTRON
 KLT.LNT
   AZN
     NTS.NUT.JZS
@@ -13,29 +13,29 @@ KLT.LNT
     
   LHR.KLH:ACHS.ECHS
   LXA.ASH_A
-  LXA_E.VLS//DNS.SOVET*L
+  LXA_E.VLS"DNS.SOVET*L
   HLK
-    HLX.FLC //FRANCIS
+    HLX.FLC "FRANCIS
     HLN_K
 
-    //MRK.MRS ROMNIA
-    //LATINA ESPANIOL
+    "MRK.MRS ROMNIA
+    "LATINA ESPANIOL
   LVCH.LTN^A.UNX  
 LCK.RD
 
-//SKLT.RL
-//FSK#FZK A SAYERIFT ALFLED FIRSIT 
+"SKLT.RL
+"FSK#FZK A SAYERIFT ALFLED FIRSIT 
 夫丝克.丝特维 
-//应禾卡立柯.几什不位
-//英忑力次可.申体力行
+"应禾卡立柯.几什不位
+"英忑力次可.申体力行
 
-//文明之前
-//群组分析 穿透关系 迭代关联
-//克朗合 克伦兹
+"文明之前
+"群组分析 穿透关系 迭代关联
+"克朗合 克伦兹
 
 人水元
 	没在陈^安
-		涿水 //系彻 圣处
+		涿水 "系彻 圣处
 		维水没^美
 		汇水谁
 	陈水没
@@ -45,13 +45,13 @@ LCK.RD
 元水人
 
 维沉思
-	//#L^ZH YAMATO MINZOKU
+	"#L^ZH YAMATO MINZOKU
 	やまとみんぞく
 	芝立.中立:源起
 
 	正约希中平  忑元井丹人
 	太安平应之
-	菱土东摇摆^原氏女	//YKXL.LGLX:FTN^PD.MKR:MSH^FKS
+	菱土东摇摆^原氏女	"YKXL.LGLX:FTN^PD.MKR:MSH^FKS
 
 	忝元予涿 伯欧立克
 沉斯维
