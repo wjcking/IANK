@@ -10,9 +10,9 @@ KLD
     MLK
   KLT
 
-  BTS
-		LST.ATRZK
-  BDS
+  BT#S LST.ATRZK
+  BDS^A
+  BDS^ER 
 
   KTN.RSK^T
     //DLT^B
