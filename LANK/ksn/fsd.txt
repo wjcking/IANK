@@ -1,8 +1,11 @@
 [lik:dsr]
-\\SRD.TRS
-rdn.rdf
-  \\~KSR-
-  \\~ksn~ixr^l
-  \\krx rft flt fsk 
-  \\ast^k:tsk
+SRD.TRS
+rdn
+  RDF
+  ~KSR-
+  ~KSN~IXR^L
+  KRX 
+  WGS:RFT FLT FSK 
+  'FWSD
+  AST^K:TSK
 rns

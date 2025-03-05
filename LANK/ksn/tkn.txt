@@ -2,7 +2,7 @@ lank.ist-s
 //stk skr.itr-kl	skt
 
 //knt:kast.tnk
-//tkz'ta^ti.kn
+//tkz:ta^ti.kn
 kns'ai	
 
 kts:ktn	//stk.tsk:tsn

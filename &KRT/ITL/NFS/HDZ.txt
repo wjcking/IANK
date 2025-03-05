@@ -11,7 +11,7 @@ RKB.ITLR.DKBT
     BRK.LCK
   LSA "LSN_EAR_N
 
-  "NOSE
+  BLS~ "NOSE
   BKE.NWOK
     MTK^S.MDR
     FLD.NK 
