@@ -1,7 +1,12 @@
 ﻿ksn
 
 xfs.nfs
-  dsr trs x       
-  ^lsd-kst
+  dsr trs x  
+  fsk
+    szi-fst
+    trx:trs.tls //bls~txk
+  trk
+  
+  lsd-kst
   dns.nts:dsn
 fst

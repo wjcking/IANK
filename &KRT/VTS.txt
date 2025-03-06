@@ -15,30 +15,37 @@ $ FKS
 
 ^	SKT:SKR
   ' AI'N#
+  
+O SZI:KRS~FSK
+
 % PST.KNT
   @ ISNK:NLUS
     ' ANG ENG
     ~ N:M
-  O LEN'K@ENG LEN'D@ENG LDK ~KLT
+  O LEN'K@ENG LEN'D@ENG LDK TLK~KLT
   F FLC:FLX^ALN:FLZ VZS^N.FSN
+  
 #	ZH ZHL H KTS 
   -$ SLS
   # MLS
   ' MLS
-  , .~tk sdk sktr
+  , .~TK SDK SKTR
 ! TXU.JSN^NA
 ; KRI
   <
     ? CURRENT CLASS
       ! AN^NON "UNKNOWN^KG    
       O
+      [
         ANG'KUN
         ANW^K
+      ]
+      O %.O
   >
 *	LXR LXA LXY
 _ NSK-TZH'WA
-" CRK //zhw'sh
+" CRK //ZHW'SH
 
 , 
-  |zs,a
+  |ZS,A
 .
