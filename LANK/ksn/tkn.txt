@@ -1,8 +1,12 @@
 lank.ist-s
 //stk skr.itr-kl	skt
 
-//knt:kast.tnk
-//tkz:ta^ti.kn
-kns'ai	
 
-kts:ktn	//stk.tsk:tsn
+ktz	//skt.tsk:tsn
+  tks-e
+  tkz:ta^ti.kn
+  
+  //knt:kast
+  kns'kin
+  kns'ai
+ktn

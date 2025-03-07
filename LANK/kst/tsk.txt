@@ -14,6 +14,6 @@ itr-tsi-k:v
 trs
 	krt
 	//itr.stk.kns:tns
-	//knt:kmt
+	//knt
 	ktr
 trk

@@ -5,7 +5,7 @@ xfs.nfs
   fsk
     szi-fst
     trx:trs.tls //bls~txk
-  trk
+  trk:xft
   
   lsd-kst
   dns.nts:dsn

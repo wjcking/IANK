@@ -19,3 +19,5 @@ ktr-kdr
 		kiz
 	knt
 krt~klt:kld
+
+krt-dns:trk
