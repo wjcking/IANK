@@ -1,14 +1,14 @@
-﻿-KIZ~FST
-KIZ:FST
-KIZ:KST
-KIZ:KST-KNT 
-KIZ.KNS:KNT //KMT
+﻿-kiz~fst
+kiz:fst
+kiz:kst
+kiz:kst-knt 
+kiz.kns:knt //kmt
 
-KIZ
-	TVN
-		KNV
-		KNU
-		KT
-		KUNZ //KUN:TLZ	
-	KVT
-KNS
+kiz
+	tvn
+		knv
+		knu
+		kt
+		kunz //kun:tlz	
+	kvt
+kns

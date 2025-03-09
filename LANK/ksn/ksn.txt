@@ -8,12 +8,12 @@ xrk
 srk~ixr:itr 
 ixr
   kdt
-  kct-vsr  //krs^co
+  kct-vsr //krs^co
   fsr:fsk
     flb:izT:szr-kadc
     ~fst:zsr
-    ^bsrTsd:tsr&ktr
-  dsr
+    tsr&ktr
+  dsr^bsrTsd
 irx //rts
 
 ~

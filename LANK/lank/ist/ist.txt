@@ -1,15 +1,14 @@
-﻿/*
-*i~s-t
-*itls:i=s=t
-*/
-ist.its.ats
+﻿"I~S-T
+"ITLS:I=S=T
+IST.ITS.ATS
 
-ist
-its
-tsi	
-//tsi.its.tsl-int
-//sit-lank
-//tis^land
+IST
+ITS
+TSI
 
-tns.kns.ksn
+;TSI.ITS.TSL-INT
+;SIT-LANK
+;TIS^LAND
+
+TNS.KNS.KSN
 
