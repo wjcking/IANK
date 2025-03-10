@@ -1,4 +1,4 @@
-r.z't'o "Rizontal N
+R.Z'T'O "RIZONTAL N
 
 TSN
   KSR~FST "BLF
@@ -13,7 +13,7 @@ TSN
   "ANCKER.ATIBLES:BECCA
     "RYBEAKA.REBACCA:RYBER
     "RFB.FBK	
-    "lif
+    "LIF
   "CHAI^AN:K'ULR
   "KAIBI7
   FST
@@ -24,5 +24,8 @@ TSN
   "ATS.FLAT
   
   "TKZ.KN'E TAT TD KN E
+  " &KRT/#ITLR/HRK
+  " RSH.KKB
+  " SKR^SHWO
   "TETRIS:DAD*ELS:ТЕТРИС
 KRX

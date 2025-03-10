@@ -1,7 +1,7 @@
 F
 
 O'R,C
-  VGS~VNS:szij:anem
+  VGS~VNS:SZI:ANEM 'J
   GIN^JN'HIN  
   CAIDE^KSR \\-KCX -T.F~ XTZ:KD7SZ
   
@@ -12,5 +12,5 @@ CRX
 
 ~BLS-
 in
-  LANK:kd:lst:irlk<trs-bls>
+  LANK:KD:LST:IRLK<TRS-BLS>
 tk

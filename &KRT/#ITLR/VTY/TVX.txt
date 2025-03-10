@@ -6,8 +6,7 @@
 
 "AXS^TX:INCH:BSH:LTY ENTXCHYS
 "JXS.JLS_ZH.ELS
-邱齐丝
-轻齐丝 
+邱齐丝:轻齐之 
 	水龙陇:飞切风
 	流观动:刘一飞
 
@@ -21,7 +20,7 @@
 		~卷龙引:卡了七"六比七
 		"铂忑力丝柯
 	<切立维>
-引齐丝
+引齐丝 'N#O
 
 "FLC.LAN
 "	TVX@EXTH:ETS
@@ -32,8 +31,8 @@
 "FLZ.LEN
 风来希#林
 	"LRS^X3
-	水及肋人^三:
-	今一人水:木七十切
+	水及肋人^三
+    今一人水:木七十切
 	今水维卡^钛来
 		"SPS^BLC:SAP TVX@EXTH:ETS
 		弗人挤:肋人瓷^维三忑	
