@@ -1,12 +1,12 @@
 lank.ist-s
-//stk skr.itr-kl	skt
-
+//stk skr.itr-kl skt
 
 ktz	//skt.tsk:tsn
   tks-e
-  tkz:ta^ti.kn
+  tkz:ta^ti.
   
   //knt:kast
-  kns'kin
   kns'ai
+  kns'kin
+  knz-szi //kt r-k ~z
 ktn
