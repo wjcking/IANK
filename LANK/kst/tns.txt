@@ -11,7 +11,6 @@ ktr-kdr
 		kfs:fst
 	
 		//ist~vst-itl
-    //kirt-kird
 		//ktl:ksl'
 		kt
 		
@@ -20,4 +19,4 @@ ktr-kdr
 	knt
 krt~klt:kld
 
-krt-dns:trk
+krt-dns:trk~rds

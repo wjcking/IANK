@@ -1,19 +1,19 @@
 ﻿isk:stk
 
-//S.T~D.K
-//STK:SDK
+"S.T~D.K
+"STK:SDK
 t:s.i 
 	t
 	k
 	tk
-	//i vst
+	"i vst
 	kt
 ist
 
 itr-tsi-k:v
 trs
 	krt
-	//itr.stk.kns:tns
-	//knt
+	"itr.stk.kns:tns
+	"knt
 	ktr
 trk

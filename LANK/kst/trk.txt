@@ -1,22 +1,22 @@
 ﻿itr-tsi-k:v
 trs~tsk:tzk
 
-t~sr
-  ,isk:lsk
+ts-r
+  ,ISK:LSK
   
   "HBT
   ,VERTICAL UPSIDE THUNDRA   
-  ,tck~zncun
-  ,-kst!rst!vct  	
-  ,ktr,krt
-  fsk
+  ,TCK~ZNCUN
+  ,-KST!RST!VCT  	
+  ,KTR,KRT
   xft
-rts
+  fsk
+rt~s
 
 'srt
 'rst~i-l
 'drs:trs
-	'dwf~dnf
-	'lws
-	'wls
+	'DWF~DNF
+	'LWS
+	'WLS
 'tlk

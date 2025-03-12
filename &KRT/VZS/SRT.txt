@@ -7,19 +7,19 @@ FSN-VRSK
   TLD:KLD
 RNS
 
-F
+F~L.S
   X
     L~IF
      T SH 
        N.K~
-         '-_
-         C~CHWAFO
-         X~F
+         '-_ ;TZH:KKB
+         C~CHWAFO ;SNK
+         X~F |XRK
        K:Z.T
      7
     L~ZK
   A.N:TK
-I.L~S
+I 
 
-//~KELWOS-KST
-//-SILWOK
+"~KELWOS-KST
+"-SILWOK

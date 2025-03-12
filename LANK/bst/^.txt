@@ -1,5 +1,5 @@
 trs   
-
+ 
 krs
 ~bsk:f~b.l 
 
@@ -7,3 +7,5 @@ txk-tsk
 bsk-f~b-l
 
 lsd-kst
+
+fst:szi

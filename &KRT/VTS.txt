@@ -20,11 +20,12 @@ O SZI:KRS~FSK
 
 % PST.KNT
   @ ISNK:NLUS
-    , ANG ENG
+    
     ~ N:M
   O LEN'K@ENG LEN'D@ENG Low,K;LEUK LDK TLK~KLT
   F FLC:FLX^ALN:FLZ VZS^N.FSN
-' |ZS,A  
+' |ZS,A
+  ~, ANG ENG
 #	ZH ZHL H KTS 
   -$ SLS
   # MLS

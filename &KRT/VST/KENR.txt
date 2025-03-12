@@ -9,10 +9,8 @@ SLS&.ENK$
   I1SP E2SY' 3S'V ^S4ZN 'PINYIN#
   NKS&EXCH~T
   
-  O;S;V;
-  (
-    
-  )
+  O;S;V;VST
+  
   (MLS:TLD-GLS)
   (SNK@NLU&KD'NWR)
   (KM7:LANK)
@@ -20,7 +18,7 @@ SLS&.ENK$
     VWR,KZR "XINJAN'-ZHON'DON'
   KTZ
   
-  TRK:KOT~B-IRX-FTN
+  TRK:KOT~B-IRX-FTN ;dls
   HNLX&KRX:ISK&RZT
   
   <KLS-TXK>
