@@ -7,14 +7,14 @@ ktr-kdr
 	<kst:tsk~fsk-dst>
 	<skt:stk:kts-kkt~fst>
 	trk
-		//krs:krf.krk~krt
+		"krs:krf.KRK~krt
 		kfs:fst
 	
-		//ist~vst-itl
-		//ktl:ksl'
+		"ist~vst-itl
+		"ktl:ksl'
 		kt
 		
-		//kaz kast kdrz
+		"kaz kast kdrz
 		kiz
 	knt
 krt~klt:kld

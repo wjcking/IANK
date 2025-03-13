@@ -3,7 +3,7 @@
 xfs.nfs
   dsr trs x  
   fsk
-    szi-fst
+    szi-f-s~t
     trx:trs.tls //bls~txk
   trk:xft
   

@@ -9,7 +9,7 @@
   ,  FWSD
   ;  AST^K:TSK
   ;
-  ;   [lik:dsr]
+  ;   [LIK:DSR]
   ;   kirt-kird knt
   ;   SRD|TRS
   ;rns
