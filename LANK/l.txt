@@ -10,4 +10,4 @@ IRNK
   <TRS>
 IENK
 
-LANK
+LENK "A LEAN
