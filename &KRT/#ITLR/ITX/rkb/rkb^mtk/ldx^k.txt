@@ -2,7 +2,7 @@
 *赛门铁克
 *斯文莱特. 原始:起源 型别 初性 性比
 *Symantek:Keris
-*friskea-wistron.html
+*friskea-wistron.ht
 */
 ats.mgt:rkt_el:jkt_e:brk_fg 
 

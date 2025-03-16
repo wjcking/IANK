@@ -2,6 +2,6 @@ ITN
 
 RTL~RTS
 FXS
-  FS'U~FSN;DFS
+  //FS'U~FSN;DFS
   FSH
 FTN
