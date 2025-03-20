@@ -13,6 +13,10 @@ F~S.L
 	TRK 
 	TLD:DNS.NTS.SDN~NKS
 	TRF:LNF.DNF
+    ;FLEX-ABLE
+    ;FLK^AN'WU
+    ;FLU
+    "HLX HDL TSH^X
 	FLZ
 B
 
