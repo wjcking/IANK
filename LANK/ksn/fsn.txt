@@ -1,7 +1,7 @@
 ﻿ksn
 
 xfs.nfs
-  dsr trs x  
+  dsr trs x
   fsk
     szi-f-s~t
     trx:trs.tls //bls~txk

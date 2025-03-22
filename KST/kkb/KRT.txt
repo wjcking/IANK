@@ -1,11 +1,7 @@
-//KELYSTON.PERFORMANCE.FILEREAD:SYSTEM.IO.FILESTREAM.SEEK   //读取超大文本文件
-UPPER CASE
-Α	Β	Γ	Δ	Ε	Ζ	Η	Θ	Ι	Κ	Λ	Μ	Ν	Ξ	Ο	Π	Ρ	Σ	Τ	Υ	Φ	Χ	Ψ	Ω
-LOWER CASE
-α	β	γ	δ	ε	ζ	η	θ	ι	κ	λ	μ	ν	ξ	ο	π	ρ	σ ς	τ	υ	φ	χ	ψ	ω
+
 
 KRT
-	KRT^A.R
+	KRT^A
 	KRT^E.I
 	//KRT^AR.IBT^RT:KDR
 XRK
@@ -26,22 +22,21 @@ XRK
 *化石 新生代
 
 *https://zh.m.wikipedia.org/wiki/史前时代
-* 人类交杜 水尖刻度 地质年代 //单位时间 六个 
-* 连涿转:类人远
-*.萨尼克.硕钛克 克来特 
-* 迭代 句边和夫折
-* 来拉乐 的立克
+* 人类交杜 水尖似折 度刻 年代质地 //单位时间 六个 
+* 连涿转:迭代 句边和夫折:类人远
+*.硕钛克.萨尼克 克立特 
+* 来拉乐-的立克 克来特
 KRTES.KEST
-ANK^AGO
+ANK^AGO&tkd.enk
 //GTS.ATR.HXS^TH.APS.D:LALNHAT3
-EON:ION.ADVERSA//元
+EON|UN_|ION.ADλ^ VERSA//元.宇宙
     AYERAN
     ARYAN
   ERA.LAYEN//代.了.来
   PERIOD//纪
   AGE//期:数.拉
   CHRON //时:术.卷沃  
-EPOCH//世:仁.宇宙
+EPOCH//世:仁
 
 RD:RSH.ERY.RSK//木柯冗元 好各兀五远
 R.N
@@ -49,21 +44,15 @@ ATB:ABT//元术:述远
   A.S^X
 		//远木束 
 		//中希互 系朱豖
-		//冲草之 次米之
+		//冲草之 此至之
 		RAY 
 		//元束卡
     ARY 
 
-    ARY  //希元水 予水杰
+    ARY  //希元水 予己水
     RAY//仁兀士   
   E.X
 ARST.JSK:R^VY//元士 系 余 干 水
 R.L
 
-      //TSO VSO TOT;
-        "FWSD 
-        " CRCET МЯГКИЙ PEDESTRIANS BORDOM
-        " PUT THE EARTH INTO A SQUARE&KADERS
-        ,O?SF;AN|K
-        " FWSD
-        "&TSK:1vzd7 ZELD|TSV$TKS
+.PERFORMANCE.FILEREAD:SYSTEM.IO.FILESTREAM.SEEK   //读取超大文本文件

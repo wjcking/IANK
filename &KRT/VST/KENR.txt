@@ -2,14 +2,14 @@
 
 KENR:LD-RC:HRK.RD 'MONGOLIAN$
 SLS&
-  [TH^K] 
-  KA MI KW KAI KAO
-  YA:YU:YO 
-  JA:JU:JO  
+  [TH^CH^ZHE]
+  KA MI^K1 KW KAI KAO
+  YA:YU:YO
+  JA:JU:JO
   [SH'K]
   I1SP E2SY' 3S'V ^S4ZN 'PINYIN#
   NKS&EXCH~T
-  [ZH'T]
+  [ZH'ZE-T]
   V-Q;S; "LDSK
   
   (TLD-GLS)

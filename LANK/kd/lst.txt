@@ -4,16 +4,16 @@ kst.kns
 trs-bls
 	k:t
 	
-	kuv //tuv
+	kuv "tuv
 	kvn:tvn^u
-	kt //i
+	kt "i
 
 	<ist:irk:ilk>
 
-	kiz //kaz kast
-	kfs~fst:itf //fank:krf
+	kiz "kaz kast
+	kfs~fst:itf "fank:krf
 
-	kunz //knt:mwz
-tsi-lst //tsi.itr.tsr^d tsl
+	kunz "knt:mwz
+tsi-lst "tsi.itr.tsr^d tsl
 
-//rsk.vsd rst^kvt^b!
+rsk-vct "rst^kvt^d
