@@ -19,11 +19,15 @@ $ FKS
 O SZI:KRS~FSK
 
 % PST.KNT
-  @ ISNK:NLUS
-    
+  @ ISNK:NLUS    
     ~ N:M
-  O LEN'K@ENG LEN'D@ENG Low,K;LEUK LDK TLK~KLT
-  F FLC:FLX^ALN:FLZ VZS^N.FSN
+  O LOWK ;LUK
+    LEN'K@ENG LEN'D@ENG
+    ALEP AOT1EAR 
+    LDK "TLK~KLT
+    
+  F FV FN
+    FLC:FLX^ALN:FLZ VZS^N.FSN
 ' |ZS,A
   ~, ANG ENG
 #	ZH ZHL H KTS 
@@ -39,6 +43,7 @@ O SZI:KRS~FSK
       O
       [
         ANG'KUN
+          WET^R
         ANW^K
       ]
       O %.O
