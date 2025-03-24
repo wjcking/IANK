@@ -19,11 +19,12 @@ $ FKS
 O SZI:KRS~FSK
 
 % PST.KNT
-  @ ISNK:NLUS    
+  @ NLU:ISNK    
+    NR.BK
     ~ N:M
   O LOWK ;LUK
     LEN'K@ENG LEN'D@ENG
-    ALEP AOT1EAR 
+    S~BL:ALEP AOT1EAR 
     LDK "TLK~KLT
     
   F FV FN

@@ -5,7 +5,7 @@ SLS ;FLZ JXS
 ;地力丝 莫的 没丝
 DLS:MFS@KRD:LSA
 ;耐柯 伯兹 克力柯 
-VSD:KND:VST-KLK.BLS^ZA
+VSD:KND:VST-KLK.BLS^Z
 /***柏力克***/
 BLK	;BKL:BDE:BDS:GDE
 ;莱钠的 甘的 及儿 上 分柯

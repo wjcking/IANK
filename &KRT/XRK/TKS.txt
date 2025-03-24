@@ -4,4 +4,13 @@ TKZ
   "TNS^DSO
   "ANK
   ATK
-TKN
+  KZT
+  
+  KZT.C.LNT
+  TZK^E.S.ITS.CH
+  TSK^E.CZ.LNT.CH
+  TKS^E.Z.ITS.TH
+  TKS^I.ZH.GTS
+KTN
+
+~TKN
