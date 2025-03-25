@@ -11,10 +11,10 @@ ist^k
   rst
   
   "V C K^O LANT VZK
-	tst:tsi    
-    'trz inth^chwn zk  TREASON cwv
-    '!tis-oed
-    '~tsl
+	tst:tsi
+    ;trz inth^chwn zk  TREASON cwv
+    ;!tis-oed
+    ;~tsl
     
     O-R
       trt 
@@ -32,20 +32,23 @@ ist^k
         'TSO VSO TOT; V TUT.LIK
         tzt^u:tzt^n
       ^λ
-      tft-tns 'tfn n1shn definition
-        'frs 'tis.t'sh distinguish
-          'V:irnk i 1 lsk
-          'kvz:tzv 'ine*l upb fst dwb.lik v
-          'kzdt^a^n:kanzd
-          't:k^s kios kts
-          'keaoz-d~kiz
-          tct 'kt~s kt~ks kts -unzncun
-        'fls^z
-      TFS:FST
+      
+      ;FRS
+        ;TIS.DUT:TSH.TIN'KVSH 
+        ;V:IRNK I 1 LSK
+        ;KVZ:TZV ;INE*L UPB FST DWB.LIK V
+        ;KZDT^A^N:KANZD
+        ;T:K^S KIOS KTS
+        ;KEAOZ-D~KIZ
+        ;TCT 'KT~S KT~KS KTS~ZJI-UNZNCUN-KTC
+      ;FLS^Z
+      tft-tns
+        TFS:FST 'TFN N1SHN DEFINITION
+      tfx.flx
     F^V
    
     tnt
     tut	  
-	  tft:szi
+	  tft:szi:fx~t
   tzt
 krs

@@ -21,4 +21,5 @@ lsk-vck
 
 vsk~lsk
 tsk-vns
+szi:fst
 vzs:vck

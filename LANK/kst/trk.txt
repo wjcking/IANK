@@ -1,17 +1,24 @@
 ﻿itr-tsi-k:v
 trs~tsk:tzk
 
-ts-r
-  ,ISK:LSK
-  
-  "HBT
-  ,VERTICAL UPSIDE THUNDRA   
-  ,TCK~ZNCUN
-  ,-KST!RST!VCT  	
-  ,KTR,KRT
-  xft
-  fsk
-rt~s
+sz-c~i:h
+-
+  ts-r
+    isk~lsk
+    
+    "HBT
+      ,VERTICAL UPSIDE THUN-H~DRA
+    "HDL    
+    
+    ,-KST!RST!VCT
+    ,KTR,KRT
+    ,KTC~ZNCUN
+    xft~tft:tst k
+    ~t
+    lank:v:f:irt~k:fsk
+    -x
+  rt~s
+~
 
 'srt
 'rst~i-l

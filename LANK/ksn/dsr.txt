@@ -7,7 +7,7 @@ fsn
     xfs.nfs
      
     \\~srt~rst
-    \\trs.dnt.trd  
+    \\trs.dnt.trd
     dns.nts:dsn
     [
       dnf:tfs.srt
@@ -17,7 +17,7 @@ fsn
       \\rkb~itr~l.rts.dsr
       \\tsm
       \\dms.pst.knt.kzn
-      dns\\tsn tns tsn:nts  
+      tsn\\dns tns tsn:nts  
       <fst>
     ]
   dst:n^t-s
