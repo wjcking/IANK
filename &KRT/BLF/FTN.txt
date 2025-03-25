@@ -3,8 +3,10 @@ ITN
 RTL~RTS
 FXS
   ;FS'U~FSN
-    ;DFS:DFY'I:DFW
+    ;DFS
+      ;DFY'I:A1DZ:DFW
+    ;DFZ
     ;DFC
-    ;TFC    
+    ;TFC
   FSH
 FTN

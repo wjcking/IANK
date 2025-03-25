@@ -14,8 +14,8 @@ F~S.L
 	TLD:DNS.NTS.SDN~NKS
 	TRF:LNF.DNF
     ;FLEX-ABLE
-    ;FLK^AN'WU
-    ;FLU
+    ;FLK^AN'WU "_
+    ;FLW^U
     "HLX HDL TSH^X
 	FLZ
 B
