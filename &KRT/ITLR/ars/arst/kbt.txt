@@ -1,6 +1,8 @@
-﻿TFS.KBT
+﻿
 TBK
 	//ATS^M
-  ARST
+  У-ARST
   HSK^Z
 VLS
+.
+TFS

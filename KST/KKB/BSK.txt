@@ -15,3 +15,12 @@ I.T
 	S:I
 	I:A
 R
+//kmt.l.pst.knt_aln3 atsk.arst -PSK
+KNT.KNS
+KNT^I:MTH
+KNT^E
+
+KNT%^AN
+	KKB-GLB'WO@VKD "ATS.LNT.MKR-GLB:RPT
+	HLX
+KNT^%ALN
