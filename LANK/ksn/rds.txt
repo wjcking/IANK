@@ -7,8 +7,9 @@
     ~KSN~IXR^L
     KRX
     
-    FNS
-    WGS:RFT FLT FSK   
+    FNS;VKS
+    WGS
+      RFT FLT FSK
     FWSD
     
     AST^K:TSK
@@ -16,5 +17,6 @@
     \\[LIK:DSR]
     \\KIRT-KIRD KNT
     \\SRD|TRS
+    Я-A
   RNS
 "
