@@ -4,21 +4,18 @@ S:R~N
 
 KBT-VST~TXK
 
-[bsk#zh~e^o]
-b^s
+;BSK#ZH~E^O
+^
 	b
 	p
 	g
 	d
-	,q^u~ku^txo
-r:n
-
-[H~^O,E]
-B-S
-  B-LBWG-DWLG
-  D~W
-  G~R#L
-  
+  ;Q^TXO~ALL
+	
+  ~H2^EO
+  B "LBWG-DWLG
+  D ~W-C
+  G :R#L
   P
-  "Q^TXO~ALL
-N
+  ,q^u~ku^txo
+-N
