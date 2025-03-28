@@ -39,7 +39,7 @@ Ayelsion.Ocean.Habit
   Axis:Offset:Center
 Ryske.Hande.Gende
 
-"涿之米:艾若热^切力维:热若我
+"涿之热:艾若米#切力维
 INTV
 	"SAIRFT
 	"ACCESS-TERM/ALFED.HT
