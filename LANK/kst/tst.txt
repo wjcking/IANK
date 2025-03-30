@@ -33,7 +33,7 @@ ist^k
         tzt^u:tzt^n
       ^λ
       
-      ;FRS
+      ;FRS TSN
         ;TIS.DUT:TSH.TIN'KVSH 
         ;V:IRNK I 1 LSK
         ;KVZ:TZV ;INE*L UPB FST DWB.LIK V

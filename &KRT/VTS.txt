@@ -22,13 +22,17 @@ O SZI:KRS~FSK
   @ NLU:ISNK    
     NR.BK
     ~ N:M
-  O LOWK ;LUK
+  O :EO
+    LOWK ;LUK
     LEN'K@ENG LEN'D@ENG
     S~BL:ALEP AOT1EAR 
     LDK "TLK~KLT
+    ;Q
     
-  F FV FN
-    FLC:FLX^ALN:FLZ VZS^N.FSN
+  "FLS.FSN  
+  F FV
+    FN
+    
 ' |ZS,A
   ~, ANG ENG
 #	ZH ZHL H KTS 

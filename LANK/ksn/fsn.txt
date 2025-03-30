@@ -13,7 +13,7 @@ fsk
   trf:klf~ж&krf
   xrk:trk:xft.tft:tst
   \\o
-  -f   
+  -f
   //itb:lbt
    ж ea l r v c rsk
   ~v

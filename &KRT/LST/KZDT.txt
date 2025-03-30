@@ -14,5 +14,5 @@ RKB
   KLV
     KOV~KLD
     KLITI@VALINS
-  CONE
+  -CONE
 KM7
