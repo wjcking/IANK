@@ -7,7 +7,9 @@ Q
   .
     :RZK
     :TLS
-    \TXH\
+    TXH
+    /芮\
+    \的/
   i
 '
 CRX
@@ -17,11 +19,12 @@ RCS
 
 -TRS
 'SPL
-  IN
+  I
     LANK:KD:LST:IRLK
     <
     TK
     >
+  N
 ,BLS
 ~
 

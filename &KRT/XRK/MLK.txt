@@ -9,7 +9,7 @@ KB^D~E
   MLY'K' ;CHA ME LEON   
   
   ,A:ETCH:XTH |V LANK
-    TOD ;TOT^EU.BKT
+    TOD ;TOT^EU.TEO:BKT
     IKO-_^Q
     FOG ;ΒΆΤΡ*ΑΧΟΣ(NW1.FKS:GRENOUILLE;LN BW'G,SHKA ЛЯГУШКА)
     ?
@@ -22,9 +22,11 @@ KB^D~E
       U
       H
       N
+      
+      
     ;Q
   'R
-  |X.T.S*L T|
+  |X:T.S*L~T|
   W,5
   DX'
   X1,

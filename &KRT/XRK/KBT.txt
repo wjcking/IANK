@@ -15,7 +15,8 @@ $$$$$$$Я$$$$$$$
 
 AT-$
 
-ISNK:IANK
+:ITZK.
+:ISNK.IZTK
   \/
   /\
-IZTK:ITZK
+:IANK

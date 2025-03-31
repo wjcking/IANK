@@ -33,15 +33,7 @@ ist^k
         tzt^u:tzt^n
       ^λ
       
-      ;FRS TSN
-        ;TIS.DUT:TSH.TIN'KVSH 
-        ;V:IRNK I 1 LSK
-        ;KVZ:TZV ;INE*L UPB FST DWB.LIK V
-        ;KZDT^A^N:KANZD
-        ;T:K^S KIOS KTS
-        ;KEAOZ-D~KIZ
-        ;TCT 'KT~S KT~KS KTS~ZJI-UNZNCUN-KTC
-      ;FLS^Z
+      vfk.fsk "blf.v      
       tft-tns
         TFS:FST 'TFN N1SHN DEFINITION
       tfx.flx
