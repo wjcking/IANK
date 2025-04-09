@@ -35,7 +35,7 @@ ist^k
       
       vfk.fsk "blf.v      
       tft-tns
-        TFS:FST 'TFN N1SHN DEFINITION
+        TFS:FST 'TFN dfs.dfn:fdtn.nbt
       tfx.flx
     F^V
    

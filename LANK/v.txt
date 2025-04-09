@@ -8,8 +8,10 @@ k
 lsk-vck
 ~
   |r;s
-  |ark-~l
-  |ork~1-
+  |arc-~l
+  |orc~1-
+  |ark -~1
+  |1lлk~-l
   |i
   v-l:(x-~t)~-k:i
   v:i.r
@@ -23,7 +25,7 @@ lsk-vck
   >
 -
 
+vzs:vck
 vsk~lsk
 tsk-vns
 szi:fst
-vzs:vck

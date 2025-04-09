@@ -1,8 +1,8 @@
 BSN.MTS~EN-|SZA~RKB.BLS
 
 UNZE 
-  WTX-R:МОЧА:MOCHA:URINARY:WLN#
-  SHN:YUAN:XY1,AN
+  "WTX-R:МОЧА:MOCHA:URINARY:WLN#
+  "SHN:YUAN:XY1,AN
   T-I-A "time.10v/ch'en/CWV
   :C
     MW
