@@ -1,12 +1,8 @@
 R
 X~S
-  F //HW.X BWRAS.I
+  F //HW5X BWRAS.I
   L
   S
-
-  LST~IST
-    KMT~I.PST.KNT^ALN^3S~2
-  BSK
 T
 
 FRS TSN
