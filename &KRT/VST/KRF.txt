@@ -5,7 +5,7 @@ E,SH><
 1NK'LSH "ENG.LISH
   ,S'ALL
   |>T~SH
-    V2O O^LAND Q
+    V2O O^LANOD Q
   |)ISH^2R
 LQSK
 
@@ -13,21 +13,25 @@ LQSK
 "KNA' CHAI SWMR SH'M1T F_A_N1Z
 LAN,K:H
 BSC'K:AE~ROΛBIC
-E
-  ^
-  F "FNZ:F1Z:
-    ;LIN GU IS TIC
-    ; GAGOU
-    ;MO^QN,KU@Я^1E
-    "BTF
-    1     
-      T,_Z ;T EAR C1^V SH
+^
+  E
+    F "FNZ:F1Z:
+      ;LIN GU IS TIC
+      ; GAGOU
+      ;MO^QN,KU@Я^1E
+      "BTF
+    1
+      ;TW2 EAЯ_Ç1^V_KSH
+      ;HCK&LST.KZDT:KTLD
+      T,_Z 
     L
-  $
-A
+  
+  A
+$
 
-
-RST$KR7
-IST "ISNK-AST^K:AZTK
-FXS
-SRT.FLS
+KLλL
+  RST$KR7
+  IST "ISNK-AST^K:AZTK
+  FXS
+  SRT.FLS
+KLK

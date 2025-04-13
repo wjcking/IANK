@@ -2,16 +2,24 @@
 
 KENR:LD-RC:HRK.RD 'MONGOLIAN$
 SLS&
-  LQCKS~NKS
-  &EXCH~XTLK-R
-  LUCKS
-  [TH:CH^ZHE]
-  [ZH|ZE-T~SH]
-  [SH'K|]
-  KA MI^K1 KW KAI KAO
-  YA:YU:YO ^kytx 
-  JA:JU:JO
-  I1SP E2SY' 3S'V ^S4ZN 'PINYIN#
+  LDSK-L'QSC^LUCK:LUZCS
+  HXS
+    "E~S-H
+    "TXH~ЧZT'H "471074+N#
+    T.C,Q
+    S
+      K
+      Я "71N10
+      Z "T10
+    Z  
+  ^
+  
+  XFT "&NKS.EXCH~XTLK-R
+    KA MI^K1 KW KAI KAO
+    YA:YU:YO ~NGY^KYTX 
+    JA:JU:JO ~NGO
+    I1SP E2SY' 3S'V ^S4ZN 'PINYIN#KTC
+  TFC
   
   |(TLD-GLS
   |(MLS&MST,UZK
@@ -19,7 +27,7 @@ SLS&
   |)KM7&KD@NR(A1TI^K<M1T|
   VWR "XYN'JAN'
     SPL:S^TG 'ZHON'Y
-    HSK:TRK:A(') "ZHON'DON
+    HSK:TRK:A('ZHON'DON)
     
     HNLX&KRX:ISK&RZT
     AZTK:ASNK-I "$L&.N^~5VA

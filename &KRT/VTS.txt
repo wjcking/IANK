@@ -20,7 +20,7 @@ O SZI:KRS~FSK
 
 % PST.KNT
   @ NLU:ISNK    
-    NR.BK
+    NR.BK:KZR
     ~ N:M
   O :EO
     LOWK ;LUK
@@ -55,4 +55,4 @@ O SZI:KRS~FSK
   >
 *	LXR LXA LXY
 _ NSK-TZH'WA
-" CRK //ZHW'SH
+" CRK //ZH'WSH
