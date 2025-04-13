@@ -10,7 +10,7 @@ RNS
 F~L.S
   X
     L~IF
-     T SH 
+     T~SH 
        N.K~
          '-_ ;TZH:KKB
          C~CHWAFO ;SNK
