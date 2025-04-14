@@ -1,22 +1,23 @@
 ;
-
-'
-  RDN
-    RDF
-    ~KSR- "N1SHN DEFINITION
-    ~KSN~IXR^L
-    KRX
-    
-    FNS;VKS
-    WGS
-      RFT FLT FSK
-    FWSD
-    
-    AST^K:TSK
-    
-    \\[LIK:DSR]
-    \\KIRT-KIRD KNT
-    \\SRD|TRS
-    Я-A
-  RNS
+'  
 "
+FNS
+
+RDN
+  RDF
+  ~KSR- "N1SHN DEFINITION
+  ~KSN~IXR^L
+  KRX
+  
+  FNS;VKS
+  WGS
+   RFT FLT FSK
+  FWSD
+  
+  AST^K:TSK
+  
+  \\[LIK:DSR]
+  \\KIRT-KIRD KNT
+  \\SRD|TRS
+  Я-A
+RNS

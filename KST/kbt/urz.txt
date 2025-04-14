@@ -3,17 +3,17 @@ BSN.MTS~EN-|SZA~RKB.BLS
 UNZE 
   "WTX-R:МОЧА:MOCHA:URINARY:WLN#
   "SHN:YUAN:XY1,AN
-  T-I-A "time.10v/ch'en/CWV
+  T-I-A "TIME.10V/CH'EN/CWV
   :C
     MW
   :CGЯ
   
   XRK:LCK
-  -Kls
-  ~C)Ж(Я
-  W ;5o CRT-shaWfo
+  -KLS
+  ~C)+(Я
+  W ;5O CRT-SHAWFO
   )R
-    :
+    :Ж    
     |
   (Я
   X.D
