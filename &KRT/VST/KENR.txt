@@ -3,7 +3,7 @@
 KENR:LD-RC:HRK.RD 'MONGOLIAN$
 SLS&
   LDSK-L'QSC^LUCK:LUZCS
-  HXS
+  v<HXS>
     "E~S-H
     "TXH~ЧZT'H "471074+N#
     T.C,Q

@@ -22,12 +22,11 @@ O SZI:KRS~FSK
   @ NLU:ISNK    
     NR.BK:KZR
     ~ N:M
-  O :EO
+  Q :EO
     LOWK ;LUK
     LEN'K@ENG LEN'D@ENG
     S~BL:ALEP AOT1EAR 
     LDK "TLK~KLT
-    ;Q
     
   "FLS.FSN  
   F FV
