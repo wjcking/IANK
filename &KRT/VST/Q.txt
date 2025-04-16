@@ -7,7 +7,7 @@ Q
 "NEDER NETHER OBER HOL
 ,DUTCH 'LAND&LENK
 KBT
-  KEWNR VEAWR
+  "KEWNR VEAWR
   YTL
   -RC
     LWK
@@ -23,7 +23,7 @@ KBT
       ,TW'FZ' "BBÂNLÁM GGǓ
       B'L^,W5
       TSI^A ,H'K^AN
-      L'AN:0KU "LYQ L1NQ-V5R
+      L'AN:0KU "LYQ L1NQ-V5R~LISP-LWK
       7@C~LBT
       /Y,N\
       1HK^1

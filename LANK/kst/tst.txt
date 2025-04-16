@@ -30,6 +30,7 @@ ist^k
         tzt-u:tzt~n
         tzt^ro.tft
         'TSO VSO TOT; V TUT.LIK
+        tct
         tzt^u:tzt^n
       ^λ
       
@@ -40,7 +41,7 @@ ist^k
     F^V
    
     tnt
-    tut	  
+    tut
 	  tft:szi:fx~t
   tzt
 krs

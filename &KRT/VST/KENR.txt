@@ -1,11 +1,11 @@
-&VRSK:KRT.VTS
+VASAID
 
-KENR:LD-RC:HRK.RD 'MONGOLIAN$
-SLS&
+SLS&'MONGOLIAN$
   LDSK-L'QSC^LUCK:LUZCS
   v<HXS>
     "E~S-H
     "TXH~ЧZT'H "471074+N#
+    ,车失折氏柯:米卡孜'泽
     T.C,Q
     S.E
       K
@@ -14,7 +14,8 @@ SLS&
     ZH
   ^
   
-  XFT "&NKS.EXCH~XTLK-R
+  dzp:ksp-ksd
+  XFT 
     KA MI^K1 KW KAI KAO
     JA:JU:JO ~NGO
     YA:YU:YO ~NGO^Y^KYTX
@@ -35,4 +36,4 @@ SLS&
   -FTN~DNS-KQT~B-IRX
 ENK$
 
-#VRST.VRSD.VSD
+&VRSK:KRT.VTS

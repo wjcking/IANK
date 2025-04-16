@@ -8,4 +8,4 @@ bsk-f~b-l
 
 lsd-kst
 
-fst:szi
+fst:szi 'n^s
