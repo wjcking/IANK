@@ -1,23 +1,21 @@
-O
-~
-S
+S~
 
-Q
-"KOREAN:HANGUL:NG'Y
-"NEDER NETHER OBER HOL
-,DUTCH 'LAND&LENK
-KBT
+
+O-
+^8t
   "KEWNR VEAWR
+  knr.v5r
   YTL
-  -RC
-    LWK
-    MGN
-  NG
+  R-C
+    l5^k
+      n
+      r
+      v
+    m,n
+  @
 
   N,Y  
   NGO
   QUR.L*
-  
- 
-LBT
--
+lb+
+Q-

@@ -15,7 +15,7 @@ t1 :v~d
   nt~t^r
     #k'o
     a'p
-      Пустой
+      пустой
       void.null
     w5t
   Zx~n^
