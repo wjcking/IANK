@@ -5,7 +5,7 @@ r-vkr.nks.exch~xtlk
   VRST
 .S
 
-
+^c
 .e
   th
   l-
@@ -13,7 +13,7 @@ r-vkr.nks.exch~xtlk
     z.1.q
     
     f
-    w5
+    w'5
     t
   d~k
   
