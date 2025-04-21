@@ -1,5 +1,5 @@
 bst
-vkt "nks
+vkt"nks
 vts.vkr
 
 ^ v.λ.k-c
@@ -26,4 +26,4 @@ $ ~-~
 /%\
 \&/
 
-*  z5% "kiz-'six^5
+* z5% "kiz-'six^5
