@@ -18,7 +18,7 @@ dsr~rsk^vd
 	\\trs.dnt.trd
 	\\tns.dns.dsn
 	\\tsk~tsf.chf.EXCH^t.ets
-	tfs
+	tfs-c
 	
 	nfs~nts-tsn
 		\\tsm
@@ -36,4 +36,3 @@ rdn.rdf
 \\	~ksn~ixr^l
 \\	krx rft flt ast^k:tsk
 rns
-	

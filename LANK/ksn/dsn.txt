@@ -8,9 +8,11 @@ kd~ksn
 kdt~txh
 
 tsn
-//mts.mds
-//dsm
-//  tsm^pst~knt-kzn
-//  tns:nts
-//  its^k:kzn
-//msd "tsr-dsr
+,mts.mds
+,dsm
+,  tsm^pst~knt-kzn
+,  tns:nts
+,  its^k:kzn
+,msd "tsr-dsr
+
+N#~+
