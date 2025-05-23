@@ -19,7 +19,7 @@ ist^k
     O-R
       trt 
         'itr itn
-        'v trk r.slk rotate ~f
+        'v trk r.slk &+x-f
       trt^u:trt^n
       tut^r:tnt^r
       

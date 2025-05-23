@@ -25,7 +25,6 @@ lsk-vck
   >
 -
 
-vzs:vck
+vck-vns
 vsk~lsk
-tsk-vns
-szi:fst
+vzs:tsk
