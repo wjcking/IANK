@@ -3,11 +3,11 @@ IRNK
   E:R.VSK
   EK^N
   
-  <STK>
+  STK<>
   TRI~L
    IRK:XRT
   KRI:KRS-R
-  <TRS>
+  TRS<>
 IENK
 
 LENK "A LEAN

@@ -20,6 +20,6 @@ fsn
       tsn\\dns tns tsn:nts  
       <fst>
     ]
-  dst:n^t-s
+  dst:n^t-s--F
 )
 
