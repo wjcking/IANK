@@ -3,27 +3,32 @@
 AE~ROΛBIC
 
 KNR:LD-RC:HRK.RD
-|void
-  ^c ;vcr
+|VOID~NULL
+  ^C ;VCR
   2
-  ^r
-|null
-vacuous 
-vacant
-vain
+  ^R
+|EMPTY
+VACUOUS 
+VACANT
+VAIN
 
-@
-"c2f.1'an
-hiv h'l'o
-unoccupied
- air
- bare
- Clear
-unfruitful
+"-L'@&F;
+dvl1s^z t,vini
+kostnyy mozg "костный мозг
+gosky
+r
+marrow;
+Mark:empty
 
-leary leisure нулевой
+UNOCCUPIED
+ BARE
+ AIR
+ CLEAR
+INFRUITBUL@N6U
 
-Q.8+r
+LEARY LEISURE НУЛЕВОЙ
+
+Q.8+R
 "KOREAN:HANGUL:NG'Y
 "NEDER NETHER OBER HOL
 ,DUTCH 'LAND&LENK
