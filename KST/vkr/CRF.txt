@@ -5,12 +5,12 @@ AE~ROΛBIC
 KNR:LD-RC:HRK.RD
 |VOID~NULL
   ^C ;VCR
-  2
-  ^R
+  VAIN
+  VACUOUS
+  VACANT
+2
+^R
 |EMPTY
-VACUOUS 
-VACANT
-VAIN
 
 "-L'@&F;
 dvl1s^z t,vini
@@ -22,7 +22,7 @@ Mark:empty
 
 UNOCCUPIED
  BARE
- AIR
+ 7-'A.l.R
  CLEAR
 INFRUITBUL@N6U
 

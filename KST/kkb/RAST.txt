@@ -16,21 +16,21 @@ pst:blt.vls
 
 //法律纠纷 分类
 口头协议
-  劳动纠纷  
-    婚姻家庭 旅游纠纷  
-    遗产继承 抵押担保 
+  劳动纠纷
+    姻家庭婚 旅游纠纷  
+    遗产继承 抵押担保
   人身损害
-  
+
   //交通事故 医疗纠纷
   //拆迁安置 工伤赔偿 农村承包 债务追讨   邮政储蓄
   //保险理赔 消费权益新闻侵权
 合同纠纷
 
-Lisoke:Flat //solic.html FlatFirst.Analysis.Provef:Solid-Vesaid  Solayke 
+Lisoke:Flat //solic.html FlatFirst.Analysis.Provef:Solid-Vesaid  Solayke
   Fank
   Tak:Tayke
   //Lysek:Selayke
-    
+
     Caret:Karet //Flat Diamond Shape
 Solaik
 
@@ -48,7 +48,7 @@ Delaweik.Comsek.Bertlick
 Summary.Persection:Dcbt:Advent&Anyuser
     Inner
         Software.Hardware.Drive
-    Outter 
+    Outter
         Software.Keyboard.Type
         Software.Mouse.Click:left,middle,right
         Hardware.Camera.Software
@@ -57,9 +57,9 @@ Summary.Persection:Dcbt:Advent&Anyuser
 
 Dcibt:Andyuser:Dcayebt
   Keywordiz:Renames,Substance,Influence
-  Delaware^Pragma 
+  Delaware^Pragma
     Hardware.Biane:Redefined:Delaware
-    Software:Pragma 
+    Software:Pragma
   Hard^Soft~Tender
    Human.Knowndas.Software
    Human.Skin.Meyson.Attach:Softly
@@ -69,14 +69,14 @@ Dcibt:Andyuser:Dcayebt
     Automaticals
   Developer.Pragma
   Developer.Hard
-  
+
   User.Hard.Haibt
   User.Hard.Career
-  User.Time.Guest.Soft 
+  User.Time.Guest.Soft
 
 *Atmost(EyeVision&Hand)  Analytical.DataCollect
     Depends on which one is piroity to think about
-        user.dct.device.celly..inf.usb-type-c 
+        user.dct.device.celly..inf.usb-type-c
         dct.dev.outter.hard.scn.lcd
 
     dct.dev.outter.hard.scn.crt
@@ -86,7 +86,7 @@ Dcibt:Andyuser:Dcayebt
 
     dct.dev.hand.mos.soft.drive
     dct.user.hand.mos.soft.pointer(moving,click)
-    Utility.Renliy.Caerer 
+    Utility.Renliy.Caerer
         Business,Industry Automation
 
 
@@ -128,7 +128,7 @@ Delaware:Comsek(Ele,Fur)
   Funges.Solidisk.FirstTest
   Monika.Ionick
   Bertlick.Intellyis.Inkelick.Addlays.Sylesus
-    
+
 Dayer^CiscoSike(Fac)
   Ayebert.Leonic
 Dayke.Daysen
@@ -139,12 +139,12 @@ Dayke.Daysen
 Sequalet.Kount
   Enuix.Ayend.Funckint:Kount2
     Unicon.Human
-      Tryarc 
-      Tyc Tyker  
+      Tryarc
+      Tyc Tyker
     Isoc.Renliy
-  Solid^AyonLet:Fondkand.Within.Circles:Kount4 
+  Solid^AyonLet:Fondkand.Within.Circles:Kount4
 Mobilize.Animate(Sticka
-  Stick Kolor Stack Stable//Fix 
+  Stick Kolor Stack Stable//Fix
 FondWrappered
   SideAttach:
   AngleStick
@@ -198,16 +198,16 @@ textarea.onkeyup = function (event) {
     if (event.keyCode == 13) {
         //        var cursorPos = textarea.caret;
         //  var curentLine = textarea.value.substr(0, textarea.caret()).split(esrnt).pop();
-    
+
         //   var indent = curentLine.match(/^\s*/)[0];
-        //        //    curentLine = curentLine + tabSpace; 
+        //        //    curentLine = curentLine + tabSpace;
         //        var value = textarea.value;
         //        var textBefore = value.substring(cursorPos);
         //        var textAfter = value.substring(cursorPos, value.length);
 
         //    //    value = textBefore + indent + textAfter;
         //        console.log("textBefore:"+textBefore);
-        //        console.log("textAfter:" + textAfter); 
+        //        console.log("textAfter:" + textAfter);
         //     console.log("indent:" + indent)
     }
 };
@@ -253,7 +253,7 @@ textarea.onkeydown = function (event) {
         var cursorPos = textarea.selectionStart;
         var curentLine = textarea.value.substr(0, this.selectionStart).split("\n").pop();
         var indent = curentLine.match(/^\s*/)[0];
-        //    curentLine = curentLine + tabSpace; 
+        //    curentLine = curentLine + tabSpace;
         var value = textarea.value;
         var textBefore = value.substring(0, cursorPos);
         var textAfter = value.substring(cursorPos, value.length);
@@ -286,7 +286,7 @@ textarea.onkeydown = function (event) {
     //             newCaretPosition = textarea.getCaretPosition() + 3;
     //             textarea.setCaretPosition(newCaretPosition);
     //         }
-    //     } 
+    //     }
 }
 Your identification has been saved in /home/wjcking/.ssh/id_rsa
 Your public key has been saved in /home/wjcking/.ssh/id_rsa.pub
@@ -304,16 +304,16 @@ The key's randomart image is:
 |    E..          |
 |    ..           |
 +----[SHA256]-----+
-﻿ 
+﻿
     Advent:Andev.Easy.Develop.ArchitectInformation.Collect
         Cxp/Jav
         Layer:Isoc Isoxk
         Merge:Isometric
     Anyuser:Aniuser.VisionControl.Feeling
-        Dix Gdi Svg Cvs 
+        Dix Gdi Svg Cvs
         MultipleVisionDisplayResearch
         Business.FormKontrol
-        *Turkangle //1O1ONE 
+        *Turkangle //1O1ONE
     关键.消损型.点球-骨-此欧式.渴了喝let Cryteck = {
     /*
      *[yingG!=^/\]可丁可卯每一个   sok
@@ -416,7 +416,7 @@ Programs = [
     'try catch throw finally',
     'typedef typeid nameof typename sizeof',
     'get set value attribute',
-    'instanceof equals' 
+    'instanceof equals'
 ]
 Funkes = [
     'split slice indexOf lastIndexOf  fromCharCode replace charAt toUpperCase toLowerCase concat length',
@@ -471,16 +471,16 @@ tring.prototype.leonic = function () {
 *************************************************************each ***************************************
 <!--     //Tri
         //Unicode.Language
-        //Transform.Solid.Kolor Random.ExtremEylex.Earthly^Rotate 
+        //Transform.Solid.Kolor Random.ExtremEylex.Earthly^Rotate
         //Axis Odimentional think Directive.Left?.Matrix?.Right 转置
         //IsOverride.Leonic
         //Easy.JsonDev.ChangeDirective(Default=Direction.Left|Direction.Right)
         //  bool:true, true:bool
         //  Pi:3.14,3.14:PI
-        //Stringly^Converderation ketstart.word.letter(IncludeSBL) Glanced.Without \r   \n 
+        //Stringly^Converderation ketstart.word.letter(IncludeSBL) Glanced.Without \r   \n
         //  "bool", "不是 好锂"
         //bool:"true",Number:"3.334"
-        //Unique.Combine 
+        //Unique.Combine
         //  "truebool" "num3.14" AsciiLetter:"603424 3.14" NeedConnector
         let Leonic = {
             //不能再用等于号放花括号类型first:={ what: “'yourname'},
@@ -534,7 +534,7 @@ tring.prototype.leonic = function () {
 *************************************************************each ***************************************
 //    if (undefined == s)
 //        return;
-    
+
 //    //function charAt(index) {
 //    //   return  s.charAt(index);
 //    //}
@@ -708,7 +708,7 @@ tring.prototype.leonic = function () {
             </text>
         </g>
 
-        
+
 
     </svg>
     <select>
@@ -775,49 +775,49 @@ tring.prototype.leonic = function () {
             "name": ""
         }
     };
-  
-	
---------------------------------------------	
-	
+
+
+--------------------------------------------
+
 	var Fun = (function ()
         {
-            //把闭包体（外层函数）赋值给变量Fun，返回一个构造函数（内层函数）  
+            //把闭包体（外层函数）赋值给变量Fun，返回一个构造函数（内层函数）
             var _a = 1;
-            //闭包体的私有变量 
+            //闭包体的私有变量
             this.a = _a;
-            //闭包体内公共属性a  
+            //闭包体内公共属性a
             this.get1 = function ()
-            {    //闭包体内公共方法get1()     
+            {    //闭包体内公共方法get1()
                 return _a;
             };
             this.set1 = function (x)
             {
-                //闭包体内公共方法set1（） 
+                //闭包体内公共方法set1（）
                 _a = x;
                 $("#info_out").append("get1");
             };
             return function ()
             {
-                //返回的构造函数类    
+                //返回的构造函数类
                 this.get2 = function(){
-                    //返回的公共方法get2()，可以访问私有变量      
+                    //返回的公共方法get2()，可以访问私有变量
                     return _a;
                 };
                 this.set2 = function(x){
-                    //返回的公共方法set2(x)，可以访问私有变量        
+                    //返回的公共方法set2(x)，可以访问私有变量
                     _a = x;
                 };
             }
         })();
-        //执行闭包体，返回匿名构造函数结构 
+        //执行闭包体，返回匿名构造函数结构
         //定义类的静态公共方法和属性
         Fun.get3 = function ()
-        {    //静态公共方法 get3(),返回对公共方法get1()的调用  
+        {    //静态公共方法 get3(),返回对公共方法get1()的调用
               $("#info_out").append("get3");
             return get1();
         };
         Fun.set3 = function ()
-        {    //静态公共方法 set3(),返回对公共方法set1(x)的调用  
+        {    //静态公共方法 set3(),返回对公共方法set1(x)的调用
             set1();
         }
         //F.a = a;    //静态公共私有属性 a
@@ -827,7 +827,7 @@ function Handler(jsonInfo) {
 
     this.jsonInfo = jsonInfo || JSON.stringify(jsonInfo);
     this.contentType = "application/json; charset=utf-8";
-   
+
     this.success = function (data) {
 
     }
@@ -842,12 +842,12 @@ function Handler(jsonInfo) {
         contentType: contentType,
         //  dataType: "json",
         //beforeSend: function (data) {
-             
+
         //},
         error: function (xhr, state, errorThrown) {
-            //this.error + "status：" + xhr.status 
+            //this.error + "status：" + xhr.status
             // //1-正在载入，2-已经载入，3-数据进行交互，4-完成。
-            //this.error +=  "readyState:" + xhr.readyState 
+            //this.error +=  "readyState:" + xhr.readyState
             //this.error += "statusText:" + xhr.statusText;
             ////这里是详细的信息
             //this.error += "responseText：" + xhr.responseText ;
@@ -929,7 +929,7 @@ Handler.set = function (jsonInfo) {
         //    result = PoweredSource.Role.AddRoleInfo((RoleInfo)jsonHandle.Info);
         //else if (jsonHandle.Name.ToLower() == "incident")
         //    result = PoweredSource.Incidents.AddIncidentInfo((RoleInfo)jsonHandle.Info);
-		
+
 		<div class="navbar navbar-inverse navbar-fixed-top"  >
             <div class="container">
                 <div class="navbar-header">
@@ -1026,9 +1026,9 @@ Handler.set = function (jsonInfo) {
 
                          //},
                          error: function (xhr, state, errorThrown) {
-                             //this.error + "status：" + xhr.status 
+                             //this.error + "status：" + xhr.status
                              // //1-正在载入，2-已经载入，3-数据进行交互，4-完成。
-                             //this.error +=  "readyState:" + xhr.readyState 
+                             //this.error +=  "readyState:" + xhr.readyState
                              //this.error += "statusText:" + xhr.statusText;
                              ////这里是详细的信息
                              //this.error += "responseText：" + xhr.responseText ;
@@ -1041,7 +1041,7 @@ Handler.set = function (jsonInfo) {
                          }
                       });
             },
-            
+
             get: function (json) {
           //      alert(Handlers.temp);
 　　　　　　    //var cat = {};
@@ -1054,17 +1054,17 @@ Handler.set = function (jsonInfo) {
 
             }
         };
-	 ///<summary>    
-    /// JObject扩展  
-    /// </summary>  
+	 ///<summary>
+    /// JObject扩展
+    /// </summary>
     public static class JObjectExtensions
     {
-        /// <summary>   
-        /// 将JObject转化成字典   
-        /// </summary>    
-        /// <param name="json"></param>    
+        /// <summary>
+        /// 将JObject转化成字典
+        /// </summary>
+        /// <param name="json"></param>
 
-        /// <returns></returns>  
+        /// <returns></returns>
         public static IDictionary<string, object> ToDictionary(this JToken json)
         {
             var propertyValuePairs = json.ToObject<Dictionary<string, object>>();
@@ -1090,11 +1090,11 @@ Handler.set = function (jsonInfo) {
                                       select propertyName).ToList();
             arrayPropertyNames.ForEach(propertyName => propertyValuePairs[propertyName] = ToArray((JArray)propertyValuePairs[propertyName]));
         }
-        /// <summary>   
-        ///       
-        /// </summary>   
-        /// <param name="array"></param>   
-        /// <returns></returns>      
+        /// <summary>
+        ///
+        /// </summary>
+        /// <param name="array"></param>
+        /// <returns></returns>
         public static object[] ToArray(this JArray array)
         {
             return array.ToObject<object[]>().Select(ProcessArrayEntry).ToArray();
