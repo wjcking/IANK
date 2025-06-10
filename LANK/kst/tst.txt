@@ -38,7 +38,7 @@ ist^k
       tft-tns
         TFS:FST 'TFN dfs.dfn:fdtn.nbt
       tfx.flx
-    F^V
+    F^V;FIΛ5
    
     tnt
     tut

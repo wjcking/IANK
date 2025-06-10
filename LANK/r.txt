@@ -9,7 +9,7 @@ n
 r
   lsk
   <  
-    t:x //f:r~t
+    + //tf~:rx-
     k:x.l
     ж
   >
