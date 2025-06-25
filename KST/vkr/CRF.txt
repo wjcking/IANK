@@ -22,7 +22,7 @@ Mark:empty
 
 UNOCCUPIED
  BARE
- 7-'A.l.R
+ 7-'A.l.R //+ ~= t
  CLEAR
 INFRUITBUL@N6U
 

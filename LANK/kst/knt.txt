@@ -4,7 +4,7 @@ trk:ktr
 	l:irk:ilk
 	l:iank.tsn
 	l:tsk-i
-	n:h.z.l 'F~B.K.T~S3M:ITV'S:ITX.ITYS
+	n:h.z.l 'F~B.K~T~S3M:ITV'S:ITX.ITYS
 	
 	kns-trs
 		l:k:t~kiz 'KAZ KAST
