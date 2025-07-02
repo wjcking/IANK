@@ -1,10 +1,8 @@
 T<X>
 
 r~t
-  r:я
-  r:n~m
-  ~z
-n
+  r:я:n~m
+z
 
 r
   lsk

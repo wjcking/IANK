@@ -1,5 +1,4 @@
-﻿-kiz~fst
-kiz:fst
+﻿kiz:fst
 kiz:kst
 kiz:kst-knt 
 kiz.kns:knt //kmt
@@ -12,3 +11,5 @@ kiz
 		kunz //kun:tlz	
 	kvt
 kns
+
+-~z
