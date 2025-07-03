@@ -7,13 +7,10 @@ k
 
 lsk-vck
 ~
-  |r;s
-  |arc-~l
-  |orc~1-
-  |ark -~1
-  |1lлk~-l
-  |i
-  v-l:(x-~t)~-k:i
+  |r
+  |orc-Л~:k-l
+  |its
+  v-l:^(+~-x)^~-k:i
   v:i.r
   v:l.r
   <
