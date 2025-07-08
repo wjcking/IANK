@@ -5,10 +5,10 @@ sz-c~i:h
 -
   ts-r
     isk~lsk
-    
-    xft~tft:tst k
+    |^+ "k
+    xft~tft:tst
     ~t
-    lank:v:f:irt~k:fsk
+    lank:v:f:irt:fsk
     -x
   rt~s
 ~

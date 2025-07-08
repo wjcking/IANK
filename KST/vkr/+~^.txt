@@ -42,7 +42,6 @@ intelligent?.单/无色.丈量
 空间与维度对比
   @AngleInterfaced.Relate-Isodec.Hexagon
   @Axis.Attend
-
 cl'@x'
 基本：ㅏ[-a]ㅓ[-eo]ㅗ[-o]ㅜ[-woo]ㅡ[-eu]ㅣ[-i]
 复合：ㅑ[-ya]ㅕ[-yeo]ㅛ[-yo]ㅠ[-yoo]ㅐ[-ae]ㅒ[-yae]ㅔ[-e]ㅖ[-ye]ㅘ[-wa]ㅙ[-wae]ㅚ[-oi]ㅝ[-wo]ㅞ[-we]ㅟ[-wi]ㅢ[-oi]
@@ -69,6 +68,9 @@ cl'@x'
 韩：ㅏㅐㅑㅒㅓㅔㅕㅖㅗㅘㅙㅚㅛ ㅜㅝㅞㅟㅠ ㅡㅢㅣ
 朝：ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣㅐㅒㅔㅖㅚㅟㅢㅘㅝㅙㅞ
 
+"じろう たろう んじろう？つだけ 
+			"次郎.太郎.健次郎 
+			"JLWO DALWO^T GANJLWO
 名承听见
 人类予尖
 抠碑承戋
