@@ -1,16 +1,16 @@
-﻿立丝柯 波力克 //BRLSK@HLX
-//艾萨尼牙地
+﻿立丝柯 波力克 "BRLSK@HLX
+"艾萨尼牙地
 阿儿格丝
 
 艾若米
 	纶克 立克 林克 芮克
-	//TAILE RIK IWRCK ZIZAG
+	"TAILE RIK IWRCK ZIZAG
 	格的 米卡
 	纶克 菲乐 甘的
   <切彻折>
 安阿厄
 
 艾萨得
-  希于向//x-y+
-  认动一致.两术一各.几东声希 //vst.bst
+  希于向"x-y+
+  认动一致.两术一各.几东声希 "bst
 位萨忑
