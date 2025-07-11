@@ -1,11 +1,14 @@
-﻿~ksn-vzs~vns
--ksn~iank~kst
-~fsn-txk-xfs
+﻿~ksn
+vzs~vns
+iank~kst
 
-[lsd:rsk^v]
+fst-txk-xfs
+txh
+
+^lsd:rsk^v
 kd~ksn
   bsk:kfs-kiz
-kdt~txh
+kdt
 
 tsn
 ,mts.mds
@@ -15,4 +18,5 @@ tsn
 ,  its^k:kzn
 ,msd "tsr-dsr
 
+-|
 N#~+

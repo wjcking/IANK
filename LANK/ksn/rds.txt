@@ -1,23 +1,13 @@
 ;
-'  
+'
 "
-FNS
-
-RDN
-  RDF
+RFNS
   ~KSR- "N1SHN DEFINITION
   ~KSN~IXR^L
   KRX
-  
-  FNS;VKS
-  WGS
-   RFT FLT FSK
-  FWSD
-  
-  AST^K:TSK
-  
-  \\[LIK:DSR]
-  \\KIRT-KIRD KNT
-  \\SRD|TRS
-  Я-A
-RNS
+  RTF TRFL FSK
+
+  |LIK:DSR
+  |KIRT-ITF-AST^][TSK KNT
+  R^~
+ЯDF

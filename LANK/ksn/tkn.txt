@@ -2,9 +2,9 @@ lank.ist-s
 //stk skr.itr-kl skt
 
 ktz	//skt.tsk:tsn
-  tks-e
-  tkz-es:ta^ti'kn
-  
+  tks
+  tkz~ta^ti'kn
+
   //knt:kast
   kns'ai
   kns'kin //hvltv-jnsz
