@@ -4,4 +4,4 @@ kst.iank
 isk:kst
 
 //lst
-ist.kst:trs﻿
+ist.kst:trs

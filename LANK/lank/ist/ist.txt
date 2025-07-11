@@ -1,6 +1,6 @@
 ﻿"I~S-T
 "ITLS:I=S=T
-IST.ITS.ATS
+IST.ITS
 
 IST
 ITS
@@ -10,7 +10,7 @@ TSI
 ;SIT-LANK
 ;TIS^LAND
 
-;-+s
+;-+S
 ;#'~
-;^~+ ~%^
+;^~+~%^
 TNS.KNS.KSN
