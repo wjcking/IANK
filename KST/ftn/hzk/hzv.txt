@@ -1,5 +1,5 @@
 ﻿/*
-*中文学名为互补金属氧化物半导体
+*中文的学名为互补金属氧化物半导体
 *CMOS BIOS
 *A HARDWARE INTERRUPT ALERTING SIGNAL EXTERNAL DEVICE
 *RL.TIME SENSITIVE ATTENTION
@@ -15,7 +15,7 @@ int.rpt //call slc.stp^o
 *TS:THREAD
 *KCT$JMP^C:TS:S[^C]_L!JK*TS
 */
-vcc:gnd 
+vcc:gnd
 hks^l.asc^ll
 
 /*

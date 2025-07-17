@@ -4,7 +4,7 @@ TSL:RKB
 
 VTS:LTZ
 HZV_HZH
-	HLX.HZK 
+	HLX.HZK
 	BZK
 	ATV~VZS
 BLT
@@ -15,5 +15,5 @@ HZK.DLX
   //RFT^U.KLK
 RZK
 
-//水米切木束
+//Ж~7-c1
 //hzh.kts.agwzhs

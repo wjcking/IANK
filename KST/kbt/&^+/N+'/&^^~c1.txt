@@ -13,16 +13,16 @@ Aydidas:Aristk:VesaidKaryectial.Sequentical
   Dimential:Relic.Fu.Ieonike
     Antifusal:Antayfusuel
     Antiefuzal:?Antiefusal
-  Odiment /Eeu  
+  Odiment /Eeu
     Aerofuiz //zien rotate
     Aerofurs //Fuersia Steal Helarick
     Aerofusia //Fuersia Asia Saturn
   Ordiments //r Aer
 
-  Rudimentary
+   &'--c'D
 
   Odimential:Relic.Fur.Ayeonike
-    Aerofusial //i eal 
+    Aerofusial //i eal
     Aerofusional //o i o kolor zien haygen
   Odimention
     Aerofuzen^Antifrozen
@@ -46,7 +46,7 @@ Apisake
   Ayfurck
   //Fontain:Entrust^Enclyde
   Enfurcel
-  Enfurke   
+  Enfurke
 //EnfurckEnforck:Enforsd
   Enfur
   Enfers
@@ -56,7 +56,7 @@ Absike.Beoseck.Kesset
 Interllick.Berlite
 Ayfersk?:Karrow:Vertically
   MainFonction:Meylinker
-    If:Cendiket  
+    If:Cendiket
     Else:Kendition
     //Charstike
     ElseIF:Eursieful
@@ -65,9 +65,9 @@ Aurtherful
 
 Aysferk:EntieBack?:Karrow:Harizontally
   //Kedikt
-  //Kaidakt:Kedakt  
+  //Kaidakt:Kedakt
   //Cendit.Dupliced
-  //Kendition.?Duplikate 
+  //Kendition.?Duplikate
   Result:Cendition(Express)Kendition
 
   Ionike:I(A,E)
@@ -77,9 +77,9 @@ Aysferk:EntieBack?:Karrow:Harizontally
     Keris(Aykes(Exchange)Sykeis)Kelis
 
     Karrect.Kind^Kinde:   A = (A == E) ? A : E;
-      Karrect.Kande: A = (E == C) ? E : C;  
-      Karrect.Kandie: A = (E == C) ? A : C; 
-      Karrect.Kandy?:A = (E == C) ? C : A 
+      Karrect.Kande: A = (E == C) ? E : C;
+      Karrect.Kandie: A = (E == C) ? A : C;
+      Karrect.Kandy?:A = (E == C) ? C : A
     Karect.Fend: A = (E == C) ? D : F; //Felanc,Txy,Metrix
 
     Karect.Find:A = (E == F) ? D : C;
@@ -91,3 +91,4 @@ Aysferk:EntieBack?:Karrow:Harizontally
     Karyact:Appolitka:Apocalypse
   Beisaik:Beosake
 Karectical?:Kater
+Rudimentary
