@@ -3,6 +3,11 @@
 -Action
 -Next State
 
+"current
+"F5l'tT1ck,Priorit
+"change
+"revert
+"+delay> = 0.0f<Q
 +x-^
 'l'1-
 ^nn|<,*
