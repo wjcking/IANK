@@ -1,9 +1,9 @@
 KRX~T:TRS
 ZXS-NFS
 W
-  T
+  T-D
   L
-  S
-+C~^
+  S-&
+C~^
 
 FTN.FXS~FLZ-S
