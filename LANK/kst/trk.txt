@@ -14,9 +14,9 @@ sz-c~i:h
 ~
 
 'srt
-'rst~i-l
-'drs:trs
-	'DWF~DNF
-	'LWS
-	'WLS
-'tlk
+'rst~i+l
+drs
+	'dwf~dnf
+	'lws
+	'wls
+^trs

@@ -13,4 +13,4 @@ fst:szi 'n^^s
 
 'LENK
  @IRNK "@^lc^A
-$:ENK
+:$ENK
