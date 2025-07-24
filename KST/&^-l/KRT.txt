@@ -54,5 +54,5 @@ ATB:ABT//元术:述远
   E.X
 ARST.JSK:R^VY//元士 系 余 干 水
 R.L
-
+"RTKX 'HΛ'TRED;Mired
 .PERFORMANCE.FILEREAD:SYSTEM.IO.FILESTREAM.SEEK   //读取超大文本文件

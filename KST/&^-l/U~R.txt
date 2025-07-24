@@ -1,23 +1,12 @@
-BSN.MTS~EN-|SZA~RKB.BLS
-
-"URZ
-UNZE
-  "WTX-R:МОЧА:MOCHA:URINARY:WLN#
-  "SHN:YUAN:XY1,AN
-  T-I-A "TIME.10V/CH'EN/CWV
-  :C
-    MW
-  :CGЯ
-
-  XRK:LCK
-  -KLS
-  ~C)+(Я
-  W ;5O CRT-SHAWFO
-  )R
-    :Ж
-    |#-c
-  (Я
-  X.D
-Z
-
+XRK:
+LCK CRT5O
 KZDT'E;KLV;TSО:E:XSH
+
+
+"UNZEZ
+"WTX-R:МОЧА:MOCHA:URINARY:WLN#
+T-I-A "TIME.10V/CH'EN/CWV
+MЖW
+CGЯ
+
+

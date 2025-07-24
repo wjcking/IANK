@@ -9,11 +9,11 @@ HZV_HZH
 	ATV~VZS
 BLT
 
-//HLX.THE:ITS
+"HLX.THE:ITS
 HZV.HDZ.LNK-JTS.LCK^P
 HZK.DLX
-  //RFT^U.KLK
+  "RFT^U.KLK
 RZK
 
-//Ж~7-c1
-//hzh.kts.agwzhs
+"1c7~Ж-
+"hzh.kts.agwzhs

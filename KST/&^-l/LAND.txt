@@ -61,14 +61,14 @@ KAT:TKD
 */
 
 /*
-*迁引 核心  栈转^斤
+*迁引 核心  转栈^斤
 *能量  磁浮 推进
 *通信  传送
 */
 ktrzk
 
 	//FAS:FLC
-	//FLANSIS:FWLANGXS
+	//FLANSIS:FWLANXS
 	//HNS HRS FWLAIKES:EILAIN
 	//LRVSK
 	

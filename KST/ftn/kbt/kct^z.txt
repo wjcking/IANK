@@ -34,3 +34,6 @@ CircleOpen
   Renliy(Fracten.Circle.Rectan)Leon
   Hard(Flex^I^able)Soft
 Circle.Close
+
+"^'+C
+"JMP^C:TS:S[^]C_L!JK*TS
