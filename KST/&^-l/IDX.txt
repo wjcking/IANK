@@ -39,22 +39,7 @@ Ayelsion.Ocean.Habit
   Axis:Offset:Center
 Ryske.Hande.Gende
 
-"涿之热:艾若米#切力维
-INTV
-	"SAIRFT
-	"ACCESS-TERM/ALFED.HT
-  "IRGS:VK_IN^R_N
-	SVS:VZS.TLS^I
-		SLAF
-		SLAW S
-		SVDN
-		"AXIS TH C
-		VITS:LANDIS
-		DZH:INC:ITS^N:Z
-	DNS:DANIS
-  "RASTERA\ACCENTURAL\CHAOS-KOMET.HT
-	<ITX>
-ACHES
+
 
 Entrike
 Rayberk
