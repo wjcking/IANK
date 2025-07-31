@@ -13,6 +13,6 @@ kbt "asm jump loop
     bsh^p"pop
 	ktn "int.rpt^a thread
 
-  asm^c "call
-  dwf.main"dll exe
+  asm^c++ "call
+  dwf.main "dll exe
 hxz
