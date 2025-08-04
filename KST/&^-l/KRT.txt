@@ -1,5 +1,3 @@
-
-
 KRT
 	KRT^A
 	KRT^E.I
@@ -22,10 +20,8 @@ XRK
 *化石 新生代
 
 *https://zh.m.wikipedia.org/wiki/史前时代
-* 人类交杜 水尖似折 度刻 年代质地 //单位时间 六个 
-* 连涿转:迭代 句边和夫折:类人远
-*.硕钛克.萨尼克 克立特 
-* 来拉乐-的立克 克来特
+句边和夫折// 度刻 年代质地 单位时间 六个 
+
 KRTES.KEST
 ANK^AGO&tkd.enk
 //GTS.ATR.HXS^TH.APS.D:LALNHAT3
