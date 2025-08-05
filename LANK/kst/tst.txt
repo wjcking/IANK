@@ -13,11 +13,11 @@ ist^k
   "V C K^O LANT VZK
 	tst:tct:tsi
     ;trz tks
-    ;!tis-oed isosele1s Tassola
+    ;!tis-oed isosele1s Tassola 
     ;~tsl
     
     O-R
-      trt 
+      trt
         'itr itn
         'v trk r.slk &+x-f
       trt^u:trt^n
