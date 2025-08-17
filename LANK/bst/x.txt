@@ -4,9 +4,9 @@ v[t]
   i
     x
     >
-      b.f.l'*a:"O'
+      b.f.'*a:"O'
          V
-        >|<
+       >l+l<
          A
       |isz;.?:Q
     <
