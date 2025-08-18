@@ -1,9 +1,9 @@
 ;
 '
 
-  |LIK:DSR
-  |KIRT-ITF-AST^][TSK KNT
-  R^~" krfklf itf
+|LIK:DSR
+|KIRT-ITF-AST^][TSK KNT
+R^~" krfklf itf
 RFNS
   ~KSR- "N1SHN DEFINITION
   ~KSN~IXR^L

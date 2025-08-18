@@ -18,5 +18,4 @@ tsn
 ,  its^k:kzn
 ,msd "tsr-dsr
 
--|
-N#~+
+NFS

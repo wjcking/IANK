@@ -1,7 +1,7 @@
 ﻿itr-tsi-k:v
 trs~tsk:tzk
 
-sz-c~i:h
+szc++
 -
   ts-r
     isk~lsk
@@ -12,11 +12,3 @@ sz-c~i:h
     -x
   rt~s
 ~
-
-'srt
-'rst~i+l
-drs
-	'dwf~dnf
-	'lws
-	'wls
-^trs
