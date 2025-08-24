@@ -14,3 +14,6 @@ TSI
 ;#'~
 ;^~+~%^
 TNS.KNS.KSN
+
+trc
+tsw

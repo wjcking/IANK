@@ -7,16 +7,16 @@ ist^k
 	tft:trf~tfs:tsf 'kfs:ifs
 	tri~k-isk:trk
 	tsr:irt
-    <-irk:xrt-krt>  
+    :irk
   rst
   
-  "V C K^O LANT VZK
+  "Λ C K^O LANT VZK
 	tst:tct:tsi
     ;trz tks
     ;!tis-oed isosele1s Tassola 
     ;~tsl
     
-    O-R
+    IRK
       trt
         'itr itn
         'v trk r.slk &+x-f
@@ -26,22 +26,22 @@ ist^k
       trt^z
       tut^z:tnt^z
       
-      v
-        tzt-u:tzt~n
+      λ
+        tzt~u:tzt~n
         tzt^ro.tft
-        'TSO VSO TOT; V TUT.LIK
+        'TSO ;krs:trk
         tct
         tzt^u:tzt^n
-      ^λ
+      v^
       
       vfk.fsk "blf.v      
       tft-tns
         TFS:FST 'TFN dfs.dfn:fdtn.nbt
       tfx.flx
-    F^V;FIΛ5
+    TSW~F^V;FIV
    
     tnt
     tut
 	  tft:szi:fx~t
   tzt
-krs
+utc

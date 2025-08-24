@@ -2,21 +2,21 @@ vsk^fst
 rsk^vd
 
 fsn
-(
-  ^bst
-    xfs.nfs
-     
-    //srt&+~7-tfs
-    //trs.dnt:trd
-    dns.nts:dsn
-    dnf^[|]
-    itl:its^itr:tsi 
-      isk:iank
-      //rkb~itr~l.rts:tsr
-      //tsm
-      //dms.pst.knt.kzn
-    tsn
-    <fst>
-  dst:n^t-s
-)
+
+^bst
+  xfs.nfs
+   
+  //srt&+~7-tfs
+  //trs.dnt:trd
+  dns.nts:dsn
+  dnf
+  itl:its^itr:tsi 
+    isk:iank
+    //rkb~itr~l.rts:tsr
+    //tsm
+    //dms.pst.knt.kzn
+  tsn
+  fst><
+dst:n^t-s
+
 

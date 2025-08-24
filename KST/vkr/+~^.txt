@@ -52,17 +52,18 @@ intelligent?.单/无色.丈量
 空间与维度对比
   @AngleInterfaced.Relate-Isodec.Hexagon
   @Axis.Attend
-cl'@x'
-基本：ㅏ[-a]ㅓ[-eo]ㅗ[-o]ㅜ[-woo]ㅡ[-eu]ㅣ[-i]
-复合：ㅑ[-ya]ㅕ[-yeo]ㅛ[-yo]ㅠ[-yoo]ㅐ[-ae]ㅒ[-yae]ㅔ[-e]ㅖ[-ye]ㅘ[-wa]ㅙ[-wae]ㅚ[-oi]ㅝ[-wo]ㅞ[-we]ㅟ[-wi]ㅢ[-oi]
-声母（）
-松：ㅂ[b-/p-]ㅅ[s-]ㄱ[g-/k-]ㄷ[d-/t-]ㅈ[j-/ch-]
-紧：ㅃ[pp-]ㅆ[ss-]ㄲ[kk-]ㄸ[dd-]ㅉ[jj-]
-激：ㅍ[p-]ㅌ[t-]ㅋ[k-]ㅎ[h-]ㅊ[ch-]
-：ㄴ[n-]ㅁ[m-]
-流：ㄹ[r-]
-无：ㅇ[∅]
+cl,x∅'
+ㅑ[-ya]ㅕ[-yeo]ㅛ[-yo]ㅠ[-yoo]ㅐ[-ae]ㅒ[-yae]ㅔ[-e]ㅖ[-ye]ㅘ[-wa]ㅙ[-wae]ㅚ[-oi]ㅝ[-wo]ㅞ[-we]ㅟ[-wi]ㅢ[-oi]：复合
 
+  基本：ㅏ[-a]ㅓ[-eo]ㅗ[-o]ㅜ[-woo]ㅡ[-eu]ㅣ[-i]
+  声母（）
+  松：ㅂ[b-/p-]ㅅ[s-]ㄱ[g-/k-]ㄷ[d-/t-]ㅈ[j-/ch-]
+  紧：ㅃ[pp-]ㅆ[ss-]ㄲ[kk-]ㄸ[dd-]ㅉ[jj-]
+  激：ㅍ[p-]ㅌ[t-]ㅋ[k-]ㅎ[h-]ㅊ[ch-]
+  ：ㄴ[n-]ㅁ[m-]
+  流：ㄹ[r-]
+  无：ㅇ[@]
+hdl'ZGO
 尾（收）
 单收：ㄱ[-k]ㄴ[-n]ㄷ[-d]ㄹ[-l]ㅁ[-m]ㅂ[-b]ㅅ[-s]ㅇ[-ng]ㅈ[-j]ㅊ[-ch]ㅋ[-k]ㅌ[-t]ㅍ[-p]ㅎ[-h]ㄲ[-kk]ㅆ[-ss]
 双收：ㄳ[-ks]ㄵ[-nj]ㄶ[-nh]ㄺ[-lk]ㄻ[-lm]ㄼ[-lb]ㄾ[-lt]ㅀ[-lh]ㅄ[-bs]ㄽ[-ls]ㄿ[-lp]
