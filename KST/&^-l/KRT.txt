@@ -1,7 +1,7 @@
 KRT
 	KRT^A
 	KRT^E.I
-	//KRT^AR.IBT^RT:KDR
+	"KRT^AR.IBT^RT:KDR
 XRK
 
 *阮体.利伞
@@ -19,34 +19,34 @@ XRK
 *层次 中生代
 *化石 新生代
 
-*https://zh.m.wikipedia.org/wiki/史前时代
-句边和夫折// 度刻 年代质地 单位时间 六个 
+*https:"zh.m.wikipedia.org/wiki/史前时代
+句边和夫折" 度刻 年代质地 单位时间 六个 
 
 KRTES.KEST
 ANK^AGO&tkd.enk
-//GTS.ATR.HXS^TH.APS.D:LALNHAT3
-EON|UN_|ION.ADλ^ VERSA//元.宇宙
-  ERA.LAYEN//代.了.来
-  PERIOD//纪
-  AGE//期:数.拉
-  CHRON //时:术.卷沃  
-EPOCH//世:仁
+"GTS.ATR.HXS^TH.APS.D:LALNHAT3
+EON|UN_|ION.ADλ^ VERSA"元.宇宙
+  ERA.LAYEN"代.了.来
+  PERIOD"纪
+  AGE"期:数.拉
+  CHRON "时:术.卷沃  
+EPOCH"世:仁
 
-RD:RSH.ERY.RSK//木柯冗元 好各兀五远
+RD:RSH.ERY.RSK"木柯冗元 好各兀五远
 R.N
-ATB:ABT//元术:述远 
+ATB:ABT"元术:述远 
   A.S^X
-		//远木束 
-		//中希互 系朱豖
-		//冲草之 此至之
+		"远木束 
+		"中希互 系朱豖
+		"冲草之 此至之
 		RAY 
-		//元束卡
+		"元束卡
     ARY 
 
-    ARY  //希元水 予己水
-    RAY//仁兀士   
+    ARY  "希元水 予己水
+    RAY"仁兀士   
   E.X
-ARST.JSK:R^VY//元士 系 余 干 水
+ARST.JSK:R^VY"元士 系 余 干 水
 R.L
 "RTKX 'HΛ'TRED;Mired
-.PERFORMANCE.FILEREAD:SYSTEM.IO.FILESTREAM.SEEK   //读取超大文本文件
+.PERFORMANCE.FILEREAD:SYSTEM.IO.FILESTREAM.SEEK   "读取超大文本文件

@@ -13,36 +13,50 @@ brt.rf.gd
                 	
 http://cpanel.byethost22.com/
 http://www.bertis.byethost22.com
+一声平 二声杨 三声拐弯 四声降
 
-//钍丝让 安然 阿
+pst:blt.vls
+. //比力 束予 说明 派生 继承
+: //说明 比力 束予 继承 派生
+
+' //@ang eng
+" //双引号
+` //开单引号
+	//
++	//加号
+,	//逗号
+/	//斜杠
+\	//反斜杠
+=	//等号
+"钍丝让 安然 阿
  
-//法律纠纷 分类
+"法律纠纷 分类
 口头协议
   劳动纠纷  
     婚姻家庭 旅游纠纷  
     遗产继承 抵押担保 
   人身损害
   
-  //交通事故 医疗纠纷
-  //拆迁安置 工伤赔偿 农村承包 债务追讨   邮政储蓄
-  //保险理赔 消费权益新闻侵权
+  "交通事故 医疗纠纷
+  "拆迁安置 工伤赔偿 农村承包 债务追讨   邮政储蓄
+  "保险理赔 消费权益新闻侵权
 合同纠纷
 
-Lisoke:Flat //solic.html FlatFirst.Analysis.Provef:Solid-Vesaid  Solayke 
+Lisoke:Flat "solic.html FlatFirst.Analysis.Provef:Solid-Vesaid  Solayke 
   Fank
   Tak:Tayke
-  //Lysek:Selayke
+  "Lysek:Selayke
     
-    Caret:Karet //Flat Diamond Shape
+    Caret:Karet "Flat Diamond Shape
 Solaik
 
-Lisode:Masait//A D
-   Fand   //EidentFrant  Franket  Front Radical Fonc~Square 正方形Rectan  Rectan
-   Tyde:Tayde:Tricycle:Tycle:Triangle //Tryarc  Tryant
-   //Lesade:Selayde
+Lisode:Masait"A D
+   Fand   "EidentFrant  Franket  Front Radical Fonc~Square 正方形Rectan  Rectan
+   Tyde:Tayde:Tricycle:Tycle:Triangle "Tryarc  Tryant
+   "Lesade:Selayde
     AyeFand
     Carde:Karde
-  Seleis:Leis //Line
+  Seleis:Leis "Line
 
 
 Delaweik.Comsek.Bertlick
@@ -100,13 +114,13 @@ Dcibt.Hardware.EletricalOnly
     SearchMost
   Others
     Recircle(Retrive:Return)
-Comsek.Delaware.Entrike //Analytical\absock-cybert\entrike.html
+Comsek.Delaware.Entrike "Analytical\absock-cybert\entrike.html
 
 Dcayebt.Enegy
   Electrionic
   FusialRadical.FusionDirecto
   FusionAyeonical
-Erick //ayrilia.html erick.html
+Erick "ayrilia.html erick.html
 
 Ayebert.Basement
 Hardwere:Computer(Ele)
@@ -132,7 +146,7 @@ Dayer^CiscoSike(Fac)
 Dayke.Daysen
 
 
-//fond-tyber.html
+"fond-tyber.html
 
 Sequalet.Kount
   Enuix.Ayend.Funckint:Kount2
@@ -142,7 +156,7 @@ Sequalet.Kount
     Isoc.Renliy
   Solid^AyonLet:Fondkand.Within.Circles:Kount4 
 Mobilize.Animate(Sticka
-  Stick Kolor Stack Stable//Fix 
+  Stick Kolor Stack Stable"Fix 
 FondWrappered
   SideAttach:
   AngleStick
@@ -169,17 +183,17 @@ HTMLTextAreaElement.prototype.caret = function (start, end) {
     }
 };
 HTMLTextAreaElement.prototype.careted = function () {
-    return selectionStart == selectionEnd;    //if the textarea has selection then return true
+    return selectionStart == selectionEnd;    "if the textarea has selection then return true
 };
-//HTMLTextAreaElement.prototype.kared = function () { //return the selection text
-//    return this.value.substring(this.selectionStart, this.selectionEnd);
-//};
+"HTMLTextAreaElement.prototype.kared = function () { "return the selection text
+"    return this.value.substring(this.selectionStart, this.selectionEnd);
+"};
 
 var textarea = document.getElementsByTagName("textarea")[0];
 
 textarea.onkeydown = function (event) {
-    //support tab on textarea
-    //tab was pressed;
+    "support tab on textarea
+    "tab was pressed;
     if (event.keyCode == 9) {
         var careted = textarea.caret() + estab.length;
         var front = textarea.value.substring(0, textarea.caret());
