@@ -1,3 +1,23 @@
+private static void ViewInHex(Object fileName)
+{
+    _workerStarted = true;
+    byte[] bytes;
+    using (MyFileReader reader = new MyFileReader((String)fileName))
+    {
+        bytes = reader.ReadContents(20);
+    }  // Using block calls Dispose() for us here.
+
+    if (_printToConsole)
+    {
+        // Print up to 20 bytes.
+        int printNBytes = Math.Min(20, bytes.Length);
+        Console.WriteLine("First {0} bytes of {1} in hex", printNBytes, fileName);
+        for (int i = 0; i < printNBytes; i++)
+            Console.Write("{0:x} ", bytes[i]);
+        Console.WriteLine();
+    }
+}
+
 -State
 -Event
 -Action
@@ -169,3 +189,4 @@ f~s.r
 r:i-@яdf \\f-W
    @cnu- |^() 
     λfd'
+public virtual string? ToString();
