@@ -187,7 +187,7 @@
       郎咸平:芦苇从中右面的多左面少,Mother-Reflection
 
 　启明学校门钱的左边麦丛小径 link with >路口顶头了 楼房
-　美国?. Aug c,'N being dimensionally (fatter-pmp超)
+　美国?. Aug c,'N being dimensionally (fatter-pmp)
 　UnderGrandia
 　
 　科委
@@ -200,6 +200,6 @@
 　树林 Pond 坑  大约是三个
 　陶然婷公园 后面 野猫　　
 　仙鹤
-  北新桥胡同门口
+  北新桥同口胡门
   植物园公路
 回溯
