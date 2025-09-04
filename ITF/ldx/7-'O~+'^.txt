@@ -9,20 +9,20 @@ Fit:T?<-三眼清 2020:8:30
 
     StartOS
         Itpendiz(Timesnic.VaotS)
-            \\音义 VoiceRate AOZ
-            \\VoiceRate:土星 icon 对基因的影响 形式 Solid Vesaid  那个多
-            \\Colorful (Kolor Laek Lurk Lerk)
+            "音义 VoiceRate AOZ
+            "VoiceRate:土星 icon 对基因的影响 形式 Solid Vesaid  那个多
+            "Colorful (Kolor Laek Lurk Lerk)
 
             earth
                 circle cross intersect
                 complex
-            Symbol.Buddlism \\
-            Shape \\六道轮回
-            Symbol.Axis \\纳粹图
-            //除了战争大事，外星人可能在外星球看着好玩
-            //秦始皇
-            //希特勒Solid.Rect.头党 ?.萨拉丁
-            //Gll.VoiceRate:胃酸.卫生间.斧头 左右anti-撞得感觉
+            Symbol.Buddlism "
+            Shape "六道轮回
+            Symbol.Axis "纳粹图
+            "除了战争大事，外星人可能在外星球看着好玩
+            "秦始皇
+            "希特勒Solid.Rect.头党 ?.萨拉丁
+            "Gll.VoiceRate:胃酸.卫生间.斧头 左右anti-撞得感觉
     EndOS
 
     Timesnic?.中世纪?.连带效应
@@ -68,7 +68,7 @@ Fit:T?<-三眼清 2020:8:30
     wjcking.getself.foxPlus-> InnerLoop =
 
         KsBao.xt系统.圆形标题设计?.星球有困难
-        Lek.秦始皇 //Colorful
+        Lek.秦始皇 "Colorful
         ?.希特勒Solid.Rect.Toilet头党 ?.萨拉丁
             东毛泽.球鼓推
         林近依.左面楼
@@ -89,16 +89,16 @@ timeSnic+2020-9-2
 						排法 西施居首，王昭君次之，貂蝉再次，杨玉环为末。
             西施浣纱 昭君出塞 貂蝉拜月 贵妃醉酒
     国皿D中山：张作霖、冯国璋、段祺瑞
-    做梦穿：未知名与姓//R奔妊?.war
+    做梦穿：未知名与姓"R奔妊?.war
 
 timeSnic+2020-9-5
     hellek.?.Kronus|Jeusus.lez:fan-peanus.虚圆生命形态.
     沙漏 伊朗
-    \\天神克洛诺斯(Cronus）就是用镰刀割下du了其父原始神乌拉诺zhi斯(Uranus)生的dao器的，殖
-    \\后来前者又被其子宙斯的雷电击败并被废黜、流放。镰刀一直作为克洛诺斯（拉丁语Saturn，也就是土星）的标志，
-    \\他被看成古希腊之前的丰产之神，后来人们混淆了他和时间的化身克洛诺斯(Chronus)的名字，
-    \\于是克洛诺斯手持镰刀（或者是长柄镰刀）的形象就成了时间流逝的象征，
-    \\在这个意义上镰刀就变成了死亡的象征，死神“选择”它作为武器也就理所当然
+    "天神克洛诺斯(Cronus）就是用镰刀割下du了其父原始神乌拉诺zhi斯(Uranus)生的dao器的，殖
+    "后来前者又被其子宙斯的雷电击败并被废黜、流放。镰刀一直作为克洛诺斯（拉丁语Saturn，也就是土星）的标志，
+    "他被看成古希腊之前的丰产之神，后来人们混淆了他和时间的化身克洛诺斯(Chronus)的名字，
+    "于是克洛诺斯手持镰刀（或者是长柄镰刀）的形象就成了时间流逝的象征，
+    "在这个意义上镰刀就变成了死亡的象征，死神“选择”它作为武器也就理所当然
     雪 聂
     宗教符号维名字 梅
     白色抹香鲸?.UsedtobePurity 海水 淡水 三角浑水
@@ -111,7 +111,7 @@ timeSnic+2020-9-5
         Totem
     Picture
     Images
-    Media?.Virus //历史资料 关于 HelleK.Letter.t 淘
+    Media?.Virus "历史资料 关于 HelleK.Letter.t 淘
     Odinmentional
     Principle(chaosly letloose unwareness)
 十2020/9/6 - 9/7
@@ -120,7 +120,7 @@ timeSnic+2020-9-5
         ︹﹁
         不
         ︺﹂
-    Solid.Facial.Duckact// 海皇篇 会变换的那个
+    Solid.Facial.Duckact" 海皇篇 会变换的那个
 Rectangle 9/8AM8:12PortalCheck.Solid.3D:看中间会混乱
     克中妓  神话 耶稣基督 中世纪
         天党dang
@@ -171,7 +171,7 @@ Dynasty:Rect.Alfled 9/9AM7:50
             谁来看
     Radioactive.Wrapped(Sun of cell)气铅 Air lead
         Right leg
-    Socialize.KetourSphere   //马恋
+    Socialize.KetourSphere   "马恋
         Ism - Religous Doctrine
           形容词.名词：群
           名词.形容词::氏
