@@ -3,10 +3,10 @@ dkbt_c.lnklk.hd_awr_brts
 brts_e^d
 
 pwt.rpls.nks
-http://intel.great-site.net/?i=1kln_email_intellyer_eclpso.email_lnkmen_alaix_phone_0231_9238251
- 
+|noun_que address
+
 //pst_o
-pst_o.ruls_we.lwsk.vld_ai
+pst_o.cls_we.lwsk.vld_ai
 pst_o.whx.ssk.lks==ltm_e
 
 pwt.lwsk.lgn
@@ -22,5 +22,7 @@ lst.abt.kl.skn^s //order rzh.sty^l
     
   jasska
   good,i write a thread,nkest time i will again
-  emal:fantasy@gmail.com
+  emal:fantasy@mail.com
 lmt.flt.klr.hdn
+
+|Q = U·I·sinφ

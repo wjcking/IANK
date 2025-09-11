@@ -15,25 +15,25 @@ abt.rka
   qq wch ytb
 rks.rzh.rpls
 
-//wabpage:frame
+//wab:tframe
 wab.bks.rstf.gat.lst.abt.kl.skn^s //order
 lmt
 
-wab.frm
+cookies
 lst.msk
 
-wab.frm
+cookies
 msk.dta.wab.url.wch_at^s
 
-wab.frm
+cookies
 lkt_shn
 
-wab.frm
-klst
-kln:brs_e
+cookies
+
+lck
   bks.tat:ktsf:url //bks_nks_t
   bks.dta.pst
   btn.pst_o:btn.rfsh
-klt:brts_hd_awr
+cts
 
 dpzt

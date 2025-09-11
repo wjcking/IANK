@@ -1,8 +1,8 @@
-﻿atlz_rn.abt.bsmt
-wab_st
+﻿cookies.rename.mchs
+b_asic
 
 lst.abt //ant:pskf1
-  lnk_l
+  lnk
 
   mka:pk_chr
   msd:adu_o:vsd_eu_ls
@@ -11,15 +11,15 @@ pwt:url.tat_eo.chat.kmt_en^c
   dkbt.brts
   pst.kln_ea:klt_ea
   pst.tlsk^c
-ruls.flt_ur
+cls.flt
     
 lkt_shn
-  pzsh_an.snp_lm
+  pzsh.snp
   pk_chr.mka:pas^th
 rzh
 
 kvs_an
-  ssk_c:htm_j:ph_p
+  ssk_c:html:ph_p
 
   ant.hzk.whl:lnch:sbt:syd_a //ssk_c cyper js
   vts.abt.pk.lts.mts_ea
@@ -36,7 +36,8 @@ kl.tak.int
   
   #1_14
   #14_48
-lsk^r.hlkt
+lsk^r.html
 
 skr.lnt.kt
 ltk_ch
+simple-c-compiler.t
