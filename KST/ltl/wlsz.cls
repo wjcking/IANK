@@ -5,13 +5,15 @@
 //林一夫
 //平行付W丝克 卡工夫柯丝
 //LAND\ltlr\rtl\rks_ltlrs\fst.txt
-
+OutputWindow
 /*
 *NOTICE!!!JMP^C
 *TS S[^C]_L!JK*TS
 *
 *付下 电压 地流 寻环
 */
+
+partial 
 
 E:\land\land\mds\mfs.txt
 /*
@@ -27,3 +29,9 @@ E:\land\land\mds\mfs.txt
 //凯斯特 卡丝他
 //希分:平行面维
 //多维面
+SetLastError = true
+
+static
+Change
+wire_transfer_information
+frequently

@@ -1,4 +1,4 @@
-﻿UTC~ITZ-
+﻿ITZ-
 
 RCL一元论不完全等同于拉丁文:MON ISM 
 X-~L'ALL IS WAN
@@ -23,3 +23,4 @@ Beosik.One.Karect.Ayefurset.Airfured
   Language-DURABLAL
   Univers
 Beoseck
+~UTC
