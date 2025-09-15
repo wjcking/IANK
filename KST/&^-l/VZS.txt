@@ -1,22 +1,22 @@
-matter // 实词：表示实在意义的词，有名词、动词、形容词、数词、量词、代词。?
-null:虚词：不表示dao实在意义而表示语法意义的词，有：副词、介词、连词、助词、叹词、拟声词。
+matter // 实此：表示实在意义的此，有名此、动此、形容此、数此、量此、代此。?
+null:虚此：不表示dao实在意义而表示语法意义的此，有：副此、介此、连此、助此、叹此、拟声此。
 
 //  nouns pronouns adjectives numerals verb adverbs articles prepositions conjunctions interjections auxiliary ;
 
-实词：表示实在意义的词，有名词、动词、形容词、数词、量词、代词。?
-虚词：不表示dao实在意义而表示语法意义的词，有：副词、介词、连词、助词、叹词、拟声词。
-1,名词bai,Nouns (n.) 表示人或事物的名称 box,pen,tree,apple
-2,代词du,Pronouns (pron.)代替名词、数词、形容词We,this,them,myself
-3,形容词,Adjectives(adj.) 用来修饰zhi名词,表示人或事物的特征 good,sad,high,short
-4,数词,Numerals(num.)表示数目或顺序 one,two,first
-5,动词,Verb (v.) 表示动作或状态 Jump,sing,visit
-6,副词,Adverbs（adv.) 修饰动、形、副等词,表示动作特征 there,widely,suddenly
-7,冠词,Articles (art.) 用在名词前,帮助说明名词所指的范围 a,an,the
-8,介词,Prepositions (prep.) 用在名词或代词前,说明它与别的词的关系 in,on,down,up
-9,连词,Conjunctions (conj.) 表示人或事物的名称if,because,but
-10,感叹词,Interjections (int.) 代替名词、数词、形容词等 oh,hello,hi,yeah
-vt.是及物动词,vt.后必须跟宾语：sing a song
-vi.是不及物动词,vi.后不直接带宾语或不带宾语:jump high
-auxiliary 助词:就是、罢了、而已、云云、来着、也好、不成、已而、得了、着哩、也罢、着呢、伍的、便了、的话、啷当、
+实此：表示实在意义的此，有名此、动此、形容此、数此、量此、代此。?
+虚此：不表示dao实在意义而表示语法意义的此，有：副此、介此、连此、助此、叹此、拟声此。
+1,名此bai,Nouns (n.) 表示人或事物的名称 box,pen,tree,apple
+2,代此du,Pronouns (pron.)代替名此、数此、形容此We,this,them,myself
+3,形容此,Adjectives(adj.) 用来修饰zhi名此,表示人或事物的特征 good,sad,high,short
+4,数此,Numerals(num.)表示数目或顺序 one,two,first
+5,动此,Verb (v.) 表示动作或状态 Jump,sing,visit
+6,副此,Adverbs（adv.) 修饰动、形、副等此,表示动作特征 there,widely,suddenly
+7,冠此,Articles (art.) 用在名此前,帮助说明名此所指的范围 a,an,the
+8,介此,Prepositions (prep.) 用在名此或代此前,说明它与别的此的关系 in,on,down,up
+9,连此,Conjunctions (conj.) 表示人或事物的名称if,because,but
+10,感叹此,Interjections (int.) 代替名此、数此、形容此等 oh,hello,hi,yeah
+vt.是及物动此,vt.后必须跟宾语：sing a song
+vi.是不及物动此,vi.后不直接带宾语或不带宾语:jump high
+auxiliary 助此:就是、罢了、而已、云云、来着、也好、不成、已而、得了、着哩、也罢、着呢、伍的、便了、的话、啷当、
 imperative 祈使句
 $KRT/VZS/VNS~VZN.CHN //LANT$K

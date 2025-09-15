@@ -358,7 +358,8 @@ Sabora = [
     ['Bracket', 'Separator', 'Link'],
     ['Bracket', 'Link', 'Separator']
 ]
-
+∑u∈VM∑v∈Vtef(u,v).(14)
+IrPr=∑i=1pjωMr,iIm,i−∑i=p+1p+qjωM′r,iIm,i+jωM′ItZr=12|Ir|2RL.(2)(3)
 *******************new kind in JavaScript*************************
 var extent = function (params) {
             'use strict';
