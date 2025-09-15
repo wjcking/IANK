@@ -29,9 +29,3 @@ E:\land\land\mds\mfs.txt
 //凯斯特 卡丝他
 //希分:平行面维
 //多维面
-SetLastError = true
-
-static
-Change
-wire_transfer_information
-frequently
