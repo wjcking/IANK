@@ -9,7 +9,7 @@ C~^
 FTN.FXS~FLZ-S
 
 ~BЛ:ДIO-<er nr
-https://www.youtube.com/watch?v=70HblfSwGLk
+
 auxis@atomicmail.io
 wjcking@atomicmail.io
 
