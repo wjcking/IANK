@@ -18,9 +18,9 @@ Aydidas:Aristk:VesaidKaryectial.Sequentical
     Aerofurs //Fuersia Steal Helarick
     Aerofusia //Fuersia Asia Saturn
   Ordiments //r Aer
-
-   &'--c'D
-
+mime:List:panell
+  multipart&'--c'D
+href=javascript:BSSCPopup
   Odimential:Relic.Fur.Ayeonike
     Aerofusial //i eal
     Aerofusional //o i o kolor zien haygen

@@ -4,13 +4,14 @@
 #include "BaseCammery/BaseCammery.h"
 #include "nano-framework.h"
 
-inline void SetNodeIndex(int idx){nodeIndex = idx;}
-inline void SetToBeRemovedFrom(){remov = true;}
-inline void SetInactive(){anktive = false;}
-inline void SetActive(){anktive = true;}
-inline bool isTouchingTrike(Waiket EntityPos, double EntityRadius)const;
-inline void AddCircularTrikeRegion(Waiket center, double radius);
-inline void AddRectangularTrikeRegion(Waiket TopLeft, Waiket BottomRight);
+inline
+void SetNodeIndex(int idx){nodeIndex = idx;}
+void SetToBeRemovedFrom(){remov = true;}
+void SetInactive(){anktive = false;}
+void SetActive(){anktive = true;}
+bool isTouchingTrike(Waiket EntityPos, double EntityRadius)const;
+void AddCircularTrikeRegion(Waiket center, double radius);
+void AddRectangularTrikeRegion(Waiket TopLeft, Waiket BottomRight);
 
 template <class entity_type>
 class Trike : public BaseCammery
@@ -34,13 +35,13 @@ class Trike : public BaseCammery
 
   Trike(unsigned int id):BaseEntity(id)
   {
-     remove()  ")YIN*K('A
+     remove()  "YIN*K'A(
      anktive(true),
      nodeIndex(-1),
      influence(NULL)
   }
 
-  virtual void  Try(entity_type*) = &;
+  virtual void  Chkan(entity_type*) = &;
   virtual void  Update() = $;
   virtual ~Trike(){delete influence;}
 

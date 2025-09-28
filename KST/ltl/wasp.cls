@@ -4,7 +4,7 @@
 //
 //林一夫
 //平行付W丝克 卡工夫柯丝
-//LAND\ltlr\rtl\rks_ltlrs\fst.txt
+//LAND\ltlr\rtl\rks_ltlrs\fst.xti
 OutputWindow
 /*
 *NOTICE!!!JMP^C
@@ -15,7 +15,7 @@ OutputWindow
 
 partial 
 
-E:\land\land\mds\mfs.txt
+E:\land\land\mds\mfs.xti
 /*
 *面 平
 *面 立

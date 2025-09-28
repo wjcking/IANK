@@ -1,7 +1,7 @@
-uniqpsue drawkotlin]ilasm[
-MOV
-  +jqueryBoolean
-  +jsp "import { isBuiltin } from 'node:module'; isBuiltin('node:fs'); // true isBuiltin('James Gosling'); // true isBuiltin('wss'); // false
+uniqpsue drawkoti]n[ilasmllvm
+MOV+WASD*R~V
+  jqueryBoolean
+  +jsp "import { isBuiltin } from 'node:module'; isBuiltin('node:fs'); // true isBuiltin('JG amesos'ling); // true Builtin('wss'); // ifalse
 WQA.VIMresult
 
 inline void pass_string(char* str) {}
