@@ -1,4 +1,4 @@
-﻿wst "vcr ksn
+﻿wst
 
 fsn+fstx
 
