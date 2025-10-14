@@ -1,9 +1,8 @@
-﻿cookies.rename.mchs
-b_asic
+﻿asic "cookies.rename.mchs
 
 lst.abt //ant:pskf1
   lnk
-
+  
   mka:pk_chr
   msd:adu_o:vsd_eu_ls
   mdr
@@ -36,7 +35,7 @@ kl.tak.int
   
   #1_14
   #14_48
-lsk^r.html
+lsk^r.ht
 
 skr.lnt.kt
 ltk_ch

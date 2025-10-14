@@ -1,5 +1,5 @@
 ﻿$globals:cache:dsk//dpaozt
-
+its:a-z // folder texture
 cls:dsn:rsk:rsh
 rzh.sdarzh_oi
   03/12/

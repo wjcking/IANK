@@ -19,16 +19,14 @@ rks.rzh.rpls
 wab.bks.rstf.gat.lst.abt.kl.skn^s //order
 lmt
 
-cookies
+cbt
 lst.msk
 
-cookies
+cbt
 msk.dta.wab.url.wch_at^s
 
-cookies
+cbt
 lkt_shn
-
-cookies
 
 lck
   bks.tat:ktsf:url //bks_nks_t

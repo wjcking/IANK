@@ -1,9 +1,9 @@
 ﻿tns
 
 trk:ktr
-	l:irk:ilk
+	i:tsk-l
 	l:iank.tsn
-	l:tsk-i
+	l:irk:ilk
 	n:h.z.l 'F~B.K~T~S3M:ITV~S:ITX.ITY
 	
 	kns-trs

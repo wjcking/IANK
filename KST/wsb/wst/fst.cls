@@ -25,4 +25,4 @@ lst.abt.kl.skn^s //order rzh.sty^l
   emal:fantasy@mail.com
 lmt.flt.klr.hdn
 
-|Q = U·I·sinφ
+attr_accessor:= Q·U·I·sinφ

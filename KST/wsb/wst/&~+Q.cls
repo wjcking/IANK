@@ -1,4 +1,4 @@
-﻿Q = (Eq·U/Xd)·cosδ - U²/Xd "svg
+﻿Qps = (Eq·U/Xd)·cosδ - U²/Xd "svg
 
 text  style="fill:red;" font-size: 48px"hxy:x="10" y="20"
 
