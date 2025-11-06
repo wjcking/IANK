@@ -1,4 +1,5 @@
-﻿tns:tsn
+﻿knt
 kst
 
-//ktn
+tns:tsn
+'ktn

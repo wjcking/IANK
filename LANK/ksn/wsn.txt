@@ -1,6 +1,7 @@
 ﻿wst
 
-fsn+fstx
++fstx
+fsn
 
 Z~7 "fsk
 l1

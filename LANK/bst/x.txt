@@ -1,15 +1,12 @@
 v[t]
 ~W
   )
-  i
-    x
-    >
-      b.f.'*a:"O'
+  i:x:я
+      b.f.'*a:"Q'
          V
-       >l+l<
-         A
-      |isz;.?:Q
-    <
+       >l+l<K
+         Д
+      |isz;rc
   (
 -
 

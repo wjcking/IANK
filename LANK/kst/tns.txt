@@ -7,7 +7,7 @@ ktr-kdr
 	<kst:tsk~fsk-dst>
 	<skt:stk:kts-kkt~fst>
 	trk
-		"krs:krf.KRK~krt
+		"krs:krf~krt
 		kfs:fst
 	
 		"ist~vst-itl

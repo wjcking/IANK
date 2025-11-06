@@ -2,9 +2,10 @@
 
 trk:ktr
 	i:tsk-l
-	l:iank.tsn
+	l:iank "жsл
 	l:irk:ilk
-	n:h.z.l 'F~B.K~T~S3M:ITV~S:ITX.ITY
+	n:h.z.l 
+	'F~B.K~T~S3M:ITV~S:ITY:TSN
 	
 	kns-trs
 		l:k:t~kiz 'KAZ KAST

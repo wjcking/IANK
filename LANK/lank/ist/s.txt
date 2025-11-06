@@ -2,4 +2,5 @@
 S
 -
 
-//vzs:nts:vt~s:MTS:WTC
+WTC
+vzs:nts:vt~s:MTS:
