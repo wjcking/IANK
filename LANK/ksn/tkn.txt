@@ -1,5 +1,5 @@
-lank.ist-s
-//stk skr.itr-kl skt
+lank
+ist-stk //skr.itr-skt
 
 ktz	//skt.tsk:tsn
   tks
@@ -8,5 +8,5 @@ ktz	//skt.tsk:tsn
   //knt:kast
   kns'ai
   kns'kin //ltv-jnsz
-  knz //kt r-k ~z-szi
+  knz //kt r~k z--s
 ktn

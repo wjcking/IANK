@@ -6,14 +6,14 @@ IST
 ITS
 TSI
 
-;TSI.ITS.TSL-INT
-;SIT-LANK
-;TIS^LAND
+TNS.KNS.KSN
+TRC
+TSW
 
 ;-+S
 ;#'~
 ;^~+~%^
-TNS.KNS.KSN
 
-trc
-tsw
+;TSI.ITS.TSL-INT
+;SIT-LANK
+;TIS^LAND

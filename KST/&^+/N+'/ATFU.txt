@@ -30,7 +30,8 @@ Madask
 Manches-ITS*Mantes
 
 Fiud.Field.Lick(F)Lucid.Adis
-  Mansmetik:Mathematics
+  Mansmetik:Mathematicsv:i.r
+
   Fiziks:Physics
   Kerid
     P[H:ivy]Fae

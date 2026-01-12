@@ -3,11 +3,10 @@
 
 |LIK:DSR
 |KIRT-ITF-AST^][TSK KNT
-R^~" krfklf itf
+R^~" krf klf itf
 RFNS
-  ~KSR- "N1SHN DEFINITION
+  ~KSR "N1SHN DEFINITION
   ~KSN~IXR^L
   KRX
-  RTF TRFL FSK
-
+  FTR-FSK
 ЯDF

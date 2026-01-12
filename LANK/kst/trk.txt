@@ -5,7 +5,6 @@ szc
 -
   ts-r
     isk~lsk
-    |^+ "k
     xft~tft:tst
     ~t
     lank:v:f:irt:fsk

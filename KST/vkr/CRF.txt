@@ -18,10 +18,10 @@ kostnyy mozg "костный мозг
 gosky
 r
 marrow;
-Mark:emptyTrikeRegion
-find . -depth -type d \( -name Gaming.Desktop.x64 \) -exec rm -rv {} \;
-find . -depth -type d \( -name Gaming.Xbox.Scarlett.x64 \) -exec rm -rv {} \;
-find . -depth -type d \( -name Gaming.Xbox.XboxOne.x64 \) -exec rm -rv {} \;
+  MARK:EMPTYTRIKEREGION
+  FIND . -DEPTH -TYPE D \( -NAME GAMING.DESKTOP.X64 \) -EXEC RM -RV {} \;
+  FIND . -DEPTH -TYPE D \( -NAME GAMING.XBOX.SCARLETT.X64 \) -EXEC RM -RV {} \;
+  FIND . -DEPTH -TYPE D \( -NAME GAMING.XBOX.XBOXONE.X64 \) -EXEC RM -RV {} \;
 UNOCCUPIED
  BARE
  7-'A.l.R //+ ~= t
